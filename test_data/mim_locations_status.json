@@ -1,0 +1,1750 @@
+{
+"RECORDS":[
+{
+"lid":1,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:50",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":2,
+"status":"L----",
+"last_read_time":"1970\/1\/1 00:00:00",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"18114 days 14 hours 55 minutes "
+},
+{
+"lid":3,
+"status":"LC-A-",
+"last_read_time":"2019\/7\/21 22:58:05",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"15 days 15 hours 56 minutes "
+},
+{
+"lid":4,
+"status":"-----",
+"last_read_time":"2017\/2\/16 15:23:52",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"900 days 23 hours 31 minutes "
+},
+{
+"lid":5,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:29",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":6,
+"status":"-----",
+"last_read_time":"2018\/11\/8 00:21:13",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"271 days 14 hours 33 minutes "
+},
+{
+"lid":8,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:49",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":11,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:40",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":12,
+"status":"-C-A-",
+"last_read_time":"2015\/11\/14 03:36:48",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"1361 days 11 hours 18 minutes "
+},
+{
+"lid":13,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:49",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":14,
+"status":"-C-A-",
+"last_read_time":"2019\/7\/15 10:33:57",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"22 days 4 hours 21 minutes "
+},
+{
+"lid":15,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:58",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":16,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:49",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":17,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:55",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":18,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":19,
+"status":"-----",
+"last_read_time":"2016\/10\/13 15:08:47",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1026 days 23 hours 46 minutes "
+},
+{
+"lid":20,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:53",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":21,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":22,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":23,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:27",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":24,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":25,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:58",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":26,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":27,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":28,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":29,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":30,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:53",
+"good_readers":3,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":31,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":3,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":33,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:43",
+"good_readers":5,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":34,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":35,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":36,
+"status":"L----",
+"last_read_time":"2019\/6\/26 10:07:19",
+"good_readers":0,
+"bad_readers":1,
+"operational_percent":0.0,
+"failure_period":"41 days 4 hours 47 minutes "
+},
+{
+"lid":37,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:53",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":38,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:49",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":39,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:35",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":40,
+"status":"-C-A-",
+"last_read_time":"2019\/8\/6 14:49:06",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"5 minutes "
+},
+{
+"lid":41,
+"status":"---A-",
+"last_read_time":"2019\/6\/22 03:00:05",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"45 days 11 hours 54 minutes "
+},
+{
+"lid":42,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":43,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:49",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":44,
+"status":"LC-A-",
+"last_read_time":"2019\/3\/26 01:40:27",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"133 days 13 hours 14 minutes "
+},
+{
+"lid":45,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:58",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":46,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:50",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":47,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:50:30",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"4 minutes "
+},
+{
+"lid":48,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:42",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":49,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:48",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":50,
+"status":"L----",
+"last_read_time":"2019\/7\/1 10:58:49",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"36 days 3 hours 56 minutes "
+},
+{
+"lid":51,
+"status":"-C-A-",
+"last_read_time":"2019\/6\/18 23:55:24",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"48 days 14 hours 59 minutes "
+},
+{
+"lid":52,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:58",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":53,
+"status":"---A-",
+"last_read_time":"2017\/2\/16 15:23:47",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"900 days 23 hours 31 minutes "
+},
+{
+"lid":54,
+"status":"L----",
+"last_read_time":"2019\/7\/26 10:14:35",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"11 days 4 hours 40 minutes "
+},
+{
+"lid":55,
+"status":"-C-A-",
+"last_read_time":"2019\/8\/3 16:38:41",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"2 days 22 hours 16 minutes "
+},
+{
+"lid":56,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:28",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":57,
+"status":"-----",
+"last_read_time":"2019\/7\/24 22:06:46",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"12 days 16 hours 48 minutes "
+},
+{
+"lid":58,
+"status":"-----",
+"last_read_time":"2018\/11\/23 09:10:09",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"256 days 5 hours 44 minutes "
+},
+{
+"lid":59,
+"status":"-C-A-",
+"last_read_time":"2018\/11\/5 09:55:53",
+"good_readers":1,
+"bad_readers":2,
+"operational_percent":33.3,
+"failure_period":"274 days 4 hours 59 minutes "
+},
+{
+"lid":60,
+"status":"-C---",
+"last_read_time":"2019\/8\/5 10:09:22",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"1 days 4 hours 45 minutes "
+},
+{
+"lid":61,
+"status":"L----",
+"last_read_time":"2019\/4\/22 17:59:40",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"105 days 20 hours 55 minutes "
+},
+{
+"lid":62,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":63,
+"status":"-C-A-",
+"last_read_time":"2017\/2\/16 15:23:23",
+"good_readers":2,
+"bad_readers":1,
+"operational_percent":66.6,
+"failure_period":"900 days 23 hours 31 minutes "
+},
+{
+"lid":64,
+"status":"-C-A-",
+"last_read_time":"2019\/7\/11 23:47:25",
+"good_readers":0,
+"bad_readers":1,
+"operational_percent":0.0,
+"failure_period":"25 days 15 hours 7 minutes "
+},
+{
+"lid":65,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:58",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":66,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:50",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":67,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:55",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":68,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:57",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":69,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":70,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:52:09",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"2 minutes "
+},
+{
+"lid":71,
+"status":"L----",
+"last_read_time":"2017\/2\/16 15:24:42",
+"good_readers":0,
+"bad_readers":3,
+"operational_percent":0.0,
+"failure_period":"900 days 23 hours 30 minutes "
+},
+{
+"lid":72,
+"status":"-----",
+"last_read_time":"2019\/8\/6 12:41:30",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"2 hours 13 minutes "
+},
+{
+"lid":73,
+"status":"-C-A-",
+"last_read_time":"2019\/2\/27 10:36:54",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"160 days 4 hours 18 minutes "
+},
+{
+"lid":74,
+"status":"-----",
+"last_read_time":"2018\/5\/11 09:40:34",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"452 days 5 hours 14 minutes "
+},
+{
+"lid":75,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:08",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":76,
+"status":"-----",
+"last_read_time":"2019\/4\/15 10:12:41",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"113 days 4 hours 42 minutes "
+},
+{
+"lid":77,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":78,
+"status":"-----",
+"last_read_time":"2019\/1\/16 09:25:38",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"202 days 5 hours 29 minutes "
+},
+{
+"lid":79,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:54",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":80,
+"status":"---A-",
+"last_read_time":"2019\/6\/19 05:58:26",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"48 days 8 hours 56 minutes "
+},
+{
+"lid":81,
+"status":"-----",
+"last_read_time":"2019\/5\/7 17:31:17",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"90 days 21 hours 23 minutes "
+},
+{
+"lid":82,
+"status":"-C---",
+"last_read_time":"2019\/4\/23 21:31:34",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"104 days 17 hours 23 minutes "
+},
+{
+"lid":83,
+"status":"L----",
+"last_read_time":"2019\/4\/7 02:59:11",
+"good_readers":0,
+"bad_readers":1,
+"operational_percent":0.0,
+"failure_period":"121 days 11 hours 55 minutes "
+},
+{
+"lid":84,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:59",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":85,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":86,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:29",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":87,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:59",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":88,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":89,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:19",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":90,
+"status":"L----",
+"last_read_time":"2019\/7\/6 01:48:37",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"31 days 13 hours 6 minutes "
+},
+{
+"lid":91,
+"status":"-C---",
+"last_read_time":"2019\/7\/26 21:03:20",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"10 days 17 hours 51 minutes "
+},
+{
+"lid":92,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":93,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:57",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":94,
+"status":"-C-A-",
+"last_read_time":"2019\/5\/18 12:10:57",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"80 days 2 hours 44 minutes "
+},
+{
+"lid":95,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:53:43",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1 minutes "
+},
+{
+"lid":96,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:57",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":97,
+"status":"-C---",
+"last_read_time":"2018\/5\/11 09:38:33",
+"good_readers":2,
+"bad_readers":1,
+"operational_percent":66.6,
+"failure_period":"452 days 5 hours 16 minutes "
+},
+{
+"lid":98,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:46",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":99,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:36",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":100,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:14",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":101,
+"status":"-----",
+"last_read_time":"2019\/7\/12 08:57:17",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"25 days 5 hours 57 minutes "
+},
+{
+"lid":102,
+"status":"-C-A-",
+"last_read_time":"2019\/7\/12 06:12:26",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"25 days 8 hours 42 minutes "
+},
+{
+"lid":103,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:40",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":104,
+"status":"-----",
+"last_read_time":"2017\/2\/16 15:24:25",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"900 days 23 hours 30 minutes "
+},
+{
+"lid":105,
+"status":"L----",
+"last_read_time":"2019\/8\/4 14:45:15",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"2 days 9 minutes "
+},
+{
+"lid":106,
+"status":"L----",
+"last_read_time":"2019\/8\/2 15:20:12",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"3 days 23 hours 34 minutes "
+},
+{
+"lid":107,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":108,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:28",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":109,
+"status":"L----",
+"last_read_time":"2019\/5\/18 11:56:07",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"80 days 2 hours 58 minutes "
+},
+{
+"lid":110,
+"status":"L----",
+"last_read_time":"2016\/8\/23 20:30:56",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"1077 days 18 hours 24 minutes "
+},
+{
+"lid":111,
+"status":"L----",
+"last_read_time":"2019\/4\/20 10:10:46",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"108 days 4 hours 44 minutes "
+},
+{
+"lid":112,
+"status":"LC-A-",
+"last_read_time":"2019\/4\/4 20:02:25",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"123 days 18 hours 52 minutes "
+},
+{
+"lid":113,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:59",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":114,
+"status":"-----",
+"last_read_time":"2019\/6\/15 14:16:57",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"52 days 38 minutes "
+},
+{
+"lid":115,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:27",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":116,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:12",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":117,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:59",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":118,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:55",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":119,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:51",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":120,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:46",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":121,
+"status":"-----",
+"last_read_time":"2016\/10\/13 15:08:09",
+"good_readers":3,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1026 days 23 hours 46 minutes "
+},
+{
+"lid":122,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:27",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":123,
+"status":"-----",
+"last_read_time":"2017\/2\/5 12:46:08",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"912 days 2 hours 8 minutes "
+},
+{
+"lid":124,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:52",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":125,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:57",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":126,
+"status":"L----",
+"last_read_time":"2019\/5\/12 03:28:50",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"86 days 11 hours 26 minutes "
+},
+{
+"lid":127,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:50",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":128,
+"status":"-----",
+"last_read_time":"2016\/10\/13 15:08:50",
+"good_readers":2,
+"bad_readers":2,
+"operational_percent":50.0,
+"failure_period":"1026 days 23 hours 46 minutes "
+},
+{
+"lid":129,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:57",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":130,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:36",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":131,
+"status":"-C-A-",
+"last_read_time":"2015\/7\/2 16:15:24",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"1495 days 22 hours 39 minutes "
+},
+{
+"lid":132,
+"status":"-----",
+"last_read_time":"2014\/6\/25 18:30:24",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"1867 days 20 hours 24 minutes "
+},
+{
+"lid":133,
+"status":"-C-A-",
+"last_read_time":"2018\/10\/14 23:56:53",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"295 days 14 hours 58 minutes "
+},
+{
+"lid":134,
+"status":"-----",
+"last_read_time":"2019\/8\/5 12:40:23",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"1 days 2 hours 14 minutes "
+},
+{
+"lid":135,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:39",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":136,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":137,
+"status":"-C-A-",
+"last_read_time":"2019\/7\/11 11:04:02",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"26 days 3 hours 51 minutes "
+},
+{
+"lid":138,
+"status":"-C-A-",
+"last_read_time":"2014\/8\/1 19:41:05",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"1830 days 19 hours 13 minutes "
+},
+{
+"lid":139,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:53:59",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1 minutes "
+},
+{
+"lid":140,
+"status":"-C-A-",
+"last_read_time":"2017\/2\/16 15:24:50",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"900 days 23 hours 30 minutes "
+},
+{
+"lid":141,
+"status":"-----",
+"last_read_time":"2017\/2\/16 14:22:57",
+"good_readers":3,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"901 days 32 minutes "
+},
+{
+"lid":142,
+"status":"-----",
+"last_read_time":"2017\/2\/16 13:41:18",
+"good_readers":8,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"901 days 1 hours 13 minutes "
+},
+{
+"lid":143,
+"status":"-----",
+"last_read_time":"2017\/2\/16 15:24:49",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"900 days 23 hours 30 minutes "
+},
+{
+"lid":144,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:12",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":145,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:55",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":146,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:46",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":147,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:39",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":148,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:41",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":149,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:41",
+"good_readers":5,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":150,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:46",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":151,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:59",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":152,
+"status":"-----",
+"last_read_time":"2016\/10\/13 15:08:31",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1026 days 23 hours 46 minutes "
+},
+{
+"lid":153,
+"status":"-----",
+"last_read_time":"2016\/2\/14 12:23:55",
+"good_readers":2,
+"bad_readers":1,
+"operational_percent":66.6,
+"failure_period":"1269 days 2 hours 31 minutes "
+},
+{
+"lid":154,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:28",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":155,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:30",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":156,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:53:43",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1 minutes "
+},
+{
+"lid":157,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:35",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":158,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:40",
+"good_readers":3,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":159,
+"status":"-C---",
+"last_read_time":"2016\/9\/7 09:26:05",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"1063 days 5 hours 28 minutes "
+},
+{
+"lid":160,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:47",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":161,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":162,
+"status":"-----",
+"last_read_time":"2019\/4\/7 12:55:24",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"121 days 1 hours 59 minutes "
+},
+{
+"lid":163,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:33",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":164,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":165,
+"status":"-----",
+"last_read_time":"2019\/5\/25 02:51:13",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"73 days 12 hours 3 minutes "
+},
+{
+"lid":166,
+"status":"L----",
+"last_read_time":"2019\/1\/20 13:56:15",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"198 days 58 minutes "
+},
+{
+"lid":167,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:53",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":168,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:30",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":169,
+"status":"L----",
+"last_read_time":"2019\/5\/27 23:45:03",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"70 days 15 hours 9 minutes "
+},
+{
+"lid":170,
+"status":"-C---",
+"last_read_time":"2019\/8\/6 14:54:40",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":171,
+"status":"-C-A-",
+"last_read_time":"2019\/7\/1 07:23:44",
+"good_readers":0,
+"bad_readers":1,
+"operational_percent":0.0,
+"failure_period":"36 days 7 hours 31 minutes "
+},
+{
+"lid":172,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":173,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:58",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":174,
+"status":"-----",
+"last_read_time":"2017\/2\/16 15:24:48",
+"good_readers":4,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"900 days 23 hours 30 minutes "
+},
+{
+"lid":175,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:57",
+"good_readers":3,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":176,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":177,
+"status":"-----",
+"last_read_time":"2019\/5\/5 02:27:21",
+"good_readers":2,
+"bad_readers":1,
+"operational_percent":66.6,
+"failure_period":"93 days 12 hours 27 minutes "
+},
+{
+"lid":178,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:51",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":179,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:10",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":180,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:35",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":181,
+"status":"-----",
+"last_read_time":"2019\/7\/5 15:08:34",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"31 days 23 hours 46 minutes "
+},
+{
+"lid":182,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:53:40",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1 minutes "
+},
+{
+"lid":183,
+"status":"-----",
+"last_read_time":"2019\/7\/27 15:27:33",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"9 days 23 hours 27 minutes "
+},
+{
+"lid":184,
+"status":"-----",
+"last_read_time":"2019\/2\/9 07:03:04",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"178 days 7 hours 51 minutes "
+},
+{
+"lid":185,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:51:19",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"3 minutes "
+},
+{
+"lid":186,
+"status":"L----",
+"last_read_time":"2018\/12\/27 23:30:33",
+"good_readers":0,
+"bad_readers":4,
+"operational_percent":0.0,
+"failure_period":"221 days 15 hours 24 minutes "
+},
+{
+"lid":187,
+"status":"L----",
+"last_read_time":"2016\/5\/25 13:13:50",
+"good_readers":0,
+"bad_readers":2,
+"operational_percent":0.0,
+"failure_period":"1168 days 1 hours 41 minutes "
+},
+{
+"lid":188,
+"status":"-C-A-",
+"last_read_time":"2019\/3\/9 10:27:06",
+"good_readers":1,
+"bad_readers":1,
+"operational_percent":50.0,
+"failure_period":"150 days 4 hours 27 minutes "
+},
+{
+"lid":189,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:55:00",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":190,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:57",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":191,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:54",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":192,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:58",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":193,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:53:50",
+"good_readers":2,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"1 minutes "
+},
+{
+"lid":194,
+"status":"-C-A-",
+"last_read_time":"2019\/8\/5 11:40:48",
+"good_readers":0,
+"bad_readers":1,
+"operational_percent":0.0,
+"failure_period":"1 days 3 hours 14 minutes "
+},
+{
+"lid":195,
+"status":"-C-A-",
+"last_read_time":"2019\/8\/4 11:41:58",
+"good_readers":0,
+"bad_readers":1,
+"operational_percent":0.0,
+"failure_period":"2 days 3 hours 13 minutes "
+},
+{
+"lid":196,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:56",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":197,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:55",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+},
+{
+"lid":198,
+"status":"-----",
+"last_read_time":"2019\/8\/6 14:54:55",
+"good_readers":1,
+"bad_readers":0,
+"operational_percent":100.0,
+"failure_period":"0 minutes "
+}
+]
+}

@@ -1,32 +1,91 @@
-<!doctype html>
-<html class="no-js" lang="">
+<!DOCTYPE html>
+<html class="no-js">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Flowmap</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- style sheets -->
+		<link rel="stylesheet" type="text/css" href="css/jquery.datetimepicker.css"/ >
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/jquery-ui.min.css">
 
-<head>
-  <meta charset="utf-8">
-  <title></title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+		<script src="js/plugins.js"></script>
 
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
-  <!-- Place favicon.ico in the root directory -->
+		<!--[if lt IE 8]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+		<![endif]-->
 
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
+		<!-- start of app -->
 
-  <meta name="theme-color" content="#fafafa">
-</head>
+		<div id="wrapper1">
 
-<body>
-  <!--[if IE]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  <![endif]-->
+			<!-- header section -->
+			<header id="header" class="mainHeader">
+				<div id="appTitle" class="appTitle">Flowmap</div>
 
-  <!-- Add your site or application content here -->
-  <p>Hello world</p>
-  <script src="js/vendor/modernizr-3.7.1.min.js"></script>
-  <script src="js/vendor/jquery-3.4.1.min.js"></script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+				<div id='liveTime' class="liveTime">
+					<div id='timeDiv' class="timeDiv">
+						time
+					</div>
+					<div id="dateDiv" class="dateDiv">
+						date
+					</div>
+				</div>
+			</header>
+			<!-- end of header section -->
 
+			<!--contents -->
+			<div id="content" class="mainContent">
+
+				<div id="mapCanvas">
+				Map Canvas
+				</div>
+
+			</div>
+			<!-- end of contents section -->
+
+			<!-- footer section -->
+			<footer id="footer" class="mainFooter">
+				<span id="timeLeft">Seconds left until next refresh: </span>
+			</footer>
+			<!-- end of footer section -->
+
+		</div>
+
+		<!--overlay will hold the chart and serves as a modal pop up when a link is clicked. by default its set to invisible until an onclick event is fired from the selected link-->
+		<div id="overlay">
+			<div id="overlayContent">
+				<div id="closeBtn" title="Close" class="close" onclick="closeChartIw()">
+					X
+				</div>
+			</div>
+		</div>
+
+
+		<!-- vendor sources -->
+		<script src="js/vendor/modernizr-latest.js"></script>
+		<script src="js/vendor/jquery-1.11.1.min.js"></script>
+		<script src="js/vendor/external/jquery/jquery.js"></script>
+		<script src="js/vendor/jquery-ui.min.js"></script>
+		<script src="js/vendor/moment.min.js"></script>
+		<script src="js/jquery.datetimepicker.min.js"></script>
+
+		<script src="js/vendor/amcharts.js" ></script>
+		<script src="js/vendor/serial.js"></script>
+		<script src="js/vendor/amstock.js"></script>
+		<!--end of vendor sources --->
+
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBke3F2PDxq6RoQNW_LD9eN94ZQk7eRUUA&libraries=geometry"></script>
+		<script src="js/Timer.js"></script>
+		<script src="js/infobox_packed.js" type="text/javascript"></script>
+		<script src="js/gmap_style.js"></script>
+		<script src="js/myCustomControls.js"></script>
+		<script src="js/main.js"></script>
+	</body>
 </html>

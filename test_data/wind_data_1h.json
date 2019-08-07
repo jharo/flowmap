@@ -1,0 +1,554 @@
+{
+"RECORDS":[
+{
+"qbb_time":"2019\/8\/6 13:55:00",
+"bkb_time":"2019\/8\/6 13:55:00",
+"qbb_wind_speed_mph":6.87,
+"bkb_wind_speed_mph":5.80,
+"qbb_peak_wind_speed_mph":8.86,
+"bkb_peak_wind_speed_mph":8.30,
+"qbb_wind_direction_degrees":168.35,
+"bkb_wind_direction_degrees":154.81
+},
+{
+"qbb_time":"2019\/8\/6 13:56:00",
+"bkb_time":"2019\/8\/6 13:56:00",
+"qbb_wind_speed_mph":6.20,
+"bkb_wind_speed_mph":4.87,
+"qbb_peak_wind_speed_mph":9.92,
+"bkb_peak_wind_speed_mph":7.99,
+"qbb_wind_direction_degrees":146.43,
+"bkb_wind_direction_degrees":152.92
+},
+{
+"qbb_time":"2019\/8\/6 13:57:00",
+"bkb_time":"2019\/8\/6 13:57:00",
+"qbb_wind_speed_mph":8.80,
+"bkb_wind_speed_mph":3.30,
+"qbb_peak_wind_speed_mph":11.06,
+"bkb_peak_wind_speed_mph":6.61,
+"qbb_wind_direction_degrees":157.70,
+"bkb_wind_direction_degrees":151.53
+},
+{
+"qbb_time":"2019\/8\/6 13:58:00",
+"bkb_time":"2019\/8\/6 13:58:00",
+"qbb_wind_speed_mph":7.05,
+"bkb_wind_speed_mph":4.47,
+"qbb_peak_wind_speed_mph":11.26,
+"bkb_peak_wind_speed_mph":7.62,
+"qbb_wind_direction_degrees":142.34,
+"bkb_wind_direction_degrees":175.45
+},
+{
+"qbb_time":"2019\/8\/6 13:59:00",
+"bkb_time":"2019\/8\/6 13:59:00",
+"qbb_wind_speed_mph":8.11,
+"bkb_wind_speed_mph":3.56,
+"qbb_peak_wind_speed_mph":9.71,
+"bkb_peak_wind_speed_mph":6.85,
+"qbb_wind_direction_degrees":142.76,
+"bkb_wind_direction_degrees":154.69
+},
+{
+"qbb_time":"2019\/8\/6 14:00:00",
+"bkb_time":"2019\/8\/6 14:00:00",
+"qbb_wind_speed_mph":6.49,
+"bkb_wind_speed_mph":1.44,
+"qbb_peak_wind_speed_mph":8.81,
+"bkb_peak_wind_speed_mph":3.20,
+"qbb_wind_direction_degrees":150.23,
+"bkb_wind_direction_degrees":243.06
+},
+{
+"qbb_time":"2019\/8\/6 14:01:00",
+"bkb_time":"2019\/8\/6 14:01:00",
+"qbb_wind_speed_mph":6.58,
+"bkb_wind_speed_mph":3.34,
+"qbb_peak_wind_speed_mph":8.95,
+"bkb_peak_wind_speed_mph":5.71,
+"qbb_wind_direction_degrees":168.98,
+"bkb_wind_direction_degrees":183.57
+},
+{
+"qbb_time":"2019\/8\/6 14:02:00",
+"bkb_time":"2019\/8\/6 14:02:00",
+"qbb_wind_speed_mph":7.98,
+"bkb_wind_speed_mph":4.01,
+"qbb_peak_wind_speed_mph":11.01,
+"bkb_peak_wind_speed_mph":6.08,
+"qbb_wind_direction_degrees":163.89,
+"bkb_wind_direction_degrees":184.64
+},
+{
+"qbb_time":"2019\/8\/6 14:03:00",
+"bkb_time":"2019\/8\/6 14:03:00",
+"qbb_wind_speed_mph":8.21,
+"bkb_wind_speed_mph":3.30,
+"qbb_peak_wind_speed_mph":11.59,
+"bkb_peak_wind_speed_mph":4.49,
+"qbb_wind_direction_degrees":175.65,
+"bkb_wind_direction_degrees":174.46
+},
+{
+"qbb_time":"2019\/8\/6 14:04:00",
+"bkb_time":"2019\/8\/6 14:04:00",
+"qbb_wind_speed_mph":7.92,
+"bkb_wind_speed_mph":2.42,
+"qbb_peak_wind_speed_mph":12.34,
+"bkb_peak_wind_speed_mph":4.30,
+"qbb_wind_direction_degrees":162.10,
+"bkb_wind_direction_degrees":98.37
+},
+{
+"qbb_time":"2019\/8\/6 14:05:00",
+"bkb_time":"2019\/8\/6 14:05:00",
+"qbb_wind_speed_mph":9.52,
+"bkb_wind_speed_mph":1.66,
+"qbb_peak_wind_speed_mph":12.08,
+"bkb_peak_wind_speed_mph":3.63,
+"qbb_wind_direction_degrees":158.33,
+"bkb_wind_direction_degrees":58.12
+},
+{
+"qbb_time":"2019\/8\/6 14:06:00",
+"bkb_time":"2019\/8\/6 14:06:00",
+"qbb_wind_speed_mph":8.43,
+"bkb_wind_speed_mph":5.19,
+"qbb_peak_wind_speed_mph":10.77,
+"bkb_peak_wind_speed_mph":8.30,
+"qbb_wind_direction_degrees":153.50,
+"bkb_wind_direction_degrees":93.24
+},
+{
+"qbb_time":"2019\/8\/6 14:07:00",
+"bkb_time":"2019\/8\/6 14:07:00",
+"qbb_wind_speed_mph":4.92,
+"bkb_wind_speed_mph":4.08,
+"qbb_peak_wind_speed_mph":7.50,
+"bkb_peak_wind_speed_mph":6.50,
+"qbb_wind_direction_degrees":153.99,
+"bkb_wind_direction_degrees":113.51
+},
+{
+"qbb_time":"2019\/8\/6 14:08:00",
+"bkb_time":"2019\/8\/6 14:08:00",
+"qbb_wind_speed_mph":6.74,
+"bkb_wind_speed_mph":3.39,
+"qbb_peak_wind_speed_mph":9.11,
+"bkb_peak_wind_speed_mph":6.26,
+"qbb_wind_direction_degrees":165.72,
+"bkb_wind_direction_degrees":118.63
+},
+{
+"qbb_time":"2019\/8\/6 14:09:00",
+"bkb_time":"2019\/8\/6 14:09:00",
+"qbb_wind_speed_mph":7.05,
+"bkb_wind_speed_mph":6.35,
+"qbb_peak_wind_speed_mph":9.40,
+"bkb_peak_wind_speed_mph":8.32,
+"qbb_wind_direction_degrees":170.10,
+"bkb_wind_direction_degrees":118.60
+},
+{
+"qbb_time":"2019\/8\/6 14:10:00",
+"bkb_time":"2019\/8\/6 14:10:00",
+"qbb_wind_speed_mph":5.39,
+"bkb_wind_speed_mph":3.40,
+"qbb_peak_wind_speed_mph":8.73,
+"bkb_peak_wind_speed_mph":6.83,
+"qbb_wind_direction_degrees":160.40,
+"bkb_wind_direction_degrees":110.37
+},
+{
+"qbb_time":"2019\/8\/6 14:11:00",
+"bkb_time":"2019\/8\/6 14:11:00",
+"qbb_wind_speed_mph":4.91,
+"bkb_wind_speed_mph":2.11,
+"qbb_peak_wind_speed_mph":8.70,
+"bkb_peak_wind_speed_mph":4.67,
+"qbb_wind_direction_degrees":136.29,
+"bkb_wind_direction_degrees":102.12
+},
+{
+"qbb_time":"2019\/8\/6 14:12:00",
+"bkb_time":"2019\/8\/6 14:12:00",
+"qbb_wind_speed_mph":5.76,
+"bkb_wind_speed_mph":2.19,
+"qbb_peak_wind_speed_mph":8.34,
+"bkb_peak_wind_speed_mph":4.26,
+"qbb_wind_direction_degrees":171.52,
+"bkb_wind_direction_degrees":122.83
+},
+{
+"qbb_time":"2019\/8\/6 14:13:00",
+"bkb_time":"2019\/8\/6 14:13:00",
+"qbb_wind_speed_mph":6.57,
+"bkb_wind_speed_mph":3.22,
+"qbb_peak_wind_speed_mph":8.07,
+"bkb_peak_wind_speed_mph":4.65,
+"qbb_wind_direction_degrees":170.19,
+"bkb_wind_direction_degrees":148.08
+},
+{
+"qbb_time":"2019\/8\/6 14:14:00",
+"bkb_time":"2019\/8\/6 14:14:00",
+"qbb_wind_speed_mph":7.56,
+"bkb_wind_speed_mph":1.36,
+"qbb_peak_wind_speed_mph":9.01,
+"bkb_peak_wind_speed_mph":2.51,
+"qbb_wind_direction_degrees":165.95,
+"bkb_wind_direction_degrees":152.03
+},
+{
+"qbb_time":"2019\/8\/6 14:15:00",
+"bkb_time":"2019\/8\/6 14:15:00",
+"qbb_wind_speed_mph":7.05,
+"bkb_wind_speed_mph":1.85,
+"qbb_peak_wind_speed_mph":9.22,
+"bkb_peak_wind_speed_mph":3.47,
+"qbb_wind_direction_degrees":162.19,
+"bkb_wind_direction_degrees":114.45
+},
+{
+"qbb_time":"2019\/8\/6 14:16:00",
+"bkb_time":"2019\/8\/6 14:16:00",
+"qbb_wind_speed_mph":7.85,
+"bkb_wind_speed_mph":1.26,
+"qbb_peak_wind_speed_mph":9.76,
+"bkb_peak_wind_speed_mph":2.51,
+"qbb_wind_direction_degrees":162.07,
+"bkb_wind_direction_degrees":296.24
+},
+{
+"qbb_time":"2019\/8\/6 14:17:00",
+"bkb_time":"2019\/8\/6 14:17:00",
+"qbb_wind_speed_mph":5.87,
+"bkb_wind_speed_mph":1.95,
+"qbb_peak_wind_speed_mph":9.90,
+"bkb_peak_wind_speed_mph":3.36,
+"qbb_wind_direction_degrees":119.32,
+"bkb_wind_direction_degrees":13.90
+},
+{
+"qbb_time":"2019\/8\/6 14:18:00",
+"bkb_time":"2019\/8\/6 14:18:00",
+"qbb_wind_speed_mph":3.61,
+"bkb_wind_speed_mph":4.82,
+"qbb_peak_wind_speed_mph":7.46,
+"bkb_peak_wind_speed_mph":8.09,
+"qbb_wind_direction_degrees":124.64,
+"bkb_wind_direction_degrees":120.31
+},
+{
+"qbb_time":"2019\/8\/6 14:19:00",
+"bkb_time":"2019\/8\/6 14:19:00",
+"qbb_wind_speed_mph":3.01,
+"bkb_wind_speed_mph":1.16,
+"qbb_peak_wind_speed_mph":6.75,
+"bkb_peak_wind_speed_mph":4.57,
+"qbb_wind_direction_degrees":121.56,
+"bkb_wind_direction_degrees":64.22
+},
+{
+"qbb_time":"2019\/8\/6 14:20:00",
+"bkb_time":"2019\/8\/6 14:20:00",
+"qbb_wind_speed_mph":6.22,
+"bkb_wind_speed_mph":2.52,
+"qbb_peak_wind_speed_mph":12.19,
+"bkb_peak_wind_speed_mph":5.31,
+"qbb_wind_direction_degrees":132.79,
+"bkb_wind_direction_degrees":122.23
+},
+{
+"qbb_time":"2019\/8\/6 14:21:00",
+"bkb_time":"2019\/8\/6 14:21:00",
+"qbb_wind_speed_mph":6.98,
+"bkb_wind_speed_mph":2.59,
+"qbb_peak_wind_speed_mph":8.11,
+"bkb_peak_wind_speed_mph":6.96,
+"qbb_wind_direction_degrees":161.69,
+"bkb_wind_direction_degrees":110.10
+},
+{
+"qbb_time":"2019\/8\/6 14:22:00",
+"bkb_time":"2019\/8\/6 14:22:00",
+"qbb_wind_speed_mph":6.82,
+"bkb_wind_speed_mph":3.57,
+"qbb_peak_wind_speed_mph":9.12,
+"bkb_peak_wind_speed_mph":5.34,
+"qbb_wind_direction_degrees":164.63,
+"bkb_wind_direction_degrees":100.70
+},
+{
+"qbb_time":"2019\/8\/6 14:23:00",
+"bkb_time":"2019\/8\/6 14:23:00",
+"qbb_wind_speed_mph":6.90,
+"bkb_wind_speed_mph":5.53,
+"qbb_peak_wind_speed_mph":7.82,
+"bkb_peak_wind_speed_mph":8.18,
+"qbb_wind_direction_degrees":169.43,
+"bkb_wind_direction_degrees":96.92
+},
+{
+"qbb_time":"2019\/8\/6 14:24:00",
+"bkb_time":"2019\/8\/6 14:24:00",
+"qbb_wind_speed_mph":6.72,
+"bkb_wind_speed_mph":7.00,
+"qbb_peak_wind_speed_mph":8.85,
+"bkb_peak_wind_speed_mph":10.13,
+"qbb_wind_direction_degrees":170.26,
+"bkb_wind_direction_degrees":106.29
+},
+{
+"qbb_time":"2019\/8\/6 14:25:00",
+"bkb_time":"2019\/8\/6 14:25:00",
+"qbb_wind_speed_mph":4.09,
+"bkb_wind_speed_mph":4.83,
+"qbb_peak_wind_speed_mph":7.23,
+"bkb_peak_wind_speed_mph":8.32,
+"qbb_wind_direction_degrees":150.11,
+"bkb_wind_direction_degrees":117.49
+},
+{
+"qbb_time":"2019\/8\/6 14:26:00",
+"bkb_time":"2019\/8\/6 14:26:00",
+"qbb_wind_speed_mph":6.38,
+"bkb_wind_speed_mph":5.02,
+"qbb_peak_wind_speed_mph":10.00,
+"bkb_peak_wind_speed_mph":9.32,
+"qbb_wind_direction_degrees":135.85,
+"bkb_wind_direction_degrees":131.70
+},
+{
+"qbb_time":"2019\/8\/6 14:27:00",
+"bkb_time":"2019\/8\/6 14:27:00",
+"qbb_wind_speed_mph":5.45,
+"bkb_wind_speed_mph":3.82,
+"qbb_peak_wind_speed_mph":8.05,
+"bkb_peak_wind_speed_mph":7.12,
+"qbb_wind_direction_degrees":150.32,
+"bkb_wind_direction_degrees":116.18
+},
+{
+"qbb_time":"2019\/8\/6 14:28:00",
+"bkb_time":"2019\/8\/6 14:28:00",
+"qbb_wind_speed_mph":6.00,
+"bkb_wind_speed_mph":1.68,
+"qbb_peak_wind_speed_mph":11.90,
+"bkb_peak_wind_speed_mph":3.27,
+"qbb_wind_direction_degrees":164.26,
+"bkb_wind_direction_degrees":95.81
+},
+{
+"qbb_time":"2019\/8\/6 14:29:00",
+"bkb_time":"2019\/8\/6 14:29:00",
+"qbb_wind_speed_mph":8.11,
+"bkb_wind_speed_mph":2.15,
+"qbb_peak_wind_speed_mph":9.73,
+"bkb_peak_wind_speed_mph":6.43,
+"qbb_wind_direction_degrees":159.24,
+"bkb_wind_direction_degrees":72.26
+},
+{
+"qbb_time":"2019\/8\/6 14:30:00",
+"bkb_time":"2019\/8\/6 14:30:00",
+"qbb_wind_speed_mph":4.18,
+"bkb_wind_speed_mph":5.42,
+"qbb_peak_wind_speed_mph":8.90,
+"bkb_peak_wind_speed_mph":8.82,
+"qbb_wind_direction_degrees":135.02,
+"bkb_wind_direction_degrees":116.87
+},
+{
+"qbb_time":"2019\/8\/6 14:31:00",
+"bkb_time":"2019\/8\/6 14:31:00",
+"qbb_wind_speed_mph":3.70,
+"bkb_wind_speed_mph":3.86,
+"qbb_peak_wind_speed_mph":7.33,
+"bkb_peak_wind_speed_mph":6.00,
+"qbb_wind_direction_degrees":117.69,
+"bkb_wind_direction_degrees":141.58
+},
+{
+"qbb_time":"2019\/8\/6 14:32:00",
+"bkb_time":"2019\/8\/6 14:32:00",
+"qbb_wind_speed_mph":5.63,
+"bkb_wind_speed_mph":4.44,
+"qbb_peak_wind_speed_mph":9.57,
+"bkb_peak_wind_speed_mph":6.40,
+"qbb_wind_direction_degrees":160.12,
+"bkb_wind_direction_degrees":143.48
+},
+{
+"qbb_time":"2019\/8\/6 14:33:00",
+"bkb_time":"2019\/8\/6 14:33:00",
+"qbb_wind_speed_mph":1.80,
+"bkb_wind_speed_mph":7.81,
+"qbb_peak_wind_speed_mph":3.40,
+"bkb_peak_wind_speed_mph":9.51,
+"qbb_wind_direction_degrees":42.09,
+"bkb_wind_direction_degrees":164.40
+},
+{
+"qbb_time":"2019\/8\/6 14:34:00",
+"bkb_time":"2019\/8\/6 14:34:00",
+"qbb_wind_speed_mph":2.67,
+"bkb_wind_speed_mph":9.02,
+"qbb_peak_wind_speed_mph":6.32,
+"bkb_peak_wind_speed_mph":11.64,
+"qbb_wind_direction_degrees":104.70,
+"bkb_wind_direction_degrees":173.31
+},
+{
+"qbb_time":"2019\/8\/6 14:35:00",
+"bkb_time":"2019\/8\/6 14:35:00",
+"qbb_wind_speed_mph":1.94,
+"bkb_wind_speed_mph":9.43,
+"qbb_peak_wind_speed_mph":3.77,
+"bkb_peak_wind_speed_mph":12.04,
+"qbb_wind_direction_degrees":79.33,
+"bkb_wind_direction_degrees":158.24
+},
+{
+"qbb_time":"2019\/8\/6 14:36:00",
+"bkb_time":"2019\/8\/6 14:36:00",
+"qbb_wind_speed_mph":2.04,
+"bkb_wind_speed_mph":7.87,
+"qbb_peak_wind_speed_mph":4.72,
+"bkb_peak_wind_speed_mph":10.34,
+"qbb_wind_direction_degrees":95.61,
+"bkb_wind_direction_degrees":160.13
+},
+{
+"qbb_time":"2019\/8\/6 14:37:00",
+"bkb_time":"2019\/8\/6 14:37:00",
+"qbb_wind_speed_mph":3.34,
+"bkb_wind_speed_mph":7.11,
+"qbb_peak_wind_speed_mph":9.47,
+"bkb_peak_wind_speed_mph":10.56,
+"qbb_wind_direction_degrees":108.30,
+"bkb_wind_direction_degrees":156.05
+},
+{
+"qbb_time":"2019\/8\/6 14:38:00",
+"bkb_time":"2019\/8\/6 14:38:00",
+"qbb_wind_speed_mph":6.11,
+"bkb_wind_speed_mph":4.07,
+"qbb_peak_wind_speed_mph":10.52,
+"bkb_peak_wind_speed_mph":6.97,
+"qbb_wind_direction_degrees":103.21,
+"bkb_wind_direction_degrees":167.48
+},
+{
+"qbb_time":"2019\/8\/6 14:39:00",
+"bkb_time":"2019\/8\/6 14:39:00",
+"qbb_wind_speed_mph":6.73,
+"bkb_wind_speed_mph":5.00,
+"qbb_peak_wind_speed_mph":8.98,
+"bkb_peak_wind_speed_mph":6.71,
+"qbb_wind_direction_degrees":121.85,
+"bkb_wind_direction_degrees":189.01
+},
+{
+"qbb_time":"2019\/8\/6 14:40:00",
+"bkb_time":"2019\/8\/6 14:40:00",
+"qbb_wind_speed_mph":4.08,
+"bkb_wind_speed_mph":7.07,
+"qbb_peak_wind_speed_mph":9.70,
+"bkb_peak_wind_speed_mph":10.38,
+"qbb_wind_direction_degrees":123.04,
+"bkb_wind_direction_degrees":169.45
+},
+{
+"qbb_time":"2019\/8\/6 14:41:00",
+"bkb_time":"2019\/8\/6 14:41:00",
+"qbb_wind_speed_mph":5.55,
+"bkb_wind_speed_mph":8.01,
+"qbb_peak_wind_speed_mph":9.27,
+"bkb_peak_wind_speed_mph":9.98,
+"qbb_wind_direction_degrees":119.46,
+"bkb_wind_direction_degrees":152.46
+},
+{
+"qbb_time":"2019\/8\/6 14:42:00",
+"bkb_time":"2019\/8\/6 14:42:00",
+"qbb_wind_speed_mph":2.85,
+"bkb_wind_speed_mph":8.93,
+"qbb_peak_wind_speed_mph":5.37,
+"bkb_peak_wind_speed_mph":10.78,
+"qbb_wind_direction_degrees":137.49,
+"bkb_wind_direction_degrees":145.52
+},
+{
+"qbb_time":"2019\/8\/6 14:43:00",
+"bkb_time":"2019\/8\/6 14:43:00",
+"qbb_wind_speed_mph":6.36,
+"bkb_wind_speed_mph":6.16,
+"qbb_peak_wind_speed_mph":11.88,
+"bkb_peak_wind_speed_mph":9.57,
+"qbb_wind_direction_degrees":118.90,
+"bkb_wind_direction_degrees":157.78
+},
+{
+"qbb_time":"2019\/8\/6 14:44:00",
+"bkb_time":"2019\/8\/6 14:44:00",
+"qbb_wind_speed_mph":7.21,
+"bkb_wind_speed_mph":9.24,
+"qbb_peak_wind_speed_mph":10.39,
+"bkb_peak_wind_speed_mph":12.23,
+"qbb_wind_direction_degrees":107.28,
+"bkb_wind_direction_degrees":145.42
+},
+{
+"qbb_time":"2019\/8\/6 14:45:00",
+"bkb_time":"2019\/8\/6 14:45:00",
+"qbb_wind_speed_mph":4.81,
+"bkb_wind_speed_mph":8.43,
+"qbb_peak_wind_speed_mph":9.42,
+"bkb_peak_wind_speed_mph":11.58,
+"qbb_wind_direction_degrees":117.90,
+"bkb_wind_direction_degrees":147.88
+},
+{
+"qbb_time":"2019\/8\/6 14:46:00",
+"bkb_time":"2019\/8\/6 14:46:00",
+"qbb_wind_speed_mph":4.92,
+"bkb_wind_speed_mph":8.84,
+"qbb_peak_wind_speed_mph":6.84,
+"bkb_peak_wind_speed_mph":12.30,
+"qbb_wind_direction_degrees":115.71,
+"bkb_wind_direction_degrees":163.10
+},
+{
+"qbb_time":"2019\/8\/6 14:47:00",
+"bkb_time":"2019\/8\/6 14:47:00",
+"qbb_wind_speed_mph":3.30,
+"bkb_wind_speed_mph":8.62,
+"qbb_peak_wind_speed_mph":6.54,
+"bkb_peak_wind_speed_mph":11.55,
+"qbb_wind_direction_degrees":121.30,
+"bkb_wind_direction_degrees":169.39
+},
+{
+"qbb_time":"2019\/8\/6 14:48:00",
+"bkb_time":"2019\/8\/6 14:48:00",
+"qbb_wind_speed_mph":4.67,
+"bkb_wind_speed_mph":8.06,
+"qbb_peak_wind_speed_mph":8.51,
+"bkb_peak_wind_speed_mph":10.79,
+"qbb_wind_direction_degrees":131.72,
+"bkb_wind_direction_degrees":162.69
+},
+{
+"qbb_time":"2019\/8\/6 14:49:00",
+"bkb_time":"2019\/8\/6 14:49:00",
+"qbb_wind_speed_mph":3.53,
+"bkb_wind_speed_mph":9.47,
+"qbb_peak_wind_speed_mph":6.03,
+"bkb_peak_wind_speed_mph":12.17,
+"qbb_wind_direction_degrees":136.15,
+"bkb_wind_direction_degrees":163.00
+}
+]
+}

@@ -1,0 +1,2548 @@
+{
+"RECORDS":[
+{
+"id":6102,
+"readername":"BBT @ Brooklyn Side Inbound",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.679876,
+"longitude":-74.004048
+},
+{
+"id":6502,
+"readername":"TNB @ Toll Plaza north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.817978,
+"longitude":-73.80348
+},
+{
+"id":6202,
+"readername":"BBT @ Brooklyn Side Outbound",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.679795,
+"longitude":-74.004207
+},
+{
+"id":6602,
+"readername":"TNB @ Toll Plaza south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.817617,
+"longitude":-73.803603
+},
+{
+"id":7302,
+"readername":"Cross Bay Bri @ Toll Plaza south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.597362,
+"longitude":-73.821084
+},
+{
+"id":7402,
+"readername":"Cross Bay Bri @ Toll Plaza north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.597329,
+"longitude":-73.820792
+},
+{
+"id":18003,
+"readername":"LIE @ Exit 27 (Clearview Expwy) west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.745278,
+"longitude":-73.769473
+},
+{
+"id":40404,
+"readername":"SIE @ Fingerboard Rd east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.603902,
+"longitude":-74.069159
+},
+{
+"id":40304,
+"readername":"SIE @ Fingerboard Rd west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.604128,
+"longitude":-74.069069
+},
+{
+"id":41204,
+"readername":"TNE @ Lawton Ave (Prentiss Ave) north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.819162,
+"longitude":-73.809545
+},
+{
+"id":41104,
+"readername":"TNE @ Lawton Ave (Prentiss Ave) south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.819247,
+"longitude":-73.810653
+},
+{
+"id":38204,
+"readername":"MDE @ Harlem River Park Bridge south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.852239,
+"longitude":-73.92109
+},
+{
+"id":29204,
+"readername":"Bruckner Expressway North Exit To Throgs Neck\/Whitestone Bridge",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.826913,
+"longitude":-73.851117
+},
+{
+"id":33404,
+"readername":"FDR @ 25th St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.737083,
+"longitude":-73.974742
+},
+{
+"id":29504,
+"readername":"BE @ Stratford Ave south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824217,
+"longitude":-73.874213
+},
+{
+"id":29404,
+"readername":"BE Blvd @ Stratford Ave south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824322,
+"longitude":-73.87424
+},
+{
+"id":32204,
+"readername":"CBE @ Morris Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.844993,
+"longitude":-73.909259
+},
+{
+"id":38104,
+"readername":"MDE @ Harlem River Park Bridge north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.852173,
+"longitude":-73.920967
+},
+{
+"id":43805,
+"readername":"Hutchinson River Pkwy @ Cross County Pkwy south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.922008,
+"longitude":-73.81741
+},
+{
+"id":44105,
+"readername":"Hutchinson River Pkwy N @ ramp to Cross County Pkwy west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.922554,
+"longitude":-73.817491
+},
+{
+"id":19003,
+"readername":"CIP @ TNB N ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.789542,
+"longitude":-73.786297
+},
+{
+"id":19103,
+"readername":"CIP @ TNB north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.789455,
+"longitude":-73.786294
+},
+{
+"id":19203,
+"readername":"CIP @ TNB south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.789349,
+"longitude":-73.786274
+},
+{
+"id":39404,
+"readername":"MDE @ Macombs Dam Bridge north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.828299,
+"longitude":-73.931117
+},
+{
+"id":39304,
+"readername":"MDE @ Macombs Dam Bridge south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.828246,
+"longitude":-73.931286
+},
+{
+"id":30204,
+"readername":"BQE @ Atlantic Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.690525,
+"longitude":-73.998713
+},
+{
+"id":30304,
+"readername":"BQE @ Atlantic Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.690518,
+"longitude":-73.998843
+},
+{
+"id":85203,
+"readername":"LIE @ 48th St east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.73056,
+"longitude":-73.91459
+},
+{
+"id":85303,
+"readername":"LIE @ 48th St west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.730671,
+"longitude":-73.914541
+},
+{
+"id":35604,
+"readername":"GOW @ 7th Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.633328,
+"longitude":-74.016127
+},
+{
+"id":35704,
+"readername":"GOW @ 7th Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.633481,
+"longitude":-74.015849
+},
+{
+"id":82804,
+"readername":"SIE@ Forest Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.626329,
+"longitude":-74.179208
+},
+{
+"id":82706,
+"readername":"SIE @ Forest Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.626277,
+"longitude":-74.179628
+},
+{
+"id":40804,
+"readername":"SIE @ South Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.621135,
+"longitude":-74.169405
+},
+{
+"id":40704,
+"readername":"SIE @ South Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.621307,
+"longitude":-74.169284
+},
+{
+"id":37604,
+"readername":"LIE @ 84th St east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.729679,
+"longitude":-73.877837
+},
+{
+"id":37704,
+"readername":"LIE @ 84th St west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.7298,
+"longitude":-73.87799
+},
+{
+"id":35204,
+"readername":"GCP @ JRP east",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.717285,
+"longitude":-73.831102
+},
+{
+"id":35304,
+"readername":"GCP @ JRP west",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.717414,
+"longitude":-73.830979
+},
+{
+"id":34604,
+"readername":"GCP @ 55th Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.743615,
+"longitude":-73.846911
+},
+{
+"id":19303,
+"readername":"LIE @ Exit 27 (CVE N ramp) west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.7452,
+"longitude":-73.770733
+},
+{
+"id":42404,
+"readername":"WSE @ Arden Ave south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.560526,
+"longitude":-74.199671
+},
+{
+"id":42304,
+"readername":"WSE @ Arden Ave north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.56036,
+"longitude":-74.199485
+},
+{
+"id":33004,
+"readername":"CIP @ Northern Blvd south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.76207,
+"longitude":-73.756851
+},
+{
+"id":32104,
+"readername":"CBE @ Morris Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.845111,
+"longitude":-73.909222
+},
+{
+"id":31204,
+"readername":"Brooklyn Bridge @ Manhattan Side west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.709036,
+"longitude":-74.000443
+},
+{
+"id":42504,
+"readername":"WSE @ South Ave south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.602069,
+"longitude":-74.18807
+},
+{
+"id":46401,
+"readername":"WSE @ Victory Blvd south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.589923,
+"longitude":-74.193555
+},
+{
+"id":31804,
+"readername":"CBE @ Bathgate Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.844158,
+"longitude":-73.898346
+},
+{
+"id":42604,
+"readername":"WSE @ South Ave north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.602039,
+"longitude":-74.187765
+},
+{
+"id":83006,
+"readername":"KWVP @ Annadale Rd south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.555288,
+"longitude":-74.176015
+},
+{
+"id":82906,
+"readername":"KWVP @ Annadale Rd north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.554876,
+"longitude":-74.175982
+},
+{
+"id":31104,
+"readername":"Brooklyn Bridge @ Manhattan Side east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.709035,
+"longitude":-74.000686
+},
+{
+"id":41304,
+"readername":"VWE @ Exit 2 (Rockaway Blvd) south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.674738,
+"longitude":-73.80196
+},
+{
+"id":42804,
+"readername":"WSE @ Tyrellan Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.525886,
+"longitude":-74.230418
+},
+{
+"id":42704,
+"readername":"WSE @ Tyrellan Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.525591,
+"longitude":-74.230427
+},
+{
+"id":38804,
+"readername":"MLK Jr Expwy @ Walker St north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.63089,
+"longitude":-74.145653
+},
+{
+"id":38704,
+"readername":"MLK Jr Expwy @ Walker St south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.630924,
+"longitude":-74.145882
+},
+{
+"id":48104,
+"readername":"Bayonne Bridge @ NJ side south",
+"userstatuscode":"3",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.651832,
+"longitude":-74.136829
+},
+{
+"id":35104,
+"readername":"GCP @ Francis Lewis Blvd west",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.726377,
+"longitude":-73.763899
+},
+{
+"id":18303,
+"readername":"LIE @ Exit 31n (CIP N exit ramp) west ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.756104,
+"longitude":-73.745203
+},
+{
+"id":43004,
+"readername":"West St S @ Spring St",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.727593,
+"longitude":-74.010906
+},
+{
+"id":4802,
+"readername":"TNB @ Queens Anchorage north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.792396,
+"longitude":-73.793164
+},
+{
+"id":4702,
+"readername":"TNB @ Queens Anchorage south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.792387,
+"longitude":-73.793317
+},
+{
+"id":6002,
+"readername":"HHB @ Toll Plaza south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.876174,
+"longitude":-73.924971
+},
+{
+"id":29004,
+"readername":"BE @ Castle Hill Ave south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.827148,
+"longitude":-73.851163
+},
+{
+"id":5202,
+"readername":"QMT @ Manhattan Side ORT (Inbound via S.Tube)",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.745815,
+"longitude":-73.97354
+},
+{
+"id":5302,
+"readername":"QMT @ Manhattan Side ORT (Outbound via N.Tube)",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.745996,
+"longitude":-73.973606
+},
+{
+"id":7202,
+"readername":"Marine Pkwy Bri north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.568736,
+"longitude":-73.882015
+},
+{
+"id":7102,
+"readername":"Marine Pkwy Bri south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.568708,
+"longitude":-73.88208
+},
+{
+"id":38004,
+"readername":"MDE @ 142nd St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.813821,
+"longitude":-73.931109
+},
+{
+"id":6402,
+"readername":"BWB @ Toll Plaza south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.814707,
+"longitude":-73.83668
+},
+{
+"id":6302,
+"readername":"BWB @ Toll Plaza north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.814723,
+"longitude":-73.836264
+},
+{
+"id":7002,
+"readername":"Marine Pkwy Bri @ Toll Plaza north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.579767,
+"longitude":-73.889083
+},
+{
+"id":6902,
+"readername":"Marine Pkwy Bri @ Toll Plaza south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.579661,
+"longitude":-73.889295
+},
+{
+"id":34704,
+"readername":"GCP @ 55th Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.7437,
+"longitude":-73.846664
+},
+{
+"id":18403,
+"readername":"LIE W @ Exit 32 (Little Neck Pkwy) ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.76367,
+"longitude":-73.726507
+},
+{
+"id":30604,
+"readername":"BQE @ Leonard St north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.717175,
+"longitude":-73.948902
+},
+{
+"id":30704,
+"readername":"BQE @ Leonard St south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.717283,
+"longitude":-73.949025
+},
+{
+"id":29804,
+"readername":"BE @ Griswold Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.844201,
+"longitude":-73.825818
+},
+{
+"id":29304,
+"readername":"BE @ Griswold Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.844197,
+"longitude":-73.825595
+},
+{
+"id":48004,
+"readername":"Bayonne Bridge @ NJ side north",
+"userstatuscode":"3",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.651708,
+"longitude":-74.136781
+},
+{
+"id":46301,
+"readername":"WSE @ Victory Blvd north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.590059,
+"longitude":-74.193311
+},
+{
+"id":32604,
+"readername":"CBE extension @ Lafayette Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.82729,
+"longitude":-73.832344
+},
+{
+"id":32504,
+"readername":"CBE extension @ Lafayette Ave W ramp to BE N",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.827351,
+"longitude":-73.832329
+},
+{
+"id":33804,
+"readername":"FDR @ 71st St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.769535,
+"longitude":-73.948423
+},
+{
+"id":36904,
+"readername":"HRP @ Lafayette Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824601,
+"longitude":-73.836207
+},
+{
+"id":37004,
+"readername":"HRP @ Lafayette Ave south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824577,
+"longitude":-73.836323
+},
+{
+"id":36804,
+"readername":"HRP N @ Lafayette Ave (exit to BE\/CBE) ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824613,
+"longitude":-73.836075
+},
+{
+"id":39504,
+"readername":"I-95 NET @ Baychester Ave north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.870241,
+"longitude":-73.833393
+},
+{
+"id":39604,
+"readername":"I-95 NET @ Baychester Ave south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.870198,
+"longitude":-73.833585
+},
+{
+"id":33504,
+"readername":"FDR @ 25th St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.737021,
+"longitude":-73.974577
+},
+{
+"id":33304,
+"readername":"CIP s\/of LIE south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.751332,
+"longitude":-73.74252
+},
+{
+"id":33204,
+"readername":"CIP s\/of LIE north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.751395,
+"longitude":-73.742355
+},
+{
+"id":35404,
+"readername":"GCP @ Smedley St (e\/of JRP) west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.715959,
+"longitude":-73.813073
+},
+{
+"id":35504,
+"readername":"GCP @ Smedley St (e\/of JRP) east ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.715831,
+"longitude":-73.813062
+},
+{
+"id":37504,
+"readername":"LIE @ 172nd St west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.738258,
+"longitude":-73.797593
+},
+{
+"id":4402,
+"readername":"RFK Bridge @ Manhattan Anchorage west",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.800907,
+"longitude":-73.929076
+},
+{
+"id":38904,
+"readername":"MDE @ 193rd St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.870764,
+"longitude":-73.907125
+},
+{
+"id":39004,
+"readername":"MDE @ 193rd St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.870826,
+"longitude":-73.907317
+},
+{
+"id":47604,
+"readername":"Route 440 @ Francis St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.527018,
+"longitude":-74.27149
+},
+{
+"id":47704,
+"readername":"Route 440 @ Francis St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.52691,
+"longitude":-74.27154
+},
+{
+"id":49404,
+"readername":"I-278 East @ Exit To NJ Turnpike",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.642808,
+"longitude":-74.213263
+},
+{
+"id":49604,
+"readername":"I-278 @ Brunswick Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.643423,
+"longitude":-74.21276
+},
+{
+"id":49504,
+"readername":"I-278 @ Brunswick Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.642947,
+"longitude":-74.213132
+},
+{
+"id":29904,
+"readername":"Belt Pkwy @ 182nd St east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.666403,
+"longitude":-73.762481
+},
+{
+"id":30004,
+"readername":"Belt Pkwy @ 182nd St west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.666521,
+"longitude":-73.762473
+},
+{
+"id":7602,
+"readername":"Cross Bay Bri north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.58751,
+"longitude":-73.81874
+},
+{
+"id":7502,
+"readername":"Cross Bay Bri south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.587697,
+"longitude":-73.819027
+},
+{
+"id":33104,
+"readername":"CIP @ Northern Blvd north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.762136,
+"longitude":-73.756742
+},
+{
+"id":85503,
+"readername":"LIE @ Greenpoint Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.737037,
+"longitude":-73.931759
+},
+{
+"id":37404,
+"readername":"LIE @ 172nd St east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.738133,
+"longitude":-73.797591
+},
+{
+"id":31704,
+"readername":"CBE @ Bathgate Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.844051,
+"longitude":-73.898369
+},
+{
+"id":32004,
+"readername":"CBE @ Castle Hill Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.830938,
+"longitude":-73.852976
+},
+{
+"id":31904,
+"readername":"CBE @ Castle Hill Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.831063,
+"longitude":-73.852903
+},
+{
+"id":5602,
+"readername":"BBT @ Manhattan Side ORT Inbound",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.705244,
+"longitude":-74.014988
+},
+{
+"id":5802,
+"readername":"BBT @ Manhattan Side ORT Outbound",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.705316,
+"longitude":-74.01531
+},
+{
+"id":5402,
+"readername":"QMT @ Manhattan Side ORT - Inbound (N.Tube)",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.746063,
+"longitude":-73.973555
+},
+{
+"id":39904,
+"readername":"SIE @ Bradley Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.608287,
+"longitude":-74.132014
+},
+{
+"id":5902,
+"readername":"HHB @ Toll Plaza north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.876022,
+"longitude":-73.92485
+},
+{
+"id":40004,
+"readername":"SIE @ Bradley Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.608055,
+"longitude":-74.132002
+},
+{
+"id":85403,
+"readername":"LIE @ Greenpoint Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.73715,
+"longitude":-73.931712
+},
+{
+"id":85603,
+"readername":"LIE @ Greenpoint Ave exit ramp east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.736966,
+"longitude":-73.931776
+},
+{
+"id":85803,
+"readername":"LIE @ 63rd east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.726023,
+"longitude":-73.903364
+},
+{
+"id":85703,
+"readername":"LIE @ 63rd west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.726218,
+"longitude":-73.903318
+},
+{
+"id":5002,
+"readername":"HHB @ Kappock St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.880282,
+"longitude":-73.918463
+},
+{
+"id":4902,
+"readername":"HHB @ Kappock St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.880336,
+"longitude":-73.918546
+},
+{
+"id":5102,
+"readername":"QMT @ Manhattan Side ORT - Outbound (S.Tube)",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.745731,
+"longitude":-73.97361
+},
+{
+"id":40204,
+"readername":"SIE @ Clove Rd east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.610535,
+"longitude":-74.097831
+},
+{
+"id":40104,
+"readername":"SIE @ Clove Rd west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.610746,
+"longitude":-74.098038
+},
+{
+"id":34004,
+"readername":"FDR @ 99th St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.784278,
+"longitude":-73.9421
+},
+{
+"id":33904,
+"readername":"FDR @ 99th St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.784364,
+"longitude":-73.942196
+},
+{
+"id":84503,
+"readername":"LGA03 GCP W Svc Rd @ LAGuardia Rd E exit ",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.768723,
+"longitude":-73.865494
+},
+{
+"id":84303,
+"readername":"LGA01 GCP W Svc Rd ramp to GCP west ",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.772096,
+"longitude":-73.873697
+},
+{
+"id":84203,
+"readername":"LGA01 GCP W Svc Rd to LGA ",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.772162,
+"longitude":-73.8737
+},
+{
+"id":84603,
+"readername":"LGA03 GCP W Service Rd ",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.768692,
+"longitude":-73.865527
+},
+{
+"id":4302,
+"readername":"RFK Bridge @ Manhattan Anchorage east",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.800831,
+"longitude":-73.929128
+},
+{
+"id":7902,
+"readername":"VNB @ SI Gantry east lower level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.602383,
+"longitude":-74.057335
+},
+{
+"id":8002,
+"readername":"VNB @ SI Gantry west lower level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.602537,
+"longitude":-74.057427
+},
+{
+"id":7802,
+"readername":"VNB @ SI Gantry west upper level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.60247,
+"longitude":-74.057465
+},
+{
+"id":41404,
+"readername":"VWE @ Exit 6 (Jamaica Ave) N exit ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.700718,
+"longitude":-73.815373
+},
+{
+"id":51104,
+"readername":"GWB @ Amsterdam Ave HRD ramp north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846692,
+"longitude":-73.932114
+},
+{
+"id":51504,
+"readername":"GWB @ Amsterdam Ave lower level east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846228,
+"longitude":-73.93213
+},
+{
+"id":51204,
+"readername":"GWB @ Amsterdam Ave upper level west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846495,
+"longitude":-73.931867
+},
+{
+"id":51404,
+"readername":"GWB @ Amsterdam Ave HRD ramp south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846423,
+"longitude":-73.932335
+},
+{
+"id":51004,
+"readername":"GWB @ Amsterdam Ave lower level west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.84664,
+"longitude":-73.931765
+},
+{
+"id":51304,
+"readername":"GWB @ Amsterdam Ave upper level east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.84653,
+"longitude":-73.932253
+},
+{
+"id":50104,
+"readername":"GWB @ PIP N exit ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.85402,
+"longitude":-73.962688
+},
+{
+"id":50304,
+"readername":"GWB @ PIP E upper level plaza",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.853702,
+"longitude":-73.963311
+},
+{
+"id":44706,
+"readername":"JFK Expwy @ S. Cargo Rd north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.654189,
+"longitude":-73.787819
+},
+{
+"id":44606,
+"readername":"JFK Expwy @ S. Cargo Rd south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.653916,
+"longitude":-73.787665
+},
+{
+"id":46904,
+"readername":"I-495 @ Pleasant Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.769038,
+"longitude":-74.024173
+},
+{
+"id":47104,
+"readername":"I-495 @ Pleasant Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.76894,
+"longitude":-74.024248
+},
+{
+"id":44305,
+"readername":"Hutchinson River Pkwy @ Mamaroneck Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.983293,
+"longitude":-73.743781
+},
+{
+"id":43605,
+"readername":"Sprain Brook Pkwy @ Hartsdale Rd south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":41.047795,
+"longitude":-73.81253
+},
+{
+"id":44205,
+"readername":"Hutchinson River Pkwy @ Mamaroneck Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.983625,
+"longitude":-73.74384
+},
+{
+"id":43505,
+"readername":"Sprain Brook Pkwy @ Tuckahoe Rd south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.952226,
+"longitude":-73.853451
+},
+{
+"id":43405,
+"readername":"Sprain Brook Pkwy @ Tuckahoe Rd north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.95221,
+"longitude":-73.853202
+},
+{
+"id":43905,
+"readername":"Cross County Pkwy E @ ramp to HRP south ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.922003,
+"longitude":-73.817398
+},
+{
+"id":38304,
+"readername":"MDE @ Van Cortlandt Park south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.886038,
+"longitude":-73.896639
+},
+{
+"id":38404,
+"readername":"MDE @ Van Cortlandt Park north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.885997,
+"longitude":-73.896414
+},
+{
+"id":36504,
+"readername":"HRP @ Bartow Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.866777,
+"longitude":-73.82328
+},
+{
+"id":31404,
+"readername":"BRP @ NYPD Highway 1 south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.848787,
+"longitude":-73.871437
+},
+{
+"id":31304,
+"readername":"BRP @ NYPD Highway 1 north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.848769,
+"longitude":-73.871192
+},
+{
+"id":39104,
+"readername":"MDE @ Depot Place south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.841431,
+"longitude":-73.928497
+},
+{
+"id":39204,
+"readername":"MDE @ Depot Place ramp to GWB north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.841351,
+"longitude":-73.928206
+},
+{
+"id":78901,
+"readername":"MDE @ Depot Place north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.841396,
+"longitude":-73.928381
+},
+{
+"id":28904,
+"readername":"BE @ 149th St north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.809922,
+"longitude":-73.902242
+},
+{
+"id":28804,
+"readername":"BE @ 149th St south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.809985,
+"longitude":-73.902414
+},
+{
+"id":29104,
+"readername":"BE @ Castle Hill Ave north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.827034,
+"longitude":-73.85112
+},
+{
+"id":29604,
+"readername":"BE @ Stratford Ave north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824109,
+"longitude":-73.874189
+},
+{
+"id":39804,
+"readername":"BX01 RFK Bridge from BE south ",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.802876,
+"longitude":-73.916572
+},
+{
+"id":46501,
+"readername":"BX01 RFK Bridge to BE north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.802289,
+"longitude":-73.916389
+},
+{
+"id":8602,
+"readername":"Belt Parkway West Exit To VNB West",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.61074,
+"longitude":-74.03241
+},
+{
+"id":31504,
+"readername":"BRP @ Watson Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.826714,
+"longitude":-73.872719
+},
+{
+"id":82603,
+"readername":"BRP @ Watson Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.826694,
+"longitude":-73.872833
+},
+{
+"id":39704,
+"readername":"BX01 RFK Bridge from MDE south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.802856,
+"longitude":-73.916798
+},
+{
+"id":46601,
+"readername":"BX01 RFK Bridge to MDE north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.802343,
+"longitude":-73.916518
+},
+{
+"id":32704,
+"readername":"CBE extension @ Lafayette Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.827151,
+"longitude":-73.832476
+},
+{
+"id":32904,
+"readername":"CIP @ Hempstead Tpk north ",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.714253,
+"longitude":-73.729088
+},
+{
+"id":32804,
+"readername":"CIP @ Hempstead Tpk south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.714251,
+"longitude":-73.729264
+},
+{
+"id":4202,
+"readername":"FDR @ E. 116th St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.794341,
+"longitude":-73.931018
+},
+{
+"id":4102,
+"readername":"FDR @ E. 116th St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.794425,
+"longitude":-73.931083
+},
+{
+"id":36104,
+"readername":"GOW @ 9th St south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.675159,
+"longitude":-74.000812
+},
+{
+"id":36304,
+"readername":"HRD @ 151st St north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824189,
+"longitude":-73.934405
+},
+{
+"id":36204,
+"readername":"HRD @ 151st St south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.824208,
+"longitude":-73.934558
+},
+{
+"id":44406,
+"readername":"JFK Expwy @ 150th Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.661587,
+"longitude":-73.791234
+},
+{
+"id":44506,
+"readername":"JFK Expwy @ 150th Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.661643,
+"longitude":-73.791433
+},
+{
+"id":38504,
+"readername":"Manhattan Bridge @ Manhattan Side east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.715144,
+"longitude":-73.995204
+},
+{
+"id":38604,
+"readername":"Manhattan Bridge @ Manhattan Side west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.715227,
+"longitude":-73.994909
+},
+{
+"id":45506,
+"readername":"MH03 PABT @ 4th Floor Ent Ramp east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757398,
+"longitude":-73.993231
+},
+{
+"id":45206,
+"readername":"MH04 PABT @ 40th St Ent east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757009,
+"longitude":-73.993118
+},
+{
+"id":40504,
+"readername":"SIE @ Richmond Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.61467,
+"longitude":-74.15712
+},
+{
+"id":40604,
+"readername":"SIE @ Richmond Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.614841,
+"longitude":-74.156914
+},
+{
+"id":41004,
+"readername":"SIE @ Wooley Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.6076,
+"longitude":-74.140789
+},
+{
+"id":40904,
+"readername":"SIE @ Wooley Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.607823,
+"longitude":-74.140821
+},
+{
+"id":41904,
+"readername":"VWE @ Exit 13 (Northern Blvd) north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.753654,
+"longitude":-73.837349
+},
+{
+"id":42004,
+"readername":"VWE @ Exit 13 (Northern Blvd) south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.753602,
+"longitude":-73.837508
+},
+{
+"id":43204,
+"readername":"Whitestone Expwy @ Exit 14 (Linden Pl) north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.772802,
+"longitude":-73.830833
+},
+{
+"id":43304,
+"readername":"Whitestone Expwy @ Exit 14 (Linden Pl) south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.773155,
+"longitude":-73.830891
+},
+{
+"id":42204,
+"readername":"WSE @ Bloomingdale Rd north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.548258,
+"longitude":-74.220665
+},
+{
+"id":42104,
+"readername":"WSE @ Bloomingdale Rd south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.548499,
+"longitude":-74.220736
+},
+{
+"id":35004,
+"readername":"GCP @ Francis Lewis Blvd east",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.726236,
+"longitude":-73.763922
+},
+{
+"id":41704,
+"readername":"VWE @ Exit 11 (Jewel Ave) north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.733217,
+"longitude":-73.835506
+},
+{
+"id":41804,
+"readername":"VWE @ Exit 11 (Jewel Ave) south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.733166,
+"longitude":-73.83568
+},
+{
+"id":37904,
+"readername":"MDE @ 142nd St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.813866,
+"longitude":-73.931222
+},
+{
+"id":85903,
+"readername":"BQE @ Tillary St south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.696857,
+"longitude":-73.981247
+},
+{
+"id":36004,
+"readername":"GOW @ 9th St north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.675227,
+"longitude":-74.000597
+},
+{
+"id":6702,
+"readername":"QMT @ Queens Side east",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.741381,
+"longitude":-73.948374
+},
+{
+"id":6802,
+"readername":"QMT @ Queens Side west",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.741479,
+"longitude":-73.948341
+},
+{
+"id":27704,
+"readername":"11th Ave @ Gansevoort St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.739851,
+"longitude":-74.009631
+},
+{
+"id":27904,
+"readername":"11th Ave @ Gansevoort St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.739904,
+"longitude":-74.009758
+},
+{
+"id":51604,
+"readername":"Boulevard East @ I-495 Helix north",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.763305,
+"longitude":-74.024362
+},
+{
+"id":51704,
+"readername":"Boulevard East @ I-495 Helix south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.763377,
+"longitude":-74.024438
+},
+{
+"id":30404,
+"readername":"BQE @ Broadway south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.748849,
+"longitude":-73.896391
+},
+{
+"id":30504,
+"readername":"BQE @ Broadway north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.748789,
+"longitude":-73.896223
+},
+{
+"id":4502,
+"readername":"BWB @ Queens Anchorage south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.797392,
+"longitude":-73.826937
+},
+{
+"id":4602,
+"readername":"BWB @ Queens Anchorage north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.797462,
+"longitude":-73.826728
+},
+{
+"id":48604,
+"readername":"Lincoln Tunnel @ Galvin Plaza north tube west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.758862,
+"longitude":-73.999208
+},
+{
+"id":36704,
+"readername":"HRP @ E. Tremont Ave north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.840771,
+"longitude":-73.83829
+},
+{
+"id":36604,
+"readername":"HRP @ E. Tremont Ave south",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.840819,
+"longitude":-73.838478
+},
+{
+"id":8502,
+"readername":"VNB East Belt Pky Exit To Belt Parkway East",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.610808,
+"longitude":-74.032525
+},
+{
+"id":37804,
+"readername":"LIE @ 136th St west",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.742969,
+"longitude":-73.829941
+},
+{
+"id":50204,
+"readername":"GWB @ PIP S upper level ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.854178,
+"longitude":-73.963149
+},
+{
+"id":31604,
+"readername":"BRP south exit to Bruckner Blvd north ",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.826595,
+"longitude":-73.872902
+},
+{
+"id":34904,
+"readername":"GCP @ 82nd St east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.766804,
+"longitude":-73.88753
+},
+{
+"id":34804,
+"readername":"GCP @ 82nd St west ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.766962,
+"longitude":-73.887557
+},
+{
+"id":33704,
+"readername":"FDR @ 63rd St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.760697,
+"longitude":-73.956416
+},
+{
+"id":33604,
+"readername":"FDR @ 63rd St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.760773,
+"longitude":-73.956611
+},
+{
+"id":44906,
+"readername":"VWE @ S. Service Rd north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.64476,
+"longitude":-73.79693
+},
+{
+"id":44806,
+"readername":"VWE @ S. Service Rd south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.644606,
+"longitude":-73.796959
+},
+{
+"id":18603,
+"readername":"GCP @ Little Neck Parkway east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.752982,
+"longitude":-73.724466
+},
+{
+"id":18503,
+"readername":"GCP @ Little Neck Parkway west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.753105,
+"longitude":-73.724589
+},
+{
+"id":18803,
+"readername":"GCP W @ CVE N ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.727394,
+"longitude":-73.755425
+},
+{
+"id":18703,
+"readername":"GCP W @ CIP N ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.745295,
+"longitude":-73.731458
+},
+{
+"id":36404,
+"readername":"HRP @ Bartow Ave north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.866699,
+"longitude":-73.823157
+},
+{
+"id":30104,
+"readername":"Belt Pkwy @ JFK Expwy west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.667117,
+"longitude":-73.782445
+},
+{
+"id":17903,
+"readername":"LIE @ Exit 27 (Clearview Expwy) east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.745203,
+"longitude":-73.76929
+},
+{
+"id":3902,
+"readername":"RFK Bridge @ Queens Anchorage south",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.776141,
+"longitude":-73.924096
+},
+{
+"id":4002,
+"readername":"RFK Bridge @ Queens Anchorage north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.776217,
+"longitude":-73.923931
+},
+{
+"id":79206,
+"readername":"Holland Tunnel @ NY portal west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.725013,
+"longitude":-74.006981
+},
+{
+"id":84804,
+"readername":"PA13  PABT @ LT Expressway Exit",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.754383,
+"longitude":-73.99827
+},
+{
+"id":46106,
+"readername":"Rt 46 @ Oakdene Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.850331,
+"longitude":-73.986531
+},
+{
+"id":49304,
+"readername":"I-95 @ Fletcher Ave local lanes south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.857769,
+"longitude":-73.9734
+},
+{
+"id":49204,
+"readername":"I-95 @ Fletcher Ave express lanes south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.857488,
+"longitude":-73.973701
+},
+{
+"id":46206,
+"readername":"Rt 46 @ Oakdene Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.85037,
+"longitude":-73.986587
+},
+{
+"id":47804,
+"readername":"PIP S n\/of Exit 1 (Palisades Ave-Englewood)",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.862459,
+"longitude":-73.957115
+},
+{
+"id":79406,
+"readername":"Holland Tunnel 12th St @ Jersey Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.730531,
+"longitude":-74.044382
+},
+{
+"id":50904,
+"readername":"GWB @ Central Rd lower level east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.853681,
+"longitude":-73.964967
+},
+{
+"id":48504,
+"readername":"Lincoln Tunnel @ NJ Portal south tube east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.766089,
+"longitude":-74.022542
+},
+{
+"id":35904,
+"readername":"GOW @ 92nd St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.61615,
+"longitude":-74.026174
+},
+{
+"id":35804,
+"readername":"GOW @ 92nd St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.616251,
+"longitude":-74.026384
+},
+{
+"id":86003,
+"readername":"BQE @ Tillary St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.696785,
+"longitude":-73.981316
+},
+{
+"id":17803,
+"readername":"LIE E @ Exit 32 (Little Neck Pkwy)",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.764013,
+"longitude":-73.724772
+},
+{
+"id":49004,
+"readername":"I-95 @ Jones Rd local north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.867047,
+"longitude":-73.976008
+},
+{
+"id":49104,
+"readername":"I-95 @ Jones Rd express north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.867217,
+"longitude":-73.975807
+},
+{
+"id":34104,
+"readername":"FDR @ Catherine Slip north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.708917,
+"longitude":-73.996832
+},
+{
+"id":34204,
+"readername":"FDR @ Catherine Slip south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.709018,
+"longitude":-73.996854
+},
+{
+"id":8302,
+"readername":"VNB @ Bklyn Gantry east lower level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.610185,
+"longitude":-74.033405
+},
+{
+"id":8102,
+"readername":"VNB @ Bklyn Gantry east upper level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.610163,
+"longitude":-74.033391
+},
+{
+"id":8402,
+"readername":"VNB @ Bklyn Gantry west lower level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.61027,
+"longitude":-74.033452
+},
+{
+"id":8202,
+"readername":"VNB @ Bklyn Gantry west upper level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.610275,
+"longitude":-74.033424
+},
+{
+"id":30904,
+"readername":"BQE @ LIE south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.735116,
+"longitude":-73.920124
+},
+{
+"id":31004,
+"readername":"BQE @ LIE north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.73501,
+"longitude":-73.920103
+},
+{
+"id":30804,
+"readername":"BQE S @ LIE ramp east ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.735216,
+"longitude":-73.920143
+},
+{
+"id":50504,
+"readername":"GWB @ HHP lower level north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846966,
+"longitude":-73.943293
+},
+{
+"id":50804,
+"readername":"GWB @ HHP lower level south exit ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846952,
+"longitude":-73.942955
+},
+{
+"id":50604,
+"readername":"GWB @ HHP upper level north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846958,
+"longitude":-73.943387
+},
+{
+"id":50704,
+"readername":"GWB @ HHP upper level south exit ramp",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.846967,
+"longitude":-73.943154
+},
+{
+"id":41504,
+"readername":"VWE @ Exit 6 (Jamaica Ave) north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.700686,
+"longitude":-73.815473
+},
+{
+"id":41604,
+"readername":"VWE @ Exit 6 (Jamaica Ave) south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.700637,
+"longitude":-73.815645
+},
+{
+"id":48304,
+"readername":"Lincoln Tunnel @ NJ Portal center tube east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.766401,
+"longitude":-74.022615
+},
+{
+"id":48804,
+"readername":"Lincoln Tunnel @ Dyer Plaza center tube east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757134,
+"longitude":-73.996362
+},
+{
+"id":44005,
+"readername":"Cross County Pkwy E @ ramp to HRP north ",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 8",
+"latitude":40.922003,
+"longitude":-73.817398
+},
+{
+"id":47404,
+"readername":"I-495 @ Kennedy Blvd west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.77383,
+"longitude":-74.034873
+},
+{
+"id":47504,
+"readername":"I-495 @ Kennedy Blvd east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.773825,
+"longitude":-74.035148
+},
+{
+"id":80901,
+"readername":"LIE @ 135th St east",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.742924,
+"longitude":-73.831132
+},
+{
+"id":81501,
+"readername":"Lincoln Tunnel Dyer Ave @ 37th St west",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.755524,
+"longitude":-73.9957
+},
+{
+"id":48204,
+"readername":"Lincoln Tunnel @ NJ Portal north tube west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.766468,
+"longitude":-74.022898
+},
+{
+"id":45006,
+"readername":"VWE @ Monorail Overpass north",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.661261,
+"longitude":-73.804921
+},
+{
+"id":45106,
+"readername":"VWE @ Monorail Overpass south",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.66174,
+"longitude":-73.804855
+},
+{
+"id":45406,
+"readername":"MH03 PABT @ 4th Floor Ent Ramp west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757472,
+"longitude":-73.993186
+},
+{
+"id":45806,
+"readername":"Holland Tunnel @ NY Portal east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.722778,
+"longitude":-74.00692
+},
+{
+"id":37304,
+"readername":"Laurelton Pkwy @ SSP exit ramp north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.683594,
+"longitude":-73.726474
+},
+{
+"id":37204,
+"readername":"Laurelton Pkwy @ SSP north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.683616,
+"longitude":-73.726557
+},
+{
+"id":37104,
+"readername":"Laurelton Pkwy @ SSP south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.683656,
+"longitude":-73.726712
+},
+{
+"id":79106,
+"readername":"Holland Tunnel @ NJ portal east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.729727,
+"longitude":-74.036047
+},
+{
+"id":48904,
+"readername":"Lincoln Tunnel @ Dyer Plaza south tube east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.756859,
+"longitude":-73.996194
+},
+{
+"id":48704,
+"readername":"Lincoln Tunnel @ Dyer Plaza center tube west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757231,
+"longitude":-73.996296
+},
+{
+"id":84904,
+"readername":"PA14  PABT @ North Wing Entrance",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757835,
+"longitude":-73.99329
+},
+{
+"id":84403,
+"readername":"LGA02 GCP E Exit 7 (LGA terminals) flyover ramp ",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.771416,
+"longitude":-73.87284
+},
+{
+"id":45706,
+"readername":"MH03 PABT @ 3rd Floor Ent Ramp east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757341,
+"longitude":-73.993294
+},
+{
+"id":45606,
+"readername":"MH03 PABT @ 3rd Floor Ent Ramp west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757598,
+"longitude":-73.993165
+},
+{
+"id":85004,
+"readername":"PA14  PABT @ North Wing Exit",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757861,
+"longitude":-73.993271
+},
+{
+"id":48404,
+"readername":"Lincoln Tunnel @ NJ Portal center tube west",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.766426,
+"longitude":-74.02269
+},
+{
+"id":32304,
+"readername":"CBE @ Taylor Ave east",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.834665,
+"longitude":-73.865589
+},
+{
+"id":32404,
+"readername":"CBE @ Taylor Ave west",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.834799,
+"longitude":-73.865524
+},
+{
+"id":7702,
+"readername":"VNB @ SI Gantry east upper level",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.60244,
+"longitude":-74.057365
+},
+{
+"id":47204,
+"readername":"I-495 @ Pleasant Ave exit east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.768977,
+"longitude":-74.024491
+},
+{
+"id":84704,
+"readername":"PA13  PABT @ LT Expressway Entrance",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.754309,
+"longitude":-73.998087
+},
+{
+"id":79306,
+"readername":"Holland Tunnel @ NJ portal west",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.730567,
+"longitude":-74.036335
+},
+{
+"id":28604,
+"readername":"12th Ave @ 57th St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.771851,
+"longitude":-73.994033
+},
+{
+"id":28704,
+"readername":"12th Ave @ 57th St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.771918,
+"longitude":-73.994253
+},
+{
+"id":47304,
+"readername":"I-495 @ Kennedy Blvd XBL east",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.773886,
+"longitude":-74.035104
+},
+{
+"id":47004,
+"readername":"I-495 @ Pleasant Ave XBL east",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.769,
+"longitude":-74.024202
+},
+{
+"id":34404,
+"readername":"GCP @ 27th St east",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.772071,
+"longitude":-73.919695
+},
+{
+"id":34504,
+"readername":"GCP @ 27th St west",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.772169,
+"longitude":-73.91958
+},
+{
+"id":28504,
+"readername":"12th Ave @ 45th St south",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.76362,
+"longitude":-73.999248
+},
+{
+"id":46804,
+"readername":"Route 4 @ I-95 west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.867486,
+"longitude":-73.973507
+},
+{
+"id":46704,
+"readername":"Route 4 @ I-95 east",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.867508,
+"longitude":-73.973607
+},
+{
+"id":86103,
+"readername":"HHB Dyckman St South",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.870395,
+"longitude":-73.930447
+},
+{
+"id":86203,
+"readername":"HHB Dyckman St north",
+"userstatuscode":"1",
+"serverset":"TI-MED - MTA",
+"latitude":40.869557,
+"longitude":-73.930352
+},
+{
+"id":28404,
+"readername":"12th Ave @ 40th St north",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 11",
+"latitude":40.7604,
+"longitude":-74.002253
+},
+{
+"id":45306,
+"readername":"MH04 PABT @ 40th St Ent west",
+"userstatuscode":"1",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.757528,
+"longitude":-73.992591
+},
+{
+"id":81401,
+"readername":"Lincoln Tunnel Dyer Ave @ 37th St east",
+"userstatuscode":"4",
+"serverset":"TI-MED - PA-GWB",
+"latitude":40.755589,
+"longitude":-73.995856
+},
+{
+"id":18903,
+"readername":"CVE N @ TNB",
+"userstatuscode":"1",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.786577,
+"longitude":-73.788253
+},
+{
+"id":18103,
+"readername":"LIE @ 108th St east",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.73698,
+"longitude":-73.853217
+},
+{
+"id":18203,
+"readername":"LIE @ 108th St west",
+"userstatuscode":"4",
+"serverset":"TI-MED - NYSDOT Region 10",
+"latitude":40.737139,
+"longitude":-73.853274
+}
+]
+}

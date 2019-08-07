@@ -1,0 +1,1362 @@
+{
+"RECORDS":[
+{
+"lid":1,
+"location_name":"LEXINGTON AV AND 42 ST",
+"lat":40.75145,
+"lng":-73.97610,
+"total_readers":2
+},
+{
+"lid":2,
+"location_name":"LEXINGTON AV AND 49 ST",
+"lat":40.75586,
+"lng":-73.97284,
+"total_readers":2
+},
+{
+"lid":3,
+"location_name":"LEXINGTON AV AND 57 ST",
+"lat":40.76094,
+"lng":-73.96917,
+"total_readers":2
+},
+{
+"lid":4,
+"location_name":"3 AV AND 42 ST",
+"lat":40.75077,
+"lng":-73.97445,
+"total_readers":2
+},
+{
+"lid":5,
+"location_name":"3 AV AND 49 ST",
+"lat":40.75521,
+"lng":-73.97125,
+"total_readers":2
+},
+{
+"lid":6,
+"location_name":"3 AV AND 57 ST",
+"lat":40.76024,
+"lng":-73.96760,
+"total_readers":2
+},
+{
+"lid":8,
+"location_name":"MADISON AV AND 34 ST",
+"lat":40.74777,
+"lng":-73.98295,
+"total_readers":2
+},
+{
+"lid":11,
+"location_name":"MADISON AV AND 42 ST",
+"lat":40.75280,
+"lng":-73.97928,
+"total_readers":2
+},
+{
+"lid":12,
+"location_name":"MADISON AV AND 49 ST",
+"lat":40.75723,
+"lng":-73.97604,
+"total_readers":2
+},
+{
+"lid":13,
+"location_name":"MADISON AV AND 57 ST",
+"lat":40.76229,
+"lng":-73.97235,
+"total_readers":2
+},
+{
+"lid":14,
+"location_name":"5 AV AND 42 ST",
+"lat":40.75349,
+"lng":-73.98089,
+"total_readers":2
+},
+{
+"lid":15,
+"location_name":"5 AV AND 49 ST",
+"lat":40.75792,
+"lng":-73.97765,
+"total_readers":1
+},
+{
+"lid":16,
+"location_name":"5 AV AND 57 ST",
+"lat":40.76296,
+"lng":-73.97396,
+"total_readers":2
+},
+{
+"lid":17,
+"location_name":"6 AV AND 42 ST",
+"lat":40.75484,
+"lng":-73.98412,
+"total_readers":2
+},
+{
+"lid":18,
+"location_name":"6 AV AND 49 ST",
+"lat":40.75927,
+"lng":-73.98089,
+"total_readers":1
+},
+{
+"lid":19,
+"location_name":"6 AV AND 57 ST",
+"lat":40.76433,
+"lng":-73.97720,
+"total_readers":2
+},
+{
+"lid":20,
+"location_name":"3 AV AND 34 ST",
+"lat":40.74573,
+"lng":-73.97808,
+"total_readers":2
+},
+{
+"lid":21,
+"location_name":"LEXINGTON AV AND 72 ST",
+"lat":40.77050,
+"lng":-73.96225,
+"total_readers":1
+},
+{
+"lid":22,
+"location_name":"5 AV AND 72 ST ",
+"lat":40.77249,
+"lng":-73.96701,
+"total_readers":1
+},
+{
+"lid":23,
+"location_name":"6 AV AND 34 ST",
+"lat":40.74983,
+"lng":-73.98779,
+"total_readers":2
+},
+{
+"lid":24,
+"location_name":"BELT PKWY WB AND CROSS BAY BLVD",
+"lat":40.66601,
+"lng":-73.84169,
+"total_readers":1
+},
+{
+"lid":25,
+"location_name":"BELT PKWY WB AND OCEAN PKWY",
+"lat":40.58400,
+"lng":-73.96670,
+"total_readers":1
+},
+{
+"lid":26,
+"location_name":"BELT PKWY WB AND ERSKINEST",
+"lat":40.65171,
+"lng":-73.86578,
+"total_readers":1
+},
+{
+"lid":27,
+"location_name":"BELT PKWY EB AND OCEAN PARKWAY",
+"lat":40.58400,
+"lng":-73.96670,
+"total_readers":1
+},
+{
+"lid":28,
+"location_name":"BELT PKWY EB AND ERSKINEST",
+"lat":40.65171,
+"lng":73.86578,
+"total_readers":1
+},
+{
+"lid":29,
+"location_name":"BELT PKWY EB AND CROSS BAY BLVD",
+"lat":40.66601,
+"lng":-73.84169,
+"total_readers":1
+},
+{
+"lid":30,
+"location_name":"12 AV NB  AND  57 ST (MARK-IV)",
+"lat":40.77188,
+"lng":-73.99406,
+"total_readers":3
+},
+{
+"lid":31,
+"location_name":"12 AV SB  AND  57 ST (MARK-IV)",
+"lat":40.77188,
+"lng":-73.99406,
+"total_readers":3
+},
+{
+"lid":33,
+"location_name":"BELT PKWY WB  AND  EAST OF JFK (MARK-IV)",
+"lat":40.66711,
+"lng":-73.78250,
+"total_readers":5
+},
+{
+"lid":34,
+"location_name":"BELT PKWY AND FLATBUSH AVE",
+"lat":40.59640,
+"lng":-73.90783,
+"total_readers":1
+},
+{
+"lid":35,
+"location_name":"BELT PKWY AND BAY 8 ST",
+"lat":40.60376,
+"lng":-74.01909,
+"total_readers":1
+},
+{
+"lid":36,
+"location_name":"BELT PKWY  AND  GOWANUS & 65 ST",
+"lat":40.64154,
+"lng":-74.03062,
+"total_readers":1
+},
+{
+"lid":37,
+"location_name":"7 AV AND 49 ST",
+"lat":40.76044,
+"lng":-73.98372,
+"total_readers":1
+},
+{
+"lid":38,
+"location_name":"8 AV AND 49 ST",
+"lat":40.76166,
+"lng":-73.98657,
+"total_readers":1
+},
+{
+"lid":39,
+"location_name":"9 AV AND 49 ST",
+"lat":40.76279,
+"lng":-73.98940,
+"total_readers":1
+},
+{
+"lid":40,
+"location_name":"1 AV AND 49 ST",
+"lat":40.75327,
+"lng":-73.96662,
+"total_readers":1
+},
+{
+"lid":41,
+"location_name":"1 AV AND 57 ST",
+"lat":40.75829,
+"lng":-73.96299,
+"total_readers":2
+},
+{
+"lid":42,
+"location_name":"2 AV AND 42 ST",
+"lat":40.74980,
+"lng":-73.97226,
+"total_readers":2
+},
+{
+"lid":43,
+"location_name":"9 AV AND 72 ST",
+"lat":40.77734,
+"lng":-73.97875,
+"total_readers":2
+},
+{
+"lid":44,
+"location_name":"3 AV AND 23 ST",
+"lat":40.73877,
+"lng":-73.98327,
+"total_readers":2
+},
+{
+"lid":45,
+"location_name":"1 AV AND 23 ST",
+"lat":40.73677,
+"lng":-73.97861,
+"total_readers":1
+},
+{
+"lid":46,
+"location_name":"2 AV AND 49 ST",
+"lat":40.75427,
+"lng":-73.96903,
+"total_readers":1
+},
+{
+"lid":47,
+"location_name":"6 AV AND 23 ST",
+"lat":40.74284,
+"lng":-73.99285,
+"total_readers":2
+},
+{
+"lid":48,
+"location_name":"1 AV AND 42 ST",
+"lat":40.74877,
+"lng":-73.96986,
+"total_readers":1
+},
+{
+"lid":49,
+"location_name":"9 AV AND 42 ST",
+"lat":40.75836,
+"lng":-73.99263,
+"total_readers":2
+},
+{
+"lid":50,
+"location_name":"8 AV AND 23 ST",
+"lat":40.74524,
+"lng":-73.99854,
+"total_readers":2
+},
+{
+"lid":51,
+"location_name":"BROADWAY AND 72 ST",
+"lat":40.77870,
+"lng":-73.98196,
+"total_readers":2
+},
+{
+"lid":52,
+"location_name":"BROADWAY AND 57 ST",
+"lat":40.76621,
+"lng":-73.98190,
+"total_readers":2
+},
+{
+"lid":53,
+"location_name":"8 AV AND 42 ST",
+"lat":40.75717,
+"lng":-73.98981,
+"total_readers":2
+},
+{
+"lid":54,
+"location_name":"8 AV AND 57 ST",
+"lat":40.76664,
+"lng":-73.98291,
+"total_readers":2
+},
+{
+"lid":55,
+"location_name":"2 AV AND 57 ST",
+"lat":40.75929,
+"lng":-73.96538,
+"total_readers":2
+},
+{
+"lid":56,
+"location_name":"7 AV AND 57 ST",
+"lat":40.76543,
+"lng":-73.98005,
+"total_readers":2
+},
+{
+"lid":57,
+"location_name":"8 AV AND 34 ST",
+"lat":40.75210,
+"lng":-73.99351,
+"total_readers":2
+},
+{
+"lid":58,
+"location_name":"9 AV AND 57 ST",
+"lat":40.76783,
+"lng":-73.98574,
+"total_readers":2
+},
+{
+"lid":59,
+"location_name":"7 AV AND 42 ST",
+"lat":40.75597,
+"lng":-73.98698,
+"total_readers":3
+},
+{
+"lid":60,
+"location_name":"7 AV AND 34 ST",
+"lat":40.75096,
+"lng":-73.99068,
+"total_readers":2
+},
+{
+"lid":61,
+"location_name":"9 AV AND 34 ST",
+"lat":40.75334,
+"lng":-73.99629,
+"total_readers":2
+},
+{
+"lid":62,
+"location_name":"HYLAN BLVD AND NEW DORP LA",
+"lat":40.57039,
+"lng":-74.10968,
+"total_readers":2
+},
+{
+"lid":63,
+"location_name":"FATH CAP BLVD AND SEAVIEW AVE",
+"lat":40.57924,
+"lng":-74.07781,
+"total_readers":3
+},
+{
+"lid":64,
+"location_name":"LILY POND AVE AND VZB ENTRANCE",
+"lat":40.60093,
+"lng":-74.06482,
+"total_readers":1
+},
+{
+"lid":65,
+"location_name":"LILY POND AV AND VZB EXIT",
+"lat":40.60396,
+"lng":-74.06608,
+"total_readers":1
+},
+{
+"lid":66,
+"location_name":"HYLAN BLVD AND SEAVIEW AVE",
+"lat":40.58634,
+"lng":-74.09198,
+"total_readers":2
+},
+{
+"lid":67,
+"location_name":"HYLAN BLVD E RDWY AND NARROWS RD SOUTH",
+"lat":40.60526,
+"lng":-74.07667,
+"total_readers":2
+},
+{
+"lid":68,
+"location_name":"FINGERBOARD RD AND NARROWS RD SOUTH",
+"lat":40.60347,
+"lng":-74.06927,
+"total_readers":1
+},
+{
+"lid":69,
+"location_name":"FINGERBOARD RD AND NARROWS RD NORTH",
+"lat":40.60422,
+"lng":-74.06898,
+"total_readers":1
+},
+{
+"lid":70,
+"location_name":"FLATBUSH AV AND WILLOUGHBY ST",
+"lat":40.69206,
+"lng":-73.98254,
+"total_readers":2
+},
+{
+"lid":71,
+"location_name":"FLATBUSH AV AND ATLANTIC AVE",
+"lat":40.68407,
+"lng":-73.97744,
+"total_readers":3
+},
+{
+"lid":72,
+"location_name":"ATLANTIC AV AND BQE N EXIT",
+"lat":40.69140,
+"lng":-73.99874,
+"total_readers":2
+},
+{
+"lid":73,
+"location_name":"FLATBUSH AV AND TILLARY ST",
+"lat":40.69601,
+"lng":-73.98457,
+"total_readers":2
+},
+{
+"lid":74,
+"location_name":"HYLAN BLVD AND MIDLAND AV",
+"lat":40.57781,
+"lng":-74.10229,
+"total_readers":2
+},
+{
+"lid":75,
+"location_name":"10 AV AND 14 ST",
+"lat":40.74213,
+"lng":-74.00828,
+"total_readers":2
+},
+{
+"lid":76,
+"location_name":"1 AV AND 14 ST",
+"lat":40.73129,
+"lng":-73.98263,
+"total_readers":2
+},
+{
+"lid":77,
+"location_name":"10 AV AND 57 ST",
+"lat":40.76901,
+"lng":-73.98856,
+"total_readers":1
+},
+{
+"lid":78,
+"location_name":"10 AV AND 34 ST",
+"lat":40.75460,
+"lng":-73.99917,
+"total_readers":2
+},
+{
+"lid":79,
+"location_name":"10 AV AND 23 ST",
+"lat":40.74768,
+"lng":-74.00421,
+"total_readers":2
+},
+{
+"lid":80,
+"location_name":"11 AV AND 42 ST",
+"lat":40.76080,
+"lng":-73.99838,
+"total_readers":2
+},
+{
+"lid":81,
+"location_name":"11 AV AND 57 ST",
+"lat":40.77024,
+"lng":-73.99144,
+"total_readers":2
+},
+{
+"lid":82,
+"location_name":"9 AV AND 23 ST",
+"lat":40.74646,
+"lng":-74.00136,
+"total_readers":2
+},
+{
+"lid":83,
+"location_name":"BROADWAY AND 14 ST",
+"lat":40.73476,
+"lng":-73.99081,
+"total_readers":1
+},
+{
+"lid":84,
+"location_name":"HYLAN BLVD W RDWY AND NARROWS RD SOUTH",
+"lat":40.60560,
+"lng":-74.07787,
+"total_readers":1
+},
+{
+"lid":85,
+"location_name":"10 AV AND 49 ST",
+"lat":40.76397,
+"lng":-73.99227,
+"total_readers":2
+},
+{
+"lid":86,
+"location_name":"WOODHAVEN BLVD AND JAMAICA AV",
+"lat":40.69366,
+"lng":-73.85216,
+"total_readers":2
+},
+{
+"lid":87,
+"location_name":"WOODHAVEN BLVD AND ROCKAWAY BLVD",
+"lat":40.68069,
+"lng":-73.84457,
+"total_readers":2
+},
+{
+"lid":88,
+"location_name":"CROSS BAY BLVD AND 156 AV",
+"lat":40.66418,
+"lng":-73.84112,
+"total_readers":2
+},
+{
+"lid":89,
+"location_name":"CROSS BAY BLVD AND N CHANNEL BRIDGE",
+"lat":40.63777,
+"lng":-73.83213,
+"total_readers":2
+},
+{
+"lid":90,
+"location_name":"CROSS BAY BLVD AND WILDLIFE PRESERVE",
+"lat":40.61733,
+"lng":-73.82371,
+"total_readers":2
+},
+{
+"lid":91,
+"location_name":"CROSS BAY BLVD AND W 6 RD",
+"lat":40.60957,
+"lng":-73.81905,
+"total_readers":2
+},
+{
+"lid":92,
+"location_name":"CROSS BAY BLVD AND WEST 20 RD",
+"lat":40.59888,
+"lng":-73.82069,
+"total_readers":2
+},
+{
+"lid":93,
+"location_name":"OCEAN PKWY AND KINGS HWY",
+"lat":40.60549,
+"lng":-73.96695,
+"total_readers":2
+},
+{
+"lid":94,
+"location_name":"OCEAN PKWY AND AVENUE U",
+"lat":40.59779,
+"lng":-73.96548,
+"total_readers":2
+},
+{
+"lid":95,
+"location_name":"WOODHAVEN BLVD AND FURMANVILLE AVE",
+"lat":40.72028,
+"lng":-73.86547,
+"total_readers":2
+},
+{
+"lid":96,
+"location_name":"WOODHAVEN BLVD AND METROPOLITAN AVE",
+"lat":40.71184,
+"lng":-73.85975,
+"total_readers":2
+},
+{
+"lid":97,
+"location_name":"WOODHAVEN BLVD AND UNION TPKE",
+"lat":40.70559,
+"lng":-73.85822,
+"total_readers":3
+},
+{
+"lid":98,
+"location_name":"OCEAN PKWY AND AVENUE X",
+"lat":40.59105,
+"lng":-73.96514,
+"total_readers":2
+},
+{
+"lid":99,
+"location_name":"WOODHAVEN BLVD AND MYRTLE AV",
+"lat":40.70259,
+"lng":-73.85529,
+"total_readers":2
+},
+{
+"lid":100,
+"location_name":"OCEAN PKWY AND SHORE PKWY NSR",
+"lat":40.58455,
+"lng":-73.96662,
+"total_readers":2
+},
+{
+"lid":101,
+"location_name":"ATLANTIC AV AND 6 AV",
+"lat":40.68309,
+"lng":-73.97377,
+"total_readers":2
+},
+{
+"lid":102,
+"location_name":"1 AV AND 34 ST",
+"lat":40.74375,
+"lng":-73.97356,
+"total_readers":2
+},
+{
+"lid":103,
+"location_name":"2 AV AND 34 ST",
+"lat":40.74475,
+"lng":-73.97593,
+"total_readers":2
+},
+{
+"lid":104,
+"location_name":"11 AV AND 23 ST",
+"lat":40.74886,
+"lng":-74.00707,
+"total_readers":2
+},
+{
+"lid":105,
+"location_name":"2 AV AND 23 ST",
+"lat":40.73783,
+"lng":-73.98099,
+"total_readers":2
+},
+{
+"lid":106,
+"location_name":"7 AV AND 23 ST",
+"lat":40.74409,
+"lng":-73.99567,
+"total_readers":2
+},
+{
+"lid":107,
+"location_name":"7 AV AND 14 ST",
+"lat":40.73852,
+"lng":-73.99972,
+"total_readers":2
+},
+{
+"lid":108,
+"location_name":"11 AV AND 34 ST",
+"lat":40.75587,
+"lng":-74.00203,
+"total_readers":2
+},
+{
+"lid":109,
+"location_name":"10 AV AND 42 ST",
+"lat":40.75956,
+"lng":-73.99547,
+"total_readers":2
+},
+{
+"lid":110,
+"location_name":"9 AV AND 14 ST",
+"lat":40.74091,
+"lng":-74.00523,
+"total_readers":2
+},
+{
+"lid":111,
+"location_name":"OCEAN PKWY AND DITMAS AV",
+"lat":40.63603,
+"lng":-73.97265,
+"total_readers":2
+},
+{
+"lid":112,
+"location_name":"OCEAN PKWY AND CHURCH AV",
+"lat":40.64476,
+"lng":-73.97426,
+"total_readers":2
+},
+{
+"lid":113,
+"location_name":"OCEAN PKWY AND AVE I",
+"lat":40.62651,
+"lng":-73.97089,
+"total_readers":2
+},
+{
+"lid":114,
+"location_name":"SURF AV AND STILLWELL AV",
+"lat":40.57553,
+"lng":-73.98119,
+"total_readers":2
+},
+{
+"lid":115,
+"location_name":"OCEAN PKWY AND SEA BREEZE AV",
+"lat":40.57506,
+"lng":-73.96854,
+"total_readers":2
+},
+{
+"lid":116,
+"location_name":"11 AV AND 49 ST",
+"lat":40.76517,
+"lng":-73.99514,
+"total_readers":2
+},
+{
+"lid":117,
+"location_name":"ATLANTIC AV AND BOERUM PL",
+"lat":40.68898,
+"lng":-73.99057,
+"total_readers":2
+},
+{
+"lid":118,
+"location_name":"5 AV AND 34 ST",
+"lat":40.74841,
+"lng":-73.98463,
+"total_readers":2
+},
+{
+"lid":119,
+"location_name":"9 AV AND 37 ST",
+"lat":40.75526,
+"lng":-73.99489,
+"total_readers":2
+},
+{
+"lid":120,
+"location_name":"FLATBUSH AVE AND AVIATOR SPORTS GOLD CTR",
+"lat":40.59019,
+"lng":-73.90094,
+"total_readers":2
+},
+{
+"lid":121,
+"location_name":"HYLAN  BLVD AND RICHMOND AV",
+"lat":40.53427,
+"lng":-74.15397,
+"total_readers":3
+},
+{
+"lid":122,
+"location_name":"FLATBUSH AV AND AVENUE U",
+"lat":40.60991,
+"lng":-73.92247,
+"total_readers":2
+},
+{
+"lid":123,
+"location_name":"HYLAN BVD AND PAGE AV",
+"lat":40.50773,
+"lng":-74.23005,
+"total_readers":2
+},
+{
+"lid":124,
+"location_name":"HYLAN BLVD AND SEGUINE AV",
+"lat":40.51912,
+"lng":-74.19714,
+"total_readers":2
+},
+{
+"lid":125,
+"location_name":"HYLAN BLVD AND HUGUENOT AV",
+"lat":40.52400,
+"lng":-74.18610,
+"total_readers":2
+},
+{
+"lid":126,
+"location_name":"HYLAN BLVD AND GUYON AV",
+"lat":40.56021,
+"lng":-74.11999,
+"total_readers":2
+},
+{
+"lid":127,
+"location_name":"HYLAN BLVD AND ARDEN AV",
+"lat":40.52937,
+"lng":-74.16135,
+"total_readers":2
+},
+{
+"lid":128,
+"location_name":"HYLAN BLVD AND FINGERBOARD WEST RD",
+"lat":40.59897,
+"lng":-74.07214,
+"total_readers":4
+},
+{
+"lid":129,
+"location_name":"RICHMOND AV AND RICHMOND HILL RD",
+"lat":40.58867,
+"lng":-74.16739,
+"total_readers":2
+},
+{
+"lid":130,
+"location_name":"RICHMOND AV AND FORREST HILL RD",
+"lat":40.57086,
+"lng":-74.16974,
+"total_readers":2
+},
+{
+"lid":131,
+"location_name":"RICHMOND AV AND ETON PLACE",
+"lat":40.60458,
+"lng":-74.16221,
+"total_readers":2
+},
+{
+"lid":132,
+"location_name":"PELHAM PKWY EB  AND STILLWELL AV",
+"lat":40.85672,
+"lng":-73.83674,
+"total_readers":2
+},
+{
+"lid":133,
+"location_name":"FLATBUSH AV AND KINGS HWY",
+"lat":40.62238,
+"lng":-73.93664,
+"total_readers":2
+},
+{
+"lid":134,
+"location_name":"FLATBUSH AV AND FILLMORE AV",
+"lat":40.61475,
+"lng":-73.92809,
+"total_readers":2
+},
+{
+"lid":135,
+"location_name":"FLATBUSH AV AND GOLF COURSE",
+"lat":40.60113,
+"lng":-73.91300,
+"total_readers":2
+},
+{
+"lid":136,
+"location_name":"PELHAM PKWY AND BOSTON RD",
+"lat":40.85665,
+"lng":-73.86933,
+"total_readers":1
+},
+{
+"lid":137,
+"location_name":"NEPTUNE AV AND STILLWELL AV",
+"lat":40.57918,
+"lng":-73.98193,
+"total_readers":2
+},
+{
+"lid":138,
+"location_name":"86 ST AND STILLWELL AV",
+"lat":40.59662,
+"lng":-73.98528,
+"total_readers":2
+},
+{
+"lid":139,
+"location_name":"RICHMOND AV AND WAINWRIGHT AV",
+"lat":40.56004,
+"lng":-74.16982,
+"total_readers":2
+},
+{
+"lid":140,
+"location_name":"BEACH CHANNEL DR AND BEACH 140 ST",
+"lat":40.57757,
+"lng":-73.85975,
+"total_readers":2
+},
+{
+"lid":141,
+"location_name":"DYER AV AND 34 ST",
+"lat":40.75569,
+"lng":-73.99576,
+"total_readers":3
+},
+{
+"lid":142,
+"location_name":"DYER PLAZA (CENTER-SOUTH TUBE)",
+"lat":40.75757,
+"lng":-73.99681,
+"total_readers":8
+},
+{
+"lid":143,
+"location_name":"GALVIN PLAZA (NORTH TUBE)",
+"lat":40.75888,
+"lng":-73.99919,
+"total_readers":1
+},
+{
+"lid":144,
+"location_name":"BEACH CHANNEL DR AND BEACH 116 ST",
+"lat":40.58179,
+"lng":-73.83846,
+"total_readers":2
+},
+{
+"lid":145,
+"location_name":"HYLAN BLVD AND KEEGANS LA",
+"lat":40.54943,
+"lng":-74.13739,
+"total_readers":2
+},
+{
+"lid":146,
+"location_name":"RICHMOND AV AND AMBOY RD",
+"lat":40.54318,
+"lng":-74.16435,
+"total_readers":2
+},
+{
+"lid":147,
+"location_name":"CONDUIT AV S AND ROCKAWAY BLVD",
+"lat":40.66660,
+"lng":-73.77992,
+"total_readers":2
+},
+{
+"lid":148,
+"location_name":"ROCKAWAY BLVD AND BROOKVILLE BLVD",
+"lat":40.64062,
+"lng":-73.74338,
+"total_readers":2
+},
+{
+"lid":149,
+"location_name":"I-95 AND BAYCHESTER AV",
+"lat":40.87025,
+"lng":-73.83338,
+"total_readers":5
+},
+{
+"lid":150,
+"location_name":"ROCKAWAY BLVD AND FARMERS BLVD",
+"lat":40.65965,
+"lng":-73.77390,
+"total_readers":2
+},
+{
+"lid":151,
+"location_name":"ROCKAWAY BLVD AND 5 TOWNS CENTRE E",
+"lat":40.63644,
+"lng":-73.74041,
+"total_readers":2
+},
+{
+"lid":152,
+"location_name":"PELHAM SHORE RD AND CITY ISLAND ROAD",
+"lat":40.86466,
+"lng":-73.81386,
+"total_readers":2
+},
+{
+"lid":153,
+"location_name":"HUTCHINSON RIVER PKWY AND BARTOW AV",
+"lat":40.86668,
+"lng":-73.82313,
+"total_readers":3
+},
+{
+"lid":154,
+"location_name":"BEACH CHANNEL DR\\BAY 32 ST",
+"lat":40.59877,
+"lng":-73.76617,
+"total_readers":2
+},
+{
+"lid":155,
+"location_name":"SEAGIRT BLVD AND BEACH 9TH ST.",
+"lat":40.59649,
+"lng":-73.74414,
+"total_readers":2
+},
+{
+"lid":156,
+"location_name":"BEACH CHANNEL DR AND BEACH 90TH ST.",
+"lat":40.58938,
+"lng":-73.81555,
+"total_readers":2
+},
+{
+"lid":157,
+"location_name":"ROOSEVELT AND MAIN ST",
+"lat":40.75952,
+"lng":-73.83022,
+"total_readers":2
+},
+{
+"lid":158,
+"location_name":"NORTHERN BLVD AND MAIN ST",
+"lat":40.76288,
+"lng":-73.83192,
+"total_readers":3
+},
+{
+"lid":159,
+"location_name":"MAIN ST. AND SANFORD",
+"lat":40.75656,
+"lng":-73.82886,
+"total_readers":2
+},
+{
+"lid":160,
+"location_name":"KISSENA BLVD AND SANFORD",
+"lat":40.75707,
+"lng":-73.82722,
+"total_readers":2
+},
+{
+"lid":161,
+"location_name":"KISSENA BLVD AND HORACE HARDING EXPWY N SERVICE ROAD",
+"lat":40.73905,
+"lng":-73.81523,
+"total_readers":2
+},
+{
+"lid":162,
+"location_name":"HORACE HARDING NSR AND MAIN ST.",
+"lat":40.74248,
+"lng":-73.82554,
+"total_readers":2
+},
+{
+"lid":163,
+"location_name":"ROOSEVELT AVE AND PARSONS BLVD",
+"lat":40.76155,
+"lng":-73.82217,
+"total_readers":2
+},
+{
+"lid":164,
+"location_name":"NORTHERN BLVD AND PARSONS BLVD",
+"lat":40.76453,
+"lng":-73.82362,
+"total_readers":2
+},
+{
+"lid":165,
+"location_name":"NORTHERN BLVD AND UNION ST",
+"lat":40.76388,
+"lng":-73.82814,
+"total_readers":2
+},
+{
+"lid":166,
+"location_name":"JACKIE ROBINSON @ METROPOLITAN AVE",
+"lat":40.70903,
+"lng":-73.84153,
+"total_readers":2
+},
+{
+"lid":167,
+"location_name":"JACKIE ROBINSON @ FOREST PARK DR",
+"lat":40.69851,
+"lng":-73.87051,
+"total_readers":2
+},
+{
+"lid":168,
+"location_name":"JACKIE ROBINSON @ JAMAICA AV",
+"lat":40.67828,
+"lng":-73.89749,
+"total_readers":2
+},
+{
+"lid":169,
+"location_name":"JACKIE ROBINSON @ QUEENS BLVD",
+"lat":40.71486,
+"lng":-73.82908,
+"total_readers":2
+},
+{
+"lid":170,
+"location_name":"WOODHAVEN BLVD @ DRY HARBOR RD",
+"lat":40.72798,
+"lng":-73.87102,
+"total_readers":2
+},
+{
+"lid":171,
+"location_name":"WEST SIDE HWY AND 79 ST",
+"lat":40.78553,
+"lng":-73.98399,
+"total_readers":1
+},
+{
+"lid":172,
+"location_name":"WEST SIDE HWY AND 99 ST",
+"lat":40.79849,
+"lng":-73.97528,
+"total_readers":1
+},
+{
+"lid":173,
+"location_name":"WEST SIDE HWY AND 125 ST",
+"lat":40.81862,
+"lng":-73.96096,
+"total_readers":2
+},
+{
+"lid":174,
+"location_name":"WEST SIDE HWY AND GWB",
+"lat":40.85009,
+"lng":-73.94485,
+"total_readers":4
+},
+{
+"lid":175,
+"location_name":"HORACE HARDING NSR AND COLLEGE PT BLVD",
+"lat":40.74363,
+"lng":-73.83602,
+"total_readers":3
+},
+{
+"lid":176,
+"location_name":"COLLEGE POINT BLVD AND SANFORD AVE",
+"lat":40.75459,
+"lng":-73.83320,
+"total_readers":2
+},
+{
+"lid":177,
+"location_name":"ROOSEVELT AVE AND COLLEGE POINT",
+"lat":40.75819,
+"lng":-73.83439,
+"total_readers":3
+},
+{
+"lid":178,
+"location_name":"COLLEGE POINT BLVD AND 35",
+"lat":40.76347,
+"lng":-73.83611,
+"total_readers":2
+},
+{
+"lid":179,
+"location_name":"MAIN ST AND PECK AV",
+"lat":40.74936,
+"lng":-73.82583,
+"total_readers":2
+},
+{
+"lid":180,
+"location_name":"SEAGIRT AV AND BEACH 32 ST",
+"lat":40.59583,
+"lng":-73.76469,
+"total_readers":2
+},
+{
+"lid":181,
+"location_name":"BEACH CHANNEL DR AND BEACH 69TH ST",
+"lat":40.59273,
+"lng":-73.79812,
+"total_readers":2
+},
+{
+"lid":182,
+"location_name":"BEACH CHANNEL DR AND MOTT AVE",
+"lat":40.60541,
+"lng":-73.75529,
+"total_readers":2
+},
+{
+"lid":183,
+"location_name":"KISSENA BLVD AND HOLLY AVE",
+"lat":40.75054,
+"lng":-73.81932,
+"total_readers":2
+},
+{
+"lid":184,
+"location_name":"COLLEGE POINT BLVD AND BOOTH MEMORIAL AVE",
+"lat":40.74790,
+"lng":-73.83313,
+"total_readers":2
+},
+{
+"lid":185,
+"location_name":"NORTHERN BLVD @ FLUSHING CREEK BRIDGE",
+"lat":40.76270,
+"lng":-73.83687,
+"total_readers":2
+},
+{
+"lid":186,
+"location_name":"FDR AND 10TH ST",
+"lat":40.72410,
+"lng":-73.97333,
+"total_readers":4
+},
+{
+"lid":187,
+"location_name":"FDR @ JACKSON ST",
+"lat":40.71085,
+"lng":-73.98057,
+"total_readers":2
+},
+{
+"lid":188,
+"location_name":"5TH AVE AND 96TH ST",
+"lat":40.78781,
+"lng":-73.95583,
+"total_readers":2
+},
+{
+"lid":189,
+"location_name":"5TH AVE AND 86TH ST",
+"lat":40.78147,
+"lng":-73.96044,
+"total_readers":1
+},
+{
+"lid":190,
+"location_name":"LEXINGTON AVE AND 96TH ST",
+"lat":40.78576,
+"lng":-73.95099,
+"total_readers":2
+},
+{
+"lid":191,
+"location_name":"LEXINGTON AVE AND 86TH ST",
+"lat":40.77944,
+"lng":-73.95560,
+"total_readers":2
+},
+{
+"lid":192,
+"location_name":"2 AVE AND 86 ST",
+"lat":40.77783,
+"lng":-73.95180,
+"total_readers":2
+},
+{
+"lid":193,
+"location_name":"2 AVE AND 72 ST",
+"lat":40.76874,
+"lng":-73.95849,
+"total_readers":2
+},
+{
+"lid":194,
+"location_name":"WBB @ DELANCY EB MANHATTAN",
+"lat":40.71743,
+"lng":-73.98538,
+"total_readers":1
+},
+{
+"lid":195,
+"location_name":"WBB @ DELANCY WB MANHATTAN",
+"lat":40.71774,
+"lng":-73.98522,
+"total_readers":1
+},
+{
+"lid":196,
+"location_name":"WBB @ BEDFORD EB BROOKLYN",
+"lat":40.71074,
+"lng":-73.96337,
+"total_readers":1
+},
+{
+"lid":197,
+"location_name":"WBB @ BEDFORD WB BROOKLYN",
+"lat":40.71106,
+"lng":-73.96321,
+"total_readers":1
+},
+{
+"lid":198,
+"location_name":"CRESCENT @ 41 AVE",
+"lat":40.75224,
+"lng":-73.93908,
+"total_readers":1
+}
+]
+}

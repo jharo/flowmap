@@ -1,0 +1,1510 @@
+{
+"RECORDS":[
+{
+"Name":"11th Ave N Ganesvoort St - 12th Ave N 40th St",
+"readersStatus":"one working",
+"polyline":"w~swF|~ubMkDeBgDy@s[cDuKgAgC@yFvBaB?uNaEsCk@sNeJeZqR",
+"ExternalId":4616337
+},
+{
+"Name":"11th Ave S Ganesvoort St - West St S Spring St",
+"readersStatus":"one working",
+"polyline":"o_twFl`vbMrBz@`BRpGU~Rj@b_@hBpQ`A",
+"ExternalId":4616325
+},
+{
+"Name":"12th Ave N 40th - 57th St",
+"readersStatus":"both failed",
+"polyline":"caxwF`ptbMgCaB}BsBkFyHkByBsa@cXoAm@kB_@}CWeBY",
+"ExternalId":4616338
+},
+{
+"Name":"12th Ave S 45th St - 11th Ave Ganesvoort St",
+"readersStatus":"both working",
+"polyline":"qtxwF~}sbMfA`AvFhJ|QhMz]bUlThGbBDtA?tCoAxBu@lAH|PhBdYbDrBp@hBz@",
+"ExternalId":4616324
+},
+{
+"Name":"12th Ave S 57th St - 45th St",
+"readersStatus":"one working",
+"polyline":"{ezwFh`sbMrAb@~BRxC\\tAd@fA~@b`@~V",
+"ExternalId":4616323
+},
+{
+"Name":"BBT E Brooklyn Side - GOW S 9th St",
+"readersStatus":"one working",
+"polyline":"wlhwFxaubMdOuLjN}I",
+"ExternalId":4616302
+},
+{
+"Name":"BBT E Manhattan ORT - Brooklyn Side",
+"readersStatus":"both working",
+"polyline":"igmwFzbwbM|H`BhDLvED|H}Ane@mMft@a`@vJgFnHqCxCmAjCkB",
+"ExternalId":4456502
+},
+{
+"Name":"BBT W Brooklyn Side - Manhattan ORT",
+"readersStatus":"both working",
+"polyline":"enhwFd`ubM}GnEqHnCu`@pSu]nRgl@hPcDL_FSiKuB",
+"ExternalId":4456501
+},
+{
+"Name":"BE N 149th St - Stratford Ave",
+"readersStatus":"one working",
+"polyline":"_uaxF~~`bM{Vy`@qd@ie@aOeTeIolA",
+"ExternalId":4616410
+},
+{
+"Name":"BE N Castle Hill Ave - Griswold Ave",
+"readersStatus":"one working",
+"polyline":"w`exFdxvaMiAoNgEc]e@qOUmMaAoL_BoG}BqGgK{R_JiS{AkD}BiBmFyAoFv@aGlBiP\\iOK",
+"ExternalId":4616247
+},
+{
+"Name":"BE N Griswold Ave - Baychester Ave",
+"readersStatus":"both failed",
+"polyline":"alhxFz`raMuDCyEv@gIrDeDt@oDRoDQyNaDmF]sKb@aKlAoKrCqD~B_LrHaFfCmLnF{JjEoIvC",
+"ExternalId":4616248
+},
+{
+"Name":"BE N RFK Bridge - 149th St",
+"readersStatus":"one working",
+"polyline":"qf`xFvvcbMyAuAw@cCk@sDqQwf@aCaIwPmX",
+"ExternalId":4616409
+},
+{
+"Name":"BE N Stratford Avenue-Castle Hill Avenue",
+"readersStatus":"both working",
+"polyline":"emdxFto{aMwF}x@kAaV{GqcA",
+"ExternalId":4616246
+},
+{
+"Name":"BE S 149th St - MDE N 142nd St",
+"readersStatus":"one working",
+"polyline":"evaxFpaabMbPdWhUrs@?~GqZxbAuD|G}IdMyC|AmGS_JoBuFZ",
+"ExternalId":4616413
+},
+{
+"Name":"BE S 149th St - RFK Bridge",
+"readersStatus":"one working",
+"polyline":"ouaxFfaabMjOdVtEhNnFrOrDfJbCfIH`Ed@lBdA`AhBJ",
+"ExternalId":4616412
+},
+{
+"Name":"BE S Baychester Ave - Griswold Ave",
+"readersStatus":"both failed",
+"polyline":"_lmxFvrsaMfHcClViKpKcEpDuBfFqF~BoBnDw@bFgAfJqAnK[`CL|B^rKhClBT~EDzEq@hGoCbF_BjGU",
+"ExternalId":4616263
+},
+{
+"Name":"BE S Castle Hill Avenue-Stratford Avenue",
+"readersStatus":"both working",
+"polyline":"}aexFnzvaMtF|x@bApOv@tPjFzx@",
+"ExternalId":4616260
+},
+{
+"Name":"BE S Griswold Ave - Castle Hill Ave",
+"readersStatus":"one working",
+"polyline":"yjhxFrbraMtc@OnH{A~BYjD^dE|DzEjLnKlShEpIdBpFpAfHj@~JNnN`@hKvDz\\xAvO",
+"ExternalId":4616261
+},
+{
+"Name":"BE S Griswold Ave - CBE E Prentiss Ave",
+"readersStatus":"both failed",
+"polyline":"ckhxFrcraMvf@c@tIiExU{QvVqShLiHjUmEzG}CvE{GtDsMzAcH",
+"ExternalId":4616426
+},
+{
+"Name":"BE S RFK Exit Ramp - Queens Anchorage",
+"readersStatus":"both working",
+"polyline":"we`xFpycbM`CbB~VbRtUfQpm@~g@jClCfFhAnGuAhDgBfIaItJeGzRwM",
+"ExternalId":4456478
+},
+{
+"Name":"BE S Stratford Ave - 149th St",
+"readersStatus":"one working",
+"polyline":"kndxFrt{aMxIbnAvK|QlRvQjUbVjU~]",
+"ExternalId":4616411
+},
+{
+"Name":"BELT Pkwy E 182nd St - Laurelton Pkwy N @ SSP",
+"readersStatus":"both working",
+"polyline":"}sewFjveaMxBe`@LmD?_j@|@}j@YyCgAuDgAaCcDyDaFyDaXuOoR}NgTeS_TwMaFoCgAW",
+"ExternalId":4616355
+},
+{
+"Name":"BELT Pkwy W 182nd St - JFK Expwy",
+"readersStatus":"one working",
+"polyline":"cuewFfveaMyCzi@k@xQ?xT`@nTj@|Q",
+"ExternalId":4616356
+},
+{
+"Name":"BELT Pkwy W JFK Expwy - VWE N Jamaica Ave",
+"readersStatus":"one working",
+"polyline":"wxewF`siaMbCrj@JlEUxF{@vJTpb@w@pCmDnC_Bn@gH]mHD}G^eCb@wk@nSk`@hOid@zSwQzIeLxFaPzHiOlF",
+"ExternalId":4616357
+},
+{
+"Name":"BELT W JFK Expwy exit - JFK Expwy S 150th St",
+"readersStatus":"one working",
+"polyline":"cyewF~siaMh@|YzF`JdJdIta@jPzCF`D{@~D}DhIuU",
+"ExternalId":5107717
+},
+{
+"Name":"BKN Bridge Manhattan Side - FDR N Catherine Slip ",
+"readersStatus":"one working",
+"polyline":"i_nwFvftbMyKbOm@\\o@A]_A^{@|@OzBkAtEqGlB_CdCQn@g@ZcBQqAcBqFi@oD",
+"ExternalId":4616342
+},
+{
+"Name":"BQE N 46th St - Broadway\/Roosevelt Ave",
+"readersStatus":"both working",
+"polyline":"g_swFnpdbMoCw^iDei@yBmLkJc[qDsIqXc^gEcCuFRyNzG",
+"ExternalId":4616393
+},
+{
+"Name":"BQE N Atlantic Ave - BKN Bridge Manhattan Side",
+"readersStatus":"one working",
+"polyline":"golwFzdrbMVyCn@cAbAY`ATJlAmArCgU|Za]xd@",
+"ExternalId":4616339
+},
+{
+"Name":"BQE N Atlantic Ave - MAN Bridge Manhattan Side",
+"readersStatus":"one working",
+"polyline":"uelwFvdqbM|A_At@A`@Ld@`ABx@W|@kB`BmfA~f@aXrL",
+"ExternalId":4616340
+},
+{
+"Name":"BQE N Atlantic Ave - Tillary St",
+"readersStatus":"one working",
+"polyline":"kjjwFxzsbMgKfCiE[ee@uPkDgD{BaFiBqIOmH|BaZdCoHlUcX",
+"ExternalId":4616488
+},
+{
+"Name":"BQE N Broadway\/Roosevelt Ave - GCP E 82nd St",
+"readersStatus":"both working",
+"polyline":"gwuwFxy_bMeG~CaKhAyD`B{LzFoEpAkEr@qCQyCy@eJwFoO{J}CuEwEeBwBqBm@{C_@iMYwB",
+"ExternalId":4616395
+},
+{
+"Name":"BQE N Broadway\/Roosevelt Ave - GCP W 27th St",
+"readersStatus":"one working",
+"polyline":"ewuwFxz_bMkHlDmBXcGXuR~JmGnBmDjByGxCkSrCgSpGiJrCkChAu@h@i@~@YdBAhB[nD",
+"ExternalId":4616394
+},
+{
+"Name":"BQE N Leonard St - 46th St",
+"readersStatus":"one working",
+"polyline":"esowFv_jbMsCiFeJcQ_G_McGsJkIqRoD}TgAkFeAyCiAaCmAeBuJmMeGkFuMyHiCkBoBkC}AkCwCaKy@sE",
+"ExternalId":4616235
+},
+{
+"Name":"BQE N Tillary St - Leonard St ",
+"readersStatus":"one working",
+"polyline":"qqkwF~mpbMz@sBZoBfAym@v@ym@g@oE{CkFqBoAaRgEg]mOs]eQwRsLqLkMuJ}O",
+"ExternalId":4616489
+},
+{
+"Name":"BQE S 46th St - Leonard St",
+"readersStatus":"one working",
+"polyline":"saswF`pdbM`@fD|@vEhAjDrA~CnCfEpD`D|LlH|DzC|EjFrHdKzAhDrAbFfFvY|HxQdGtJpLbVrHhN",
+"ExternalId":4616232
+},
+{
+"Name":"BQE S Atlantic Ave - GOW S 9th St",
+"readersStatus":"both failed",
+"polyline":"ujjwFx{sbMbCBfCj@~l@hU~JpDfD^nCy@dG{EvGuE",
+"ExternalId":4616229
+},
+{
+"Name":"BQE S Broadway\/Roosevelt Ave - 46th St",
+"readersStatus":"both working",
+"polyline":"qtuwF|z_bMpIyE|FaBtDb@|BlAzCtDpPnThEtHbElOfHzS`AzJrG`eA",
+"ExternalId":4616398
+},
+{
+"Name":"BQE S Leonard St - Tillary St",
+"readersStatus":"both failed",
+"polyline":"irowFvdjbM`OtUzM|Nzo@xY|U|KxVvG~BrBpBzG{Bv{A_A|F",
+"ExternalId":4616486
+},
+{
+"Name":"BQE S Tillary St - Atlantic Ave ",
+"readersStatus":"both failed",
+"polyline":"mrkwFdmpbM_VrXkB~DqBjUStPvBzJvD|Hj\\`NvMnEzCVjIsC",
+"ExternalId":4616487
+},
+{
+"Name":"BRP N Watson Avenue-Fordham Road",
+"readersStatus":"one working",
+"polyline":"{~dxFzf{aMuGZmGx@sPbCwLX_CJsEu@yKeCs\\iFaLyAaF[kEIuLA",
+"ExternalId":4616252
+},
+{
+"Name":"BRP S Fordham Road-Watson Avenue",
+"readersStatus":"one working",
+"polyline":"qkixFz_{aM`TFpCTzj@bIrKhCzD\\pJDhCKjYgErIY",
+"ExternalId":4616266
+},
+{
+"Name":"BWB N Queens Anchorage - Toll Plaza",
+"readersStatus":"both working",
+"polyline":"_l~wFtvqaMoOvIg]nSsXtNci@pYsB~@}Ab@{@F",
+"ExternalId":4456497
+},
+{
+"Name":"BWB N Toll Plaza - HRP N Lafayette Ave",
+"readersStatus":"one working",
+"polyline":"}rbxFvctaM{HKoHy@}h@X",
+"ExternalId":4616305
+},
+{
+"Name":"BWB S Queens Anchorage - CIP S TNB ",
+"readersStatus":"one working",
+"polyline":"ct}wFdjqaM?iHb@_E|GcU~B{O`ByWlA{Xx@gY@gY{AgM_JyWiDqOuAeN",
+"ExternalId":4362316
+},
+{
+"Name":"BWB S Queens Anchorage - WE S Exit 14 (Linden Pl)",
+"readersStatus":"both working",
+"polyline":"kk~wFlwqaMtAq@tD}@vDKlLh@zHdB|EnA~PfAjGbB|JdEt[dPbFrDfE~E",
+"ExternalId":4616312
+},
+{
+"Name":"BWB S Toll Plaza - Queens Anchorage",
+"readersStatus":"both working",
+"polyline":"uebxFpdtaMtCy@bTmL`UmLb`@wSfLyGfJaGpO_J",
+"ExternalId":4456496
+},
+{
+"Name":"CBE E Amsterdam Ave (lower level) - Morris Ave",
+"readersStatus":"both working",
+"polyline":"exhxFd{fbMfAmDPyAHeBbEyYZkEFaFi@qUi@}ZMmJJoKV{N",
+"ExternalId":4616310
+},
+{
+"Name":"CBE E Amsterdam Ave (upper level) - Morris Ave",
+"readersStatus":"both working",
+"polyline":"eyhxFnzfbM~@{C~@yGXuA|CkTX}DJ}GMoEWwIq@k^EwQZmT",
+"ExternalId":4616309
+},
+{
+"Name":"CBE E Bathgate Ave - Taylor Ave",
+"readersStatus":"both working",
+"polyline":"}ihxFth`bM`Cwb@`AoHzBaHb\\yr@`CiI~AgJf@{FfAwb@x@kHrEyU",
+"ExternalId":4616416
+},
+{
+"Name":"CBE E Castle Hill Ave - Lafayette Ave",
+"readersStatus":"both working",
+"polyline":"_sexFn|vaM`BiJ|FsOfAiFNkK}Ay\\I}Cz@oKpE{P",
+"ExternalId":4616417
+},
+{
+"Name":"CBE E Castle Hill Ave-HRP S Lafayette Ave",
+"readersStatus":"both working",
+"polyline":"sqexFp|vaMrDyP|AcD~A{C~@iEPoDO{FmAyRA}Cd@_Dt@}BzA{AhHu@fCG",
+"ExternalId":4616311
+},
+{
+"Name":"CBE E Lafayette Ave - Prentiss Ave ",
+"readersStatus":"one working",
+"polyline":"y_exFhlsaMfHi]bIq]~Lc\\pEcMnDaQvCeQ",
+"ExternalId":4616418
+},
+{
+"Name":"CBE E Morris Ave - Bathgate Ave ",
+"readersStatus":"both working",
+"polyline":"sohxFdlbbMf@_\\nC_f@",
+"ExternalId":4616415
+},
+{
+"Name":"CBE E Prentiss Ave - TNB S Toll Plaza",
+"readersStatus":"one working",
+"polyline":"imcxFd~naMzBiLtCeX",
+"ExternalId":4456527
+},
+{
+"Name":"CBE E Taylor Avenue-Castle Hill Avenue",
+"readersStatus":"both working",
+"polyline":"_pfxFd}yaMbIia@dHc^|G}\\",
+"ExternalId":4616253
+},
+{
+"Name":"CBE W Amsterdam Ave (lower level) - I-95 S Loc Lns",
+"readersStatus":"both working",
+"polyline":"k{hxFzyfbMaLf^eCtSwBnTiDh\\cEh]mIpr@}@lFeDxPk@tHiAvIoCbMmDlGcDlD",
+"ExternalId":4620315
+},
+{
+"Name":"CBE W Amsterdam Ave (upper level) - I-95 S Exp Lns",
+"readersStatus":"both working",
+"polyline":"izhxFhzfbM}DlMuErN}Ejc@wKp`AeIjs@wAfMqBdKg@fKqAzHkBtGaBzDoBrDeDjF",
+"ExternalId":4620310
+},
+{
+"Name":"CBE W Bathgate Ave - Morris Ave",
+"readersStatus":"both working",
+"polyline":"okhxFhh`bMyBfa@k@fPYdO",
+"ExternalId":4616424
+},
+{
+"Name":"CBE W Castle Hill Avenue-Taylor Avenue",
+"readersStatus":"both working",
+"polyline":"wuexFn~vaM}Ovw@wDpRuCbP",
+"ExternalId":4616267
+},
+{
+"Name":"CBE W Lafayette Ave - BE S Castle Hill Ave",
+"readersStatus":"both working",
+"polyline":"_bexFnksaM_CvGyDdJqBdJ@tD|AdLNzCRfE|@vJtAfIdB~LrArR",
+"ExternalId":4616428
+},
+{
+"Name":"CBE W Lafayette Ave - Castle Hill Ave",
+"readersStatus":"both working",
+"polyline":"{bexFpksaMgGjSaBdMNtPnAfQYvKoAdHyExS",
+"ExternalId":4616422
+},
+{
+"Name":"CBE W Morris Ave-GWB W Amsterdam Ave (lower level)",
+"readersStatus":"both working",
+"polyline":"mqhxF`mbbMQ`PGvMTxRh@|VZtOYnHeA`IiDxRoBnG",
+"ExternalId":4620332
+},
+{
+"Name":"CBE W Morris Ave-GWB W Amsterdam Ave (upper level)",
+"readersStatus":"both working",
+"polyline":"wphxFpmbbMQ|NGhMJzMTpLb@xRVpKGtC[jFiD`T}CrO",
+"ExternalId":4620331
+},
+{
+"Name":"CBE W Prentiss Ave - BE N Griswold Ave",
+"readersStatus":"both failed",
+"polyline":"apcxFp~naMoFnN}DfGoHxGsHlDqLrC_MpIeMtJa[dWgFjDoFrA{ERc^H",
+"ExternalId":4616425
+},
+{
+"Name":"CBE W Prentiss Ave - Lafayette Ave",
+"readersStatus":"one working",
+"polyline":"{ncxFt~naM{EtNiElKoBnQ_CpJoHhR}Pzs@qAvE",
+"ExternalId":4616421
+},
+{
+"Name":"CBE W Taylor Ave - Bathgate Ave ",
+"readersStatus":"both working",
+"polyline":"oqfxFr|yaMcE`ToA|L}@r_@_@fGoAnGiBjHuX|l@{EhLkBrIqC`f@",
+"ExternalId":4616423
+},
+{
+"Name":"CIP N Hempstead Tpk - LIE ",
+"readersStatus":"one working",
+"polyline":"m_owFfe_aMgB@yDe@qE_BkLeJgD{BqDuAoIkBiz@_L{Fq@yDO}DNwI~AmLnEaCnByCnDyHtNeHpR}FvLcEpG}JfLiB|B",
+"ExternalId":4616351
+},
+{
+"Name":"CIP N LIE - Northern Blvd ",
+"readersStatus":"both working",
+"polyline":"yruwF`{`aM{FdJyDvHiBpCwC`DiZrU{EnE{ExEsB|CkB|DyAdEoDtPcA|DqBtE_CnDiChC{C`CkC`AeAX",
+"ExternalId":4616349
+},
+{
+"Name":"CIP N Northern Blvd - TNB",
+"readersStatus":"one working",
+"polyline":"s{xwFj~daM}NlDuH~CmFhE_HvIqH~IkJ`HqJnEsJrD_DtAyDbCgE`EaKhKmKvIwE`EuFrHeEfKgBpHqAdMMtLL~F",
+"ExternalId":4362315
+},
+{
+"Name":"CIP N TNB - BWB N Queens Anchorage",
+"readersStatus":"one working",
+"polyline":"gv}wFbgjaM`BtOzC|LjGlQ|B~Il@`FZnL{@ra@yBlf@oB|VoBlKaFxO_DdO",
+"ExternalId":4456499
+},
+{
+"Name":"CIP N TNB ramp - TNB N Queens Anchorage",
+"readersStatus":"one working",
+"polyline":"av}wFpfjaM@rAZrHV`Cz@dFN~AEfBWhBsAnCuBfBqBfAKNyDtAoDp@uBPuBD",
+"ExternalId":4456483
+},
+{
+"Name":"CIP S Hempstead Tpk - Laurelton Pkwy @ SSP",
+"readersStatus":"one working",
+"polyline":"c_owFfg_aM|CQxE}@nKuDzFkArpBcDbIKnKcAzK?zCJfDf@",
+"ExternalId":4616352
+},
+{
+"Name":"CIP S LIE - Hempstead Tpk",
+"readersStatus":"one working",
+"polyline":"kquwFb|`aMrAaBtFgGfEmFhGgJ`L_[vF{KfEcGlC_C~CgBhJmCnDw@nEWzHRl_A~L~KlCbG`DrK`JrChAbCx@vAT~DJ",
+"ExternalId":4616350
+},
+{
+"Name":"CIP S Northern Blvd - LIE",
+"readersStatus":"both working",
+"polyline":"yyxwFr_eaMdDcA|CyBhCaCjCiDnBwDxAoElAoFxBaKbAqDrBcE~CyEnIaI~HqG~RsO`FiGtH_NhDeF",
+"ExternalId":4616348
+},
+{
+"Name":"CIP S TNB - Northern Blvd",
+"readersStatus":"one working",
+"polyline":"st}wFpejaME_HPcKn@aGdAiG`ByF`C{F`EgG~DcEpPoNtO{O|EmC`UyInImFbFeEfFsGxGkIjBmBvCuB|G}CjPeE",
+"ExternalId":4616321
+},
+{
+"Name":"Cross Bay Bri N Rockaway - Toll Plaza",
+"readersStatus":"both working",
+"polyline":"qbvvFdlpaMcBp@sBGs@J_FtEwClBoIrBk[pFyEW",
+"ExternalId":4456512
+},
+{
+"Name":"Cross Bay Bri S Toll Plaza - Rockaway",
+"readersStatus":"both working",
+"polyline":"gdxvFfeqaMvBLn^cGzGoAxDe@vG_@hAa@dB_E",
+"ExternalId":4456513
+},
+{
+"Name":"CVE N LIE ramp - TNB",
+"readersStatus":"both working",
+"polyline":"e`uwFfjgaMC|@OhAM`@WXaJ~De@`@GT??cDdAuZfLyBl@uX|FcLjB}HtBgSnIwAx@eFxBuFvBgPrHkMtEkGhAm`@x@gMbAaDd@iFhAuGrC??aAf@{CbCaExE",
+"ExternalId":4362244
+},
+{
+"Name":"CVE N TNB ramp - TNB N Queens Anchorage",
+"readersStatus":"both working",
+"polyline":"ic}wFtwjaMsJxNoHnGmFjCiCt@gEl@{CH",
+"ExternalId":4456482
+},
+{
+"Name":"FDR N 116th St - HRD N 151st St",
+"readersStatus":"both working",
+"polyline":"mt~wFnpfbMgAgB{G}C}Pk@_ObEcIbA}WhTcNtE}FYuR_BkUy@sMlA{KKgLN",
+"ExternalId":4616429
+},
+{
+"Name":"FDR N 25th - 63rd St",
+"readersStatus":"one working",
+"polyline":"smswFbcobMcEkCsDiB}CgAuDy@qLuAkIgEuFeEcDoDyCmCwYkU{H{HmIqGeDuEoDsCwGmF_IuE}EqH",
+"ExternalId":4616329
+},
+{
+"Name":"FDR N 25th St - QMT E Manhattan ORT",
+"readersStatus":"both working",
+"polyline":"}lswFdcobMwJsGuEoAyIaAq@f@kCa@oA]w@E}FtQqFiDMk@Ag@Na@",
+"ExternalId":4456522
+},
+{
+"Name":"FDR N 63rd - 99th St",
+"readersStatus":"one working",
+"polyline":"}`xwFhrkbM{IoKcL_KuSyPyTqRyFcIgIuH_D{B{Dy@wEJ{A^mR|FgFf@yDe@iCaBcByB{@uB",
+"ExternalId":4616405
+},
+{
+"Name":"FDR N 99th St - 116th St",
+"readersStatus":"both working",
+"polyline":"qt|wFpxhbMaCqGaBkDsJiIeLiEeIoFsCaDeGcKkFgM",
+"ExternalId":4456526
+},
+{
+"Name":"FDR N Catherine Slip - 25th St",
+"readersStatus":"one working",
+"polyline":"i}mwF|nsbM}BqZmA_OyBo`@{@_Z}@mEqAoCiD{C{WyKqGiBuDc@aMs@gFg@kCaAySyKsDq@{Fe@kCBwBj@mBvAkDnEmBvAwAZkUrDaCLuCs@",
+"ExternalId":4616328
+},
+{
+"Name":"FDR S 116th - 99th St",
+"readersStatus":"both working",
+"polyline":"yt~wFbtfbMfFvKdFtJbEtFrGhEbNvFvIfHfA`BnDbJ",
+"ExternalId":4616406
+},
+{
+"Name":"FDR S 25th St - Catherine Slip",
+"readersStatus":"one working",
+"polyline":"gmswF|eobM`Ch@vCF|W{E`CaAfDeEdC{BdDm@fHb@xBTbE~AtNtHrCvApEVbPjAvFz@~[pMjCjBdBpClA|EbA|[vBp^nBdVnAxS",
+"ExternalId":4616333
+},
+{
+"Name":"FDR S 63rd - 25th St",
+"readersStatus":"one working",
+"polyline":"abxwFhtkbM~CvEvJzGnEfDhDdCfAfAhD|EjIhHfIvH|RhO|HhGtF|FvC|BlI|EhBr@~Bn@rNhBdB`@lBfA|GnE",
+"ExternalId":4616332
+},
+{
+"Name":"FDR S 78th - 63rd St",
+"readersStatus":"one working",
+"polyline":"gxywF`bjbMrVdR`PzNrKdM",
+"ExternalId":4616408
+},
+{
+"Name":"FDR S 99th - 78th St",
+"readersStatus":"both working",
+"polyline":"iu|wFl{hbMpBlE`FdDzHH~YgIxFEdClAjNpMtCdFvJbJ",
+"ExternalId":4616407
+},
+{
+"Name":"FDR S Catherine Slip - BKN Bridge Manhattan Side",
+"readersStatus":"one working",
+"polyline":"o|mwF`ysbMd@hBHx@Kt@KnAiB`C",
+"ExternalId":4616341
+},
+{
+"Name":"GCP E 27th St - 82nd St",
+"readersStatus":"one working",
+"polyline":"yhzwFnndbMdDyF`E{FfAaDz@qJ~@yJlB{P^oLh@qGtAoHzAwPrGiv@JgFWiJwAmN",
+"ExternalId":4616376
+},
+{
+"Name":"GCP E 27th St - BQE S Broadway\/Roosevelt Ave",
+"readersStatus":"one working",
+"polyline":"qqywFn{abMjAcGn@sBhByAr]uKfP_ChKmBjPaJ`LoGfBk@lGg@hCm@bGaD",
+"ExternalId":4616396
+},
+{
+"Name":"GCP E 55th ST\/LIE - Jackie Robinson Pkwy ",
+"readersStatus":"one working",
+"polyline":"{utwFffvaMxKyCnR}CjMW|MeErJ{GzIsJpIiHzKsFvNmFlWuQvOwP",
+"ExternalId":4616378
+},
+{
+"Name":"GCP E 82nd St - 55th St\/LIE",
+"readersStatus":"both working",
+"polyline":"cgywFtc~aMyC_PsCkJoMaZuBcIeAoH[eLXgHxAmJjDyHdJyNjMuNvYeUvEsGlFwOjE_ExCwBxF{BxPcD`ViJtSeNfRwH",
+"ExternalId":4616377
+},
+{
+"Name":"GCP E 82nd St - Whitestone Expwy N Linden Pl",
+"readersStatus":"both working",
+"polyline":"cdywFhb~aM{EsVmP}a@gDkMQaT~BqNvRaYhUiRxOiN|D}HhE_LlGkDzCkHkCmV{GwSaKsNuGyTwJuKuTgKyOkVgI}O",
+"ExternalId":4616402
+},
+{
+"Name":"GCP E Francis Lewis Blvd - Little Neck Pkwy",
+"readersStatus":"one working",
+"polyline":"aiqwFr}eaMnAiRCwLoDcSqFaPiFmJqVoZ_HcKaM_O_RaOcDyEwJaUuGgLcG{GeLkJiHoC}FaAsEuCmDgDsFgKiBiDcCwC",
+"ExternalId":4362390
+},
+{
+"Name":"GCP E Jackie Robinson Pkwy - Smedley St (e\/of JRP)",
+"readersStatus":"one working",
+"polyline":"ypowFzbsaMbCqM|@kJRgM_CuNPgHnDkPW{\\",
+"ExternalId":4616379
+},
+{
+"Name":"GCP E Smedley St (e\/of JRP) - Francis Lewis Blvd",
+"readersStatus":"one working",
+"polyline":"showFdroaMCuORuOaAoZgE}[cH_[kBwLGcSgCwUU{Ko@oKkCeJmIwMqDeF_CsF_BgHaCuPuCqMgA_KB}I",
+"ExternalId":4616380
+},
+{
+"Name":"GCP W 27th St - RFK W Queens Anchorage",
+"readersStatus":"one working",
+"polyline":"oizwFfldbMaHtKaBtB_BzAqHhF",
+"ExternalId":4456525
+},
+{
+"Name":"GCP W 55th St\/LIE - 82nd St",
+"readersStatus":"both working",
+"polyline":"gxtwFbdvaMaUlKePrK_SnI{Ef@aEWcGm@oHhBcEvDwBpGiChMeHxLmJxH}P|LsNzQ{G|LmD|IgAbIWlPtA|NhL|YzFxOxExS",
+"ExternalId":4616388
+},
+{
+"Name":"GCP W 82nd St - 27th St",
+"readersStatus":"one working",
+"polyline":"ohywFtf~aMrAhKb@pI?|DI`CyAbRkBvUuBrUi@xFy@vEgA~HQzEs@xFc@bFUfF}BdXm@pCwApCkHbL",
+"ExternalId":4616389
+},
+{
+"Name":"GCP W 82nd St - BQE S Broadway\/Roosevelt Ave",
+"readersStatus":"both working",
+"polyline":"weywF~t~aMLdG]pGDzBp@fCnAdAvHtBvA|AxC`Eb]hS~Cj@hC@pC]bR}JfCcApJ_AtHqD",
+"ExternalId":4616397
+},
+{
+"Name":"GCP W Francis Lewis Blvd - Smedley St",
+"readersStatus":"one working",
+"polyline":"kkqwFn`faMEvKlCbXxBfL~G|SnLlQxBtEjCrJl@xV`C~SHjRfBvLhEvQdDhQ~BhQjAz^M`^",
+"ExternalId":4616385
+},
+{
+"Name":"GCP W Jackie Robinson Pkwy - 55th St\/LIE",
+"readersStatus":"one working",
+"polyline":"qsowFhbsaMcE|F{IlI}J|HsFpDuGtCeItC_IjDwOrMcJpJoJlFqHxBcMh@cMzAkRtE",
+"ExternalId":4616387
+},
+{
+"Name":"GCP W Little Neck Pkwy - CIP N ramp",
+"readersStatus":"both working",
+"polyline":"myvwF~`~`M`CnC|BtE`BtD`HdJpGzClJvBlC|AlJdJbArE",
+"ExternalId":4362245
+},
+{
+"Name":"GCP W Little Neck Pkwy - Francis Lewis Blvd",
+"readersStatus":"one working",
+"polyline":"gyvwF~_~`MtDvFzKrRdJxE~LdDrIbGhHxHtKlRlInRbGfHdQrN~h@|p@rIlPdCrHhCdKrAlLApJ{AlS",
+"ExternalId":4616450
+},
+{
+"Name":"GCP W Smedley St - Jackie Robinson Pkwy",
+"readersStatus":"one working",
+"polyline":"gjowFtroaMRnW_@hF_D~JWnDOfE@lIpArNOxHi@rGo@tE}@pC",
+"ExternalId":4616386
+},
+{
+"Name":"GOW N 7th Avenue-9th Street",
+"readersStatus":"both failed",
+"polyline":"{f_wFnewbMqEv@sE|DyJvQ_DnEcD|AyD?yDaBsD_DqaAwcAalAgoAmCcBoEe@mDNaCp@_PlIk[nQ",
+"ExternalId":4616318
+},
+{
+"Name":"GOW N 92nd Street-7th Avenue",
+"readersStatus":"one working",
+"polyline":"wz{vFbeybM_TiPuGsFiPqMmJ{Ech@mNkFo@",
+"ExternalId":4616220
+},
+{
+"Name":"GOW N 9th St - BBT Brooklyn Side",
+"readersStatus":"one working",
+"polyline":"slgwFrgtbMsHfEwD|BoPbM",
+"ExternalId":4456503
+},
+{
+"Name":"GOW N 9th Street-Atlantic Avenue",
+"readersStatus":"both failed",
+"polyline":"wlgwFbgtbM{D`BuHtEmF`EcA\\u@EeCq@cw@kZ_CWcBR",
+"ExternalId":4616223
+},
+{
+"Name":"GOW S 7th Avenue-92nd Street",
+"readersStatus":"one working",
+"polyline":"sd_wFhhwbM|FbAjc@pLbInCjGrExVjSjB|AnMlK",
+"ExternalId":4616226
+},
+{
+"Name":"GOW S 92nd St - VNB W Bklyn Gantry l\/lev",
+"readersStatus":"both working",
+"polyline":"a{{vF|fybMtEhDjFnE~FjIpF|D`DdFlA`E",
+"ExternalId":4763657
+},
+{
+"Name":"GOW S 92nd St - VNB W Bklyn Gantry u\/lev",
+"readersStatus":"both working",
+"polyline":"k{{vFpgybM|H~HfCpClEpFfIvFrBjDhA|D",
+"ExternalId":4763655
+},
+{
+"Name":"GOW S 9th Street-7th Avenue",
+"readersStatus":"both failed",
+"polyline":"ulgwF`jtbMpHuE~L{GvTcLrFcAfHr@xCfBd^p_@duA`yAfWdYdEnDxElAnFg@jGeGfLwT|A}AdDeArCI",
+"ExternalId":4616319
+},
+{
+"Name":"GWB E L\/Lev Plaza - CBE E L\/Lev Amsterdam Ave",
+"readersStatus":"both working",
+"polyline":"iljxF~fnbMbAyDzA{Lp@_Mv@sF?yG~SglBzGsi@zHeW\\k@lA{D",
+"ExternalId":4620298
+},
+{
+"Name":"GWB E U\/Lev Plaza - CBE E U\/Lev Amsterdam Ave",
+"readersStatus":"both working",
+"polyline":"uijxFrmmbMpXccCvHgm@vBwHzGmT",
+"ExternalId":4620289
+},
+{
+"Name":"HHP N Dyckman St - Toll Plaza",
+"readersStatus":"both working",
+"polyline":"_jmxFznfbMsNwHqJ_H_LgO",
+"ExternalId":4456535
+},
+{
+"Name":"HHP N Toll Plaza - Kappock St",
+"readersStatus":"both working",
+"polyline":"irnxFnlebMqAaCwMqUcEuHaBoB",
+"ExternalId":4456492
+},
+{
+"Name":"HHP S Dyckman St - GWB @ HHP N upper level",
+"readersStatus":"both working",
+"polyline":"qnmxFrqfbM`h@xUrShLl\\jVfMtGvGdFvFvHhB`BdBv@fDt@rFAzDqAzCmCV_BaAsA",
+"ExternalId":4620357
+},
+{
+"Name":"HHP S Kappock St - Toll Plaza",
+"readersStatus":"both working",
+"polyline":"mmoxFvedbM|ArBrJjQfIjNh@lB",
+"ExternalId":4456493
+},
+{
+"Name":"HHP S Toll Plaza - Dyckman St",
+"readersStatus":"both working",
+"polyline":"ysnxFtmebMtCbHjH|JbFzDjPjH",
+"ExternalId":4456534
+},
+{
+"Name":"Holland Tunnel E NJ - NY portal",
+"readersStatus":"both working",
+"polyline":"m_rwF`d{bMpCgP`A{FF{D`A_YzJqgAt@eRtAaFdMeS",
+"ExternalId":4751366
+},
+{
+"Name":"Holland Tunnel W NY - NJ portal",
+"readersStatus":"one working",
+"polyline":"e_qwFlnubMaDC}AzAe@pBmC|i@uJlhAuAn_@MrAuFpU{@~A",
+"ExternalId":4751367
+},
+{
+"Name":"HRD N 151st St - GWB Amsterdam Ave",
+"readersStatus":"both working",
+"polyline":"iodxFphgbMaWt@qWfB_LFiIsAcc@qSgBKyDBqAFwAK}Ay@oCmBeBSeAr@",
+"ExternalId":4620344
+},
+{
+"Name":"HRD S 151st St - FDR S 116th St ",
+"readersStatus":"both working",
+"polyline":"kndxFrjgbM~JO|PCnJcAld@dCzGz@~D_@bHqBpGeFzJ}IzFoDpNcCfF?bKmBnBEfEr@`D|AtBrB",
+"ExternalId":4456528
+},
+{
+"Name":"HRD S GWB Amsterdam Ave - 151st St ",
+"readersStatus":"both working",
+"polyline":"{uhxF|tfbMbA_A`AMfEnCjAVlADzCOdDZ|b@jSbDz@~H^d^wApRgAnFC",
+"ExternalId":4616430
+},
+{
+"Name":"HRP N Bartow Ave - CCP W @ HRP exit ramp",
+"readersStatus":"one working",
+"polyline":"uwlxFpqqaM_WgVkCsAiF_A_Hg@sOEeEq@om@eO_GaA{Fa@oHDeS~CeJlC{E`@uDSqEkAaFcBwDs@oIA}Di@qFgCyHsCgH_BiHY_D^uGlBsCEaE}@yKwDgGaBoPsCoMiE{KsF??w@mAJoAl@Wn@b@\\zB{AvYsC~LCdD`AlHeAzN",
+"ExternalId":4358155
+},
+{
+"Name":"HRP N E. Tremont Ave - Bartow Ave",
+"readersStatus":"one working",
+"polyline":"}sgxFpptaMiAIoDm@oXqGiGw@_V{@cBOyDs@mEcBkEaCsDiD{AmBwCoE_DqDaf@s_@iFiEeLgK",
+"ExternalId":4616251
+},
+{
+"Name":"HRP N Lafayette Ave-CBE W Castle Hill Ave",
+"readersStatus":"both working",
+"polyline":"kudxFj`taMuD`@gCb@eBNaKaBsBfBUxCNrFfE~d@k@pKmGhY",
+"ExternalId":4616286
+},
+{
+"Name":"HRP N Lafayette Avenue-E.Tremont Avenue",
+"readersStatus":"one working",
+"polyline":"kmdxFnbtaMwTdByDj@_LjC??sHpAiLpAmI`@eGJ}IEqJo@",
+"ExternalId":4616250
+},
+{
+"Name":"HRP S Bartow Avenue-E.Tremont Avenue",
+"readersStatus":"both failed",
+"polyline":"mxlxFvrqaMpVjTfb@|[jBjBzDvFtExFrF|DpHjC|Dl@jX~@xEh@jXtGnGdA",
+"ExternalId":4616265
+},
+{
+"Name":"HRP S E.Tremont Ave - Lafayette Ave",
+"readersStatus":"one working",
+"polyline":"kvgxFnqtaM`Jt@lGDpMQ|Fg@??bKgAlKoBnT}DtMaA",
+"ExternalId":4616264
+},
+{
+"Name":"HRP S Lafayette Ave - BWB S Toll Plaza",
+"readersStatus":"both working",
+"polyline":"sodxFxctaMpQOxN\\zU`AvISvDc@",
+"ExternalId":4456498
+},
+{
+"Name":"I-278 E Brunswick Ave - SIE E Forest Ave",
+"readersStatus":"both working",
+"polyline":"kbawFd}}cMt@gFToEc@_Cc@kA]aBF_Cd@oClB_EbCgEpJeSnOuWhMeZbMuXxOy^tVih@",
+"ExternalId":4616473
+},
+{
+"Name":"I-87 NYST S Exit 1 (Hall Pl) - MDE S Van Cortlandt Park",
+"readersStatus":"one working",
+"polyline":"guuxFnw{aM|E|FdChB|CxA`Cl@l|@hIfDn@zF|BbCfBlGxFlOdOrLpM`BbC`BbExAbHdB|KlBpHjDjIdEvG",
+"ExternalId":4616228
+},
+{
+"Name":"I-95 NET N Exit 12 (Baychester Avenue) - mp 3.26 (HRP - Westchester Co. Line) ",
+"readersStatus":"both failed",
+"polyline":"kmmxFrpsaMmSfDcLRiIu@oE{AaFaDoJiKqIsPaHwTeFeYqE{Xc@{JR}H`AmJ",
+"ExternalId":4575255
+},
+{
+"Name":"I-95 NET S mp 3.12 (HRP - Westchester Co. Line) - Exit 12 (Baychester Avenue)",
+"readersStatus":"one working",
+"polyline":"{upxFdgoaMYfVnBjPjIhe@`Kd]zHjNtHpJpIzErEzBvJt@tH[pGkA`KqC",
+"ExternalId":4616227
+},
+{
+"Name":"JFK Expwy N 150th St - BELT Pkwy E 182nd St",
+"readersStatus":"both working",
+"polyline":"}hcwFhvjaM{GzRwCdEgD`BcEDw_@eOoLyJ{AsDuBkc@u@gVm@iQ",
+"ExternalId":4616361
+},
+{
+"Name":"JFK Expwy S So. Cargo Rd - VWE N So. Service Rd",
+"readersStatus":"both working",
+"polyline":"}dcwFbsjaM`GkDrIuCzCQ~HfAbAlAnLf]bBRt@lBr@lNNdDCxG",
+"ExternalId":5107719
+},
+{
+"Name":"KVWP S Annadale Rd - WSE S Tyrellan Ave",
+"readersStatus":"one working",
+"polyline":"y}ovFjovcMhk@pVh|@`t@~LtRfExJ~DtOf_@trBzLlp@~BlSn@n[",
+"ExternalId":4616472
+},
+{
+"Name":"Laurelton Pkwy N @ SSP - CIP N Hempstead Tpk",
+"readersStatus":"one working",
+"polyline":"__iwFbu~`MeC_BmDyEyByAwBUmCt@w@t@qErEgB`AeDl@oNZiuAtBgRZmCT_Bv@uIbC{FfBuEV",
+"ExternalId":4616353
+},
+{
+"Name":"Laurelton Pkwy S @ SSP - Belt Pkwy W 182nd St",
+"readersStatus":"both working",
+"polyline":"y_iwF`w~`MvHpDrR|LhKfKvI|HbH~Fd]hTzAv@hE`DnEdEfChGl@pD{@|YEby@M~EwBf`@",
+"ExternalId":4616354
+},
+{
+"Name":"LIE E 108th St - 135th St",
+"readersStatus":"one working",
+"polyline":"_nswF|fwaM{AyH{BiImUen@iEqMgAcG[{IxAm]",
+"ExternalId":4616451
+},
+{
+"Name":"LIE E 108th St - VWE S Jewel Ave",
+"readersStatus":"both working",
+"polyline":"klswFhfwaMwGeWiTul@q@sEx@_F|CuC~B{@fDu@rHiAfPYvC_A|FqB",
+"ExternalId":4616368
+},
+{
+"Name":"LIE E 135th St - 172nd St",
+"readersStatus":"one working",
+"polyline":"}qtwFdcsaMxAcZdAkH~Qcx@dAcKd@aQ|AqsA",
+"ExternalId":4616452
+},
+{
+"Name":"LIE E 172nd St - Clearview Expwy",
+"readersStatus":"both working",
+"polyline":"usswFfqlaMe@_ImNow@eJgh@{Fkp@uBcHyCwH",
+"ExternalId":4362391
+},
+{
+"Name":"LIE E 63rd St - 84th St",
+"readersStatus":"both working",
+"polyline":"ihqwFhiabMhDay@KoHw@wG}AiGiIsP{AcGa@sDqA_[yAkHkBuG",
+"ExternalId":4616491
+},
+{
+"Name":"LIE E 84th - 108th St",
+"readersStatus":"both working",
+"polyline":"w`rwFfc|aM{H__@iUagAkFsXaAuF_A_Ku@iF",
+"ExternalId":4362342
+},
+{
+"Name":"LIE E Clearview Expwy - Little Neck Pkwy",
+"readersStatus":"both working",
+"polyline":"ubuwF|yfaMwJmi@_BmGeD}IgBgI}DaXcCmUcEeLad@yw@yG_NiBqFmC}LsDgIkDoGuFyMuA_Hm@wE",
+"ExternalId":4362273
+},
+{
+"Name":"LIE E Greenpoint Ave U\/Lev - 63rd St",
+"readersStatus":"both working",
+"polyline":"imswFhxfbMzBsRpCiT~DaLjLkQzDcIhBkJhG}^hCqHlLmUdDgN",
+"ExternalId":4616500
+},
+{
+"Name":"LIE E QMT Queens Side - Greenpoint Ave",
+"readersStatus":"both working",
+"polyline":"qhtwFndkbMd@yLcA_HCkChDs[t@sDxJwZpAkGt@cGN}Ch@sHlBoR",
+"ExternalId":4616490
+},
+{
+"Name":"LIE W 108th - 84th St",
+"readersStatus":"both working",
+"polyline":"moswFrhwaMbAvJp@|GrB`KlG`[|Ovt@|F~YxC~M",
+"ExternalId":4616364
+},
+{
+"Name":"LIE W 136th St - 108th St",
+"readersStatus":"one working",
+"polyline":"cstwFj~raM}Ah]EfJv@fHhB`HfG`QpOla@`C~H|CzN",
+"ExternalId":4362392
+},
+{
+"Name":"LIE W 172nd St - 136th St",
+"readersStatus":"one working",
+"polyline":"muswF`rlaM}BxfBsA`KkQtv@mAzIkApT",
+"ExternalId":4616455
+},
+{
+"Name":"LIE W 63rd St U\/Lev - Greenpoint Ave",
+"readersStatus":"both working",
+"polyline":"ijqwFxiabMwA`IsCvHaKfRcBxFmHtb@uAnGqCnGyLdQqCxGqBfHoAjKsCnW",
+"ExternalId":4616499
+},
+{
+"Name":"LIE W 84th St - 63rd St",
+"readersStatus":"both working",
+"polyline":"i`rwFth|aMxC`Lj@`G~@zUz@nGxAvFlHvO`ArC~@lF^bF?vFm@lNeB~a@a@|D",
+"ExternalId":4616484
+},
+{
+"Name":"LIE W Clearview Expwy - 172nd St ",
+"readersStatus":"both working",
+"polyline":"}`uwFrbgaMfFhOd@|BzA~PzBhZtJbi@zN`y@V~F",
+"ExternalId":4616454
+},
+{
+"Name":"LIE W Greenpoint Ave - QMT Queens Side",
+"readersStatus":"both working",
+"polyline":"_oswFlxfbMkCb[m@|HcB`IiL|_@yD|\\CjDl@vIKnK",
+"ExternalId":4456533
+},
+{
+"Name":"LIE W Little Neck Pkwy - CIP N ramp",
+"readersStatus":"both working",
+"polyline":"mxxwF~f~`MpBnL~CvJ~InPdBlEh@pB|BxJrCpH~FnLtFdK|BbFvAzCX`CIzBc@`D",
+"ExternalId":4362249
+},
+{
+"Name":"LIE W Little Neck Pkwy - CVE N ramp",
+"readersStatus":"both working",
+"polyline":"uwxwF|f~`MdBjLlGvOtElIrCnGpFxS`KtSdTna@vM`VpCxJzB`VpGp]jHpVjIzf@",
+"ExternalId":4362251
+},
+{
+"Name":"Lincoln Tunnel E south tube NJ - NY",
+"readersStatus":"both working",
+"polyline":"mcywFloxbMuAuB[_FvAyHzk@ejBvKm]",
+"ExternalId":4329472
+},
+{
+"Name":"Lincoln Tunnel W north tube NY - NJ",
+"readersStatus":"both failed",
+"polyline":"yvwwFb`tbMor@vxBgA`G?rDlA|EhChC",
+"ExternalId":4329507
+},
+{
+"Name":"Marine Pkwy Bri N Rockaway - Toll Plaza",
+"readersStatus":"both working",
+"polyline":"aqrvF|`}aMu~@ne@gEdE",
+"ExternalId":4456514
+},
+{
+"Name":"Marine Pkwy Bri S Toll Plaza - Rockaway",
+"readersStatus":"both working",
+"polyline":"yutvFno~aM`C}Ch@s@x@k@d}@qd@",
+"ExternalId":4456515
+},
+{
+"Name":"MDE N 142nd St - Macombs Dam Bridge",
+"readersStatus":"both working",
+"polyline":"_{bxFtrfbMqCNqCWeEq@am@hB_Hq@uDb@",
+"ExternalId":4616433
+},
+{
+"Name":"MDE N 193rd St - Van Cortlandt Park",
+"readersStatus":"both working",
+"polyline":"uqmxFx}abMgNcFcNuFwQgF_G_GcP{McI{GwH}J",
+"ExternalId":4616437
+},
+{
+"Name":"MDE N Depot Place - Harlem River Park",
+"readersStatus":"one working",
+"polyline":"uygxFtbfbMkIyBgTaKaHaE{FqEgOqN",
+"ExternalId":4616435
+},
+{
+"Name":"MDE N Harlem River Park - 193rd St",
+"readersStatus":"one working",
+"polyline":"q{ixFztdbMwNeM{GyDwL_EkC{AcCaCoL{PuHyIeEsD_GwC_`@qM",
+"ExternalId":4616436
+},
+{
+"Name":"MDE N Macombs Dam Bridge - Depot Place",
+"readersStatus":"both working",
+"polyline":"shexF`tfbM_I`D}CVyDK{`@wHuHaCgOyG",
+"ExternalId":4616434
+},
+{
+"Name":"MDE N RFK Bridge - 142nd St",
+"readersStatus":"both working",
+"polyline":"kf`xFlxcbMiBs@yAn@w@nAoB|F??yI|W_I|X{A~DyDxGmHpKwBrBcD`AgDMqL{BoED",
+"ExternalId":4616255
+},
+{
+"Name":"MDE N Van Cortland Park - I-87 NYST N Exit 1 (Hall Place) ",
+"readersStatus":"one working",
+"polyline":"oppxF~z_bMwDgGuB}EuAoEiAiFwAaJkAaGyA}DsBwDiLmMcVaUcDoCwBiA}D}AwGiAa\\{C_\\wCy@O}Cy@wByAaBwAyD_F",
+"ExternalId":4575278
+},
+{
+"Name":"MDE S 142nd St - BE N 149th St",
+"readersStatus":"one working",
+"polyline":"_zbxFtufbMlFMhMfCzBEfDiApQyUv[yeAAyMkPae@eEiMcPeW",
+"ExternalId":4616414
+},
+{
+"Name":"MDE S 142nd St - RFK S exit ramp",
+"readersStatus":"both working",
+"polyline":"azbxFjtfbMvDOlMhCpCLtDiAlHoJtGsJlDeKtHmWjB}FdGyOlAcCtAkAbC[",
+"ExternalId":4616372
+},
+{
+"Name":"MDE S 193rd St - Harlem River Park",
+"readersStatus":"one working",
+"polyline":"wqmxFb`bbMhc@rOhCnAxCxBdFrFvP|UfFhEzKxDhElBzDtC~MtK",
+"ExternalId":4616439
+},
+{
+"Name":"MDE S Depot Place - Macombs Dam Bridge",
+"readersStatus":"both working",
+"polyline":"gygxFpdfbMxOvHzHvBx]vG|Dh@|DApJwD",
+"ExternalId":4616441
+},
+{
+"Name":"MDE S Harlem River Park - CBE E Morris Ave",
+"readersStatus":"one working",
+"polyline":"w{ixF~ydbMtVlT`G`DrCpBbNpGlAUp@sAEmBi@iA}AuAsAiCk@sCoAko@Zam@",
+"ExternalId":4616291
+},
+{
+"Name":"MDE S Harlem River Park - Depot Place",
+"readersStatus":"one working",
+"polyline":"g{ixFjxdbM~X|V~UlLdGbCjFfA",
+"ExternalId":4616440
+},
+{
+"Name":"MDE S Macombs Dam Bridge - 142nd St",
+"readersStatus":"both working",
+"polyline":"{fexFxufbMrEa@dFh@jl@oB|HdA`BB`BI",
+"ExternalId":4616442
+},
+{
+"Name":"MDE S RFK Exit Ramp - Manhattan Lift Span",
+"readersStatus":"both working",
+"polyline":"mf`xF`{cbM~ATtTtN|BxAv@dARdCWtBmAjDy@z@uBxEcAfE{HfU",
+"ExternalId":4456480
+},
+{
+"Name":"MDE S Van Cortlandt Park - 193rd St",
+"readersStatus":"both working",
+"polyline":"eppxFp~_bM|G|I|ZlWdGjFbR~FrMjFhNfF",
+"ExternalId":4616438
+},
+{
+"Name":"MLK N Walker Street-NJ Route 169",
+"readersStatus":"one working",
+"polyline":"cw~vFnqpcMmGMmNyBsCm@aYaIoMsF??sc@qMcDoBmSuNgBcAwAoAoBgCgA{CYsAO_CG}BBaEl@kV?eD[cG[oC}A_KqAgFqAeEeCcGsKwQ",
+"ExternalId":4329499
+},
+{
+"Name":"MLK S Walker St - SIE E Woolley Ave",
+"readersStatus":"one working",
+"polyline":"gq~vFbspcMfO{@jE^`JrB|GhCvF`DdWjVzBjBlD~AdCr@zDn@xNnKfAf@fCDhBs@bBuBv@qC^oK^oBr@iB|D{HhB_GxAaIn@mIHoFQ{M",
+"ExternalId":4616196
+},
+{
+"Name":"MLK S-SIE W Walker Street-Richmond Avenue",
+"readersStatus":"one working",
+"polyline":"cv~vFxspcMnDFfE]xFWbFDlIlBtG~B|F`DjBlArT~SlC~BpC~ApFlAtCl@nA`ApAnA^hBF`CoAdDcDlE",
+"ExternalId":4616210
+},
+{
+"Name":"NJ 169 S Bayonne Bri\/NJ side - MLK S Walker Street",
+"readersStatus":"one working",
+"polyline":"madwFb}jcMjKdQtAxCrB|FnAlEr@jD|ArK^xHw@ve@L|BPpAfAnCz@tA`BxAvDpB|XjR`G~BhNpEdKzD??dC|@~IpB|VfHlHdBrHjAdDZdEP",
+"ExternalId":4616282
+},
+{
+"Name":"NJ 440 N Francis St - WSE N Tyrellan Ave",
+"readersStatus":"one working",
+"polyline":"kijvF~|hdMdD_N`AsHfEwx@JwF@qEgE{mBCcLKoFe@mT",
+"ExternalId":4616281
+},
+{
+"Name":"QMT E Manhattan ORT - Queens Side",
+"readersStatus":"both working",
+"polyline":"{buwFt{nbM?qBi@uCoAeA{EiD{AmEPcFlAoEv[ai@nAeFpDc[?sCX{K",
+"ExternalId":4456511
+},
+{
+"Name":"QMT W Manhattan ORT - FDR S 25th St",
+"readersStatus":"both working",
+"polyline":"_guwFraobMaCvH?v@`@~@`C~AdCxB|EiOvEiOdA`AnD~@nFd@n@J`@LvEj@`CdAhHzE",
+"ExternalId":4616371
+},
+{
+"Name":"QMT W Queens Side - Manhattan ORT",
+"readersStatus":"both working",
+"polyline":"{itwFpyjbM@dPyBzRyArHqDzHqPtVoGpKeBtFMdDn@xElBvB|EpDn@bAZlBMfBk@xB",
+"ExternalId":4456510
+},
+{
+"Name":"RFK E Queens Anchorage - GCP E 27th St ",
+"readersStatus":"one working",
+"polyline":"oa{wFrhebMfFgDvEkEvB_DlFkI",
+"ExternalId":4616375
+},
+{
+"Name":"RFK N Queens Anchorage - BE ramp N",
+"readersStatus":"both working",
+"polyline":"}c{wFrdebMyWjR_Q`LuC|BsDd@gDa@_XyRcQiPa_@cYiKkHoNwJ",
+"ExternalId":4616225
+},
+{
+"Name":"RFK W Manhattan Side - FDR S 116th St",
+"readersStatus":"both working",
+"polyline":"c|_xF~dfbMq@fCgBdFBnB`AzAdABtA{@vAmE`AuAhA[dKOzBXxDz@dDjCj@pA",
+"ExternalId":4456452
+},
+{
+"Name":"SIE E Bradley Ave - Clove Rd",
+"readersStatus":"both working",
+"polyline":"igzvFp{mcMWcLU{EyAoSkCcScHca@U_CQqC?aFx@eKjBkLTmE?sEKiMa@kZY{U",
+"ExternalId":4616193
+},
+{
+"Name":"SIE E Clove Rd - Fingerboard Rd",
+"readersStatus":"both working",
+"polyline":"svzvFhdgcMIaGPeFf@uEt@_EvA}EfK}\\|BqI|AgH\\mD`@qHX{YVmHx@yHt@sErBgIdDoL",
+"ExternalId":4616192
+},
+{
+"Name":"SIE E Fingerboard Rd - VNB E SI Gantry L\/Lev",
+"readersStatus":"both working",
+"polyline":"_myvFjsacMT{@|FqLh@_GnB}K\\}ENaHg@eI_CuI",
+"ExternalId":4763650
+},
+{
+"Name":"SIE E Fingerboard Rd - VNB E SI Gantry U\/Lev",
+"readersStatus":"both working",
+"polyline":"imyvF`sacM|GqXhBeLl@}LUcGsB}J",
+"ExternalId":4763648
+},
+{
+"Name":"SIE E Forest Ave - South Ave",
+"readersStatus":"both working",
+"polyline":"ky}vFvewcMhBeDjGyG|FuGhC{DtB_G`A_Gv@_Nz@iH",
+"ExternalId":4616474
+},
+{
+"Name":"SIE E Forest Ave - WSE S South Ave",
+"readersStatus":"both working",
+"polyline":"kx}vFjewcM~AuCtEeF`DsBvDmA|C[vF\\~ZpHbFpBz_@vRfXvM|UtU",
+"ExternalId":4616475
+},
+{
+"Name":"SIE E Richmond Ave - MLK N Walker St",
+"readersStatus":"one working",
+"polyline":"wq{vFzyrcMrUo\\lAg@t@F^XXfAQjBo@tAuA\\eADiOsCgOuCqAm@kB{@iCyBgRyQ{CeCuEoCgFaCeJoBgG[eJd@aDNeD?",
+"ExternalId":4616216
+},
+{
+"Name":"SIE E Richmond Ave - Wooley Ave",
+"readersStatus":"both working",
+"polyline":"{p{vFnyrcM`]qf@~AyBvCqGhBmG`AuF\\cDTiDH{GUgM",
+"ExternalId":4616195
+},
+{
+"Name":"SIE E South Ave - Richmond Ave",
+"readersStatus":"both working",
+"polyline":"sw|vFz`ucMbA{DhCwIzEyM`EeJrCiFnF}IxDuF",
+"ExternalId":4616197
+},
+{
+"Name":"SIE E Wooley Ave - Bradley Ave",
+"readersStatus":"both working",
+"polyline":"odzvFdrocMwAus@",
+"ExternalId":4616194
+},
+{
+"Name":"SIE W Bradley Ave - Wooley Ave",
+"readersStatus":"both working",
+"polyline":"shzvFj}mcMxAzs@",
+"ExternalId":4616208
+},
+{
+"Name":"SIE W Clove Rd - Bradley Ave",
+"readersStatus":"both working",
+"polyline":"axzvFbggcMV~Q`@|YJnJJ`HS~FmChRa@zFBpIt@jGfHra@hBhNt@fIn@bK`@hLFjE",
+"ExternalId":4616207
+},
+{
+"Name":"SIE W Fingerboard Rd - Clove Rd",
+"readersStatus":"both working",
+"polyline":"coyvFnsacMsEhPsAlG_AzGg@xF[tKMxUm@dIc@nDs@`EcBjGiMja@_BdGo@bEe@pHBhJ",
+"ExternalId":4616206
+},
+{
+"Name":"SIE W Richmond Ave - South Ave",
+"readersStatus":"both working",
+"polyline":"gt{vF`{rcMgDfEuE|HoEtIiG`OuBhGkEbO",
+"ExternalId":4616211
+},
+{
+"Name":"SIE W South Ave - Forest Ave",
+"readersStatus":"both working",
+"polyline":"gy|vFj`ucMe@`Fi@dJm@hGsAtF_B~DqB`DwIpJgDxD_CfD",
+"ExternalId":4616476
+},
+{
+"Name":"SIE W South Ave - WSE S South Ave",
+"readersStatus":"both working",
+"polyline":"sy|vF``ucMc@xDyBvIOnCHjCp@rElAvEjBlDxAnBjBfBbErBjANpKhCbDfA`DxApWlNvXpM`DdBtFnExDxDjI~I",
+"ExternalId":4616199
+},
+{
+"Name":"SIE W Wooley Ave - MLK N Walker Street",
+"readersStatus":"one working",
+"polyline":"ifzvFjtocMVlOUbIyA~JiCfJwD`HwB~AsPhHcEzA}A@iIsAgEmBaZoXmIeFeGuBmHwAiDMcHRkF\\_FE",
+"ExternalId":4616217
+},
+{
+"Name":"SIE W Wooley Ave - Richmond Ave",
+"readersStatus":"both working",
+"polyline":"uezvFftocMNtJA`HOrCQ`CkAzHkAhEeAxCaCzEyH`LoVb]",
+"ExternalId":4616209
+},
+{
+"Name":"TNB N Queens Anchorage - Toll Plaza",
+"readersStatus":"both working",
+"polyline":"gq~wFzvkaMid@O_o@t@gOFmIrAeJfE_GbFcFtH}ClIeBlH_BpP",
+"ExternalId":4456505
+},
+{
+"Name":"TNB N Toll Plaza - CBE W Prentiss Ave",
+"readersStatus":"one working",
+"polyline":"ygcxFjwmaMe@pJwAjMuBhK",
+"ExternalId":4616420
+},
+{
+"Name":"TNB S Queens Anchorage - CIP S @ TNB",
+"readersStatus":"one working",
+"polyline":"ao~wFvxkaMdDM|B]~Bi@x@QrBcATDfAWvIq@z@Up@y@b@eBC}AYmAmDoKcBwJa@gG",
+"ExternalId":4362314
+},
+{
+"Name":"TNB S Toll Plaza - Queens Anchorage",
+"readersStatus":"both working",
+"polyline":"}dcxFvxmaM|AyRrBcIjCqGfDkFxEiEnHuEjJqBriA{@nZJdB?",
+"ExternalId":4456506
+},
+{
+"Name":"VNB E Bklyn Gantry l\/lev - GOW N 92nd St",
+"readersStatus":"both working",
+"polyline":"guzvFppzbM{BoIoBmDqDsEwFkD{OuM",
+"ExternalId":4616218
+},
+{
+"Name":"VNB E Bklyn Gantry u\/lev - GOW N 92nd St",
+"readersStatus":"both working",
+"polyline":"ytzvFhpzbMmBmI}A}EsCyDoC{A_FqBaNgL",
+"ExternalId":4616219
+},
+{
+"Name":"VNB E SI Gantry L\/Lev - Bkln Gantry L\/Lev",
+"readersStatus":"both working",
+"polyline":"wcyvFni_cMkn@osC",
+"ExternalId":4763656
+},
+{
+"Name":"VNB E SI Gantry U\/Lev - Bkln Gantry U\/Lev",
+"readersStatus":"both working",
+"polyline":"_dyvFdj_cMeWkiAqVwiA",
+"ExternalId":4763652
+},
+{
+"Name":"VNB W Bklyn Gantry l\/lev - SI Gantry l\/lev",
+"readersStatus":"both working",
+"polyline":"wtzvF|uzbMzHn]|Kdi@pWxjA",
+"ExternalId":4763651
+},
+{
+"Name":"VNB W Bklyn Gantry u\/lev - SI Gantry u\/lev ",
+"readersStatus":"both working",
+"polyline":"mtzvFluzbM~CvMvQtz@xVbiA",
+"ExternalId":4763649
+},
+{
+"Name":"VNB W SI Gantry L\/Lev - SIE W Fingerboard Rd",
+"readersStatus":"both working",
+"polyline":"}dyvFjk_cMbAxFVbDU|FgBvKe@jDk@vGGzCiEtQ",
+"ExternalId":4616205
+},
+{
+"Name":"VNB W SI Gantry U\/Lev - SIE W Fingerboard Rd",
+"readersStatus":"both working",
+"polyline":"kdyvF|j_cMxAjHVzEWrGe@~FsDhSqBnIqA`G",
+"ExternalId":4616204
+},
+{
+"Name":"VWE N Jewel Ave - LIE W 108th St",
+"readersStatus":"both working",
+"polyline":"iwrwFr}saMmE|AoVxAcUpEkATwCsCmCTeAzAFvCnBpFrYzx@jDtJjBbI",
+"ExternalId":4362381
+},
+{
+"Name":"VWE N mp 4.6 (Exit 6 Jamaica Ave) - mp 6.3 (Exit 11 Jewel Ave)",
+"readersStatus":"both working",
+"polyline":"sulwFjfpaMqSxH{K|FeKzD_FpFoHjJkDrCkApAaCrAmI|FsCv@aCV}A?qG_@{AEgBHiCf@sCrA}FvCeD~BcFpGqDtGcB`CuBnBsUxJuOrG",
+"ExternalId":4616298
+},
+{
+"Name":"VWE N mp 6.3 (Exit 11 Jewel Ave) - mp 8.65 (Exit 13 No. Blvd)",
+"readersStatus":"one working",
+"polyline":"_wrwFh_taM_F`BqDh@eLZuHv@sN|CsALqCRmD[cBe@cA_@gC_BcIaHcAi@aAi@gCg@uBIyBFgANeC~@_TnM",
+"ExternalId":4616299
+},
+{
+"Name":"VWE N mp 8.6 (Exit 13 No. Bl) - WE N Exit 14 (Linden Pl)",
+"readersStatus":"one working",
+"polyline":"{vvwFbktaM_D~AkHtAyHv@}BRcDEuC]_DAoDp@kD~AuBb@gCPoDi@eDyAoGmD{D{BmFmEeEmF_CoDoK_T",
+"ExternalId":4616300
+},
+{
+"Name":"VWE N So. Service Rd - Monorail Overpass",
+"readersStatus":"both working",
+"polyline":"}lawFnmlaMq@nFcBrGqCjGuKjLyLxJePbJcJxBqHJsH{@kI{CkE{CaAoA",
+"ExternalId":5107720
+},
+{
+"Name":"VWE S Monorail Overpass - So. Service Rd",
+"readersStatus":"both working",
+"polyline":"stdwF|anaMdHrFtIhDpI`AdIY~IqB|NgIfNeLpKoLhDwGfBqHf@uF",
+"ExternalId":5107714
+},
+{
+"Name":"VWE S mp 2.6 (Exit 2 Rockaway Blvd) - Belt Pkwy E 182nd St",
+"readersStatus":"both working",
+"polyline":"ydgwF~kmaMbHcBpPAzI^nHr@zInB~En@fC}@`B}CXiDU{CkA}BsDqBmDqByBkCsAiE[kDSoLOaBq@yWyAu]oBew@N_WnA{VjBu\\",
+"ExternalId":4616276
+},
+{
+"Name":"VWE S mp 2.6 (Exit 2 Rockaway Blvd) - Monorail Overpass",
+"readersStatus":"both working",
+"polyline":"gegwF`omaMxEeA`Ky@|VZvPnDrCfAvMlL",
+"ExternalId":5107713
+},
+{
+"Name":"VWE S mp 4.6 (Exit 6 Jamaica Ave) - mp 2.6 (Exit 2 Rockaway Blvd)",
+"readersStatus":"both working",
+"polyline":"gtlwFzgpaMdKuDxLoFtTuK~GaDfWoL`XeM`o@uUvRqH",
+"ExternalId":4616272
+},
+{
+"Name":"VWE S mp 6.39 (Exit 11 Jewel Ave) - mp 4.6 (Exit 6 Jamaica Ave)",
+"readersStatus":"both working",
+"polyline":"gsqwF|nsaMvE_CvC{CfB{CpBuD`CyCvCeDpBmAjIuElCeAvAI`DBdMx@hDg@vAi@`B{@jCmCdCaB|EkElB_BfHcJxDuDpE{ClQyI~H_DxHkC",
+"ExternalId":4616259
+},
+{
+"Name":"VWE S mp 8.6 s\/of (Exit 13 No.Blvd) - mp 6.3 (Exit 11 - Jewel Ave)",
+"readersStatus":"one working",
+"polyline":"guvwFvltaM|HiFhHeEhBkApCk@vBUtBJ`E|AbJbHtDlChDz@dDX`Gk@|MkCzEw@rOa@nBU`EqAzJsE??|XmL",
+"ExternalId":4616241
+},
+{
+"Name":"VWE S So. Service Rd - JFK Expwy N So. Cargo Rd",
+"readersStatus":"both working",
+"polyline":"gkawF~llaM?yIs@sTBmKD_IcHcF_LcFiF}@oEMsGjBcHrD",
+"ExternalId":5107715
+},
+{
+"Name":"WE N Exit 14 (Linden Pl) - BWB N Queens Anchorage",
+"readersStatus":"both working",
+"polyline":"ulzwFjasaM}GyH{Z_PaS_IyFeAsWyC{EuB{DyB_D[_DR{Bn@iJzE",
+"ExternalId":4456500
+},
+{
+"Name":"WE S Exit 14 (Linden Pl) - VWE S mp 8.65 (Exit 13 No.Blvd)",
+"readersStatus":"one working",
+"polyline":"mmzwF~dsaMjEvHvFbL~G|JvG`GdJ|FpCv@??fC~@jAXxDY`HaDdDkAhCG~Hd@dCE~KoAbFy@dEoB",
+"ExternalId":4616239
+},
+{
+"Name":"West St S Spring St - BBT Manhattan ORT outbound",
+"readersStatus":"one working",
+"polyline":"eiqwFfivbMl_@rE~ZrExRhD~PrCjOtDhBsA`@uApBu@|Bj@",
+"ExternalId":4456494
+},
+{
+"Name":"Whitestone Expwy S Linden Pl - GCP W 82nd St",
+"readersStatus":"both working",
+"polyline":"oqzwFfjsaMzVpc@vJzIlRhJfFvNtEjKlKfNlDlGj@vJwEhPaE~O{FbIye@ba@aRv^oCp_@hBdQnLf[~HhRbBnP",
+"ExternalId":4616403
+},
+{
+"Name":"WSE N Arden Ave - Victory Blvd",
+"readersStatus":"both working",
+"polyline":"u}pvFp`{cMgZs[qJ{IcGqFoDaCyE{B{GkByIu@_D?cF`@m~@hMyYhEmCP",
+"ExternalId":4616213
+},
+{
+"Name":"WSE N Bloomingdale Rd - Arden Ave",
+"readersStatus":"both working",
+"polyline":"ernvF|d_dMcLaJsHgIkEeGcEwHyBcFgCuH{BqJgEaW}@aFcBoGeCiGgCqEaGoH",
+"ExternalId":4616214
+},
+{
+"Name":"WSE N South Ave - SIE E South Ave",
+"readersStatus":"both working",
+"polyline":"sbyvFzvxcMyLwMoD_DcHgEgXoMyTqL}XkOyByAeC}CwBaEgA}Co@mCk@eEKeE@iCl@}E",
+"ExternalId":4616198
+},
+{
+"Name":"WSE N South Ave - SIE W Forest Ave",
+"readersStatus":"both working",
+"polyline":"ubyvFrwxcMyPgQoIyF_\\_OuZoP{Q{J}JcE_KYgFzA}BzCwBzFoG`I",
+"ExternalId":4616477
+},
+{
+"Name":"WSE N Tyrellan Ave - Bloomingdale Rd",
+"readersStatus":"one working",
+"polyline":"kcjvFnbadMy@c[n@eJH}DSsB{@wBo@_AqA}@gBc@mBLmB|@aNjJuAh@iFp@}XnAcFJaJKmGk@sHiA}IuBgNiF}JwF",
+"ExternalId":4616215
+},
+{
+"Name":"WSE N Tyrellan Ave - KWVP N Annadale Rd",
+"readersStatus":"one working",
+"polyline":"ocjvFhbadMm@}U}BcV{_@wuBuPq|@cHaRcK{O{i@wd@iRiOmj@oV",
+"ExternalId":4616471
+},
+{
+"Name":"WSE N Victory Blvd - South Ave",
+"readersStatus":"both working",
+"polyline":"kxvvFvzycMsB@_Fg@g_@aKoEqAmCoA_FuCwE}DyDcE",
+"ExternalId":4616212
+},
+{
+"Name":"WSE S Arden Ave - Bloomingdale Rd",
+"readersStatus":"both working",
+"polyline":"w~pvFxb{cMzDtEvCpEdCxFhA~CpB|IvEzXlBpItAbFvE`L|ElIpFfHdIhI|GlF",
+"ExternalId":4616202
+},
+{
+"Name":"WSE S Bloomingdale Rd - Tyrellan Ave",
+"readersStatus":"one working",
+"polyline":"}snvFlf_dMbDvBrHzDlHxCdGfBtFpAfIjA`E^hJVnGCxZ}A|BVfBl@fIvF~@`@bJrBvAt@jA|Ah@lBXtN",
+"ExternalId":4616203
+},
+{
+"Name":"WSE S South Ave - Victory Blvd",
+"readersStatus":"both working",
+"polyline":"cbyvFlzxcMrEzElEhDzBpArC~AfFhBdXlHnHjBrF`@~BC",
+"ExternalId":4616200
+},
+{
+"Name":"WSE S Tyrellan Ave - NJ 440 S Francis Street",
+"readersStatus":"one working",
+"polyline":"}ejvF|badMRdJr@xSzB|cAbBpt@GtKyBva@w@hM{@pMoD~O",
+"ExternalId":4329483
+},
+{
+"Name":"WSE S Victory Blvd - Arden Ave",
+"readersStatus":"both working",
+"polyline":"cvvvFd}ycMvPwBvp@aJbOeBtLmB~BMlE?rGp@dDv@fE|AjItFtVvUxS`U",
+"ExternalId":4616201
+}
+]
+}

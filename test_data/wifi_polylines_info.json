@@ -1,0 +1,58 @@
+{
+"RECORDS":[
+{
+"sid":"003004",
+"location_name":"astoria blvd - eastbound - 77 st to 82 st",
+"polyline":"q`ywFd__bMB_AnCkZ",
+"type":"local_street"
+},
+{
+"sid":"004005",
+"location_name":"astoria blvd - eastbound - 82 st to 88 st",
+"polyline":"}{xwFva~aMjEgd@",
+"type":"local_street"
+},
+{
+"sid":"005004",
+"location_name":"astoria blvd - westbound - 88 st to 82 st",
+"polyline":"wvxwFx||aMgEbd@",
+"type":"local_street"
+},
+{
+"sid":"005006",
+"location_name":"astoria blvd - eastbound - 88 st to 94 st",
+"polyline":"ouxwFl||aMdEyc@",
+"type":"local_street"
+},
+{
+"sid":"006005",
+"location_name":"astoria blvd - westbound - 94 st to 88 st",
+"polyline":"gpxwFvw{aMoE|c@",
+"type":"local_street"
+},
+{
+"sid":"006007",
+"location_name":"astoria blvd - eastbound - 94 st to 101 st",
+"polyline":"ioxwFrw{aMlF_k@",
+"type":"local_street"
+},
+{
+"sid":"007006",
+"location_name":"astoria blvd - westbound - 101 st to 94 st",
+"polyline":"aixwFnlzaMeFdj@",
+"type":"local_street"
+},
+{
+"sid":"007008",
+"location_name":"astoria blvd - eastbound - 101 st to 108 st",
+"polyline":"{gxwFrkzaMhDo]~AeK",
+"type":"local_street"
+},
+{
+"sid":"008007",
+"location_name":"astoria blvd - westbound - 108 st to 101 st",
+"polyline":"k`xwFf`yaMcBpKoDl^",
+"type":"local_street"
+}
+]
+}

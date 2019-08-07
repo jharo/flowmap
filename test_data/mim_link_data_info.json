@@ -1,0 +1,2774 @@
+{
+"RECORDS":[
+{
+"sid":"001004",
+"lid0":1,
+"lid1":4,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":20,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:02",
+"medianTravelTime_seconds":63.5000,
+"medianTravelTime_timeString":"00:01:04"
+},
+{
+"sid":"001011",
+"lid0":1,
+"lid1":11,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":43,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:49",
+"medianTravelTime_seconds":149.0000,
+"medianTravelTime_timeString":"00:02:29"
+},
+{
+"sid":"002001",
+"lid0":2,
+"lid1":1,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":37,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:50",
+"medianTravelTime_seconds":398.0000,
+"medianTravelTime_timeString":"00:06:38"
+},
+{
+"sid":"002012",
+"lid0":2,
+"lid1":12,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:56",
+"medianTravelTime_seconds":226.0000,
+"medianTravelTime_timeString":"00:03:46"
+},
+{
+"sid":"003002",
+"lid0":3,
+"lid1":2,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":10,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:36",
+"medianTravelTime_seconds":175.5000,
+"medianTravelTime_timeString":"00:02:56"
+},
+{
+"sid":"003006",
+"lid0":3,
+"lid1":6,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:59",
+"medianTravelTime_seconds":157.0000,
+"medianTravelTime_timeString":"00:02:37"
+},
+{
+"sid":"003013",
+"lid0":3,
+"lid1":13,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:56",
+"medianTravelTime_seconds":469.5000,
+"medianTravelTime_timeString":"00:07:50"
+},
+{
+"sid":"004001",
+"lid0":4,
+"lid1":1,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":15,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:29",
+"medianTravelTime_seconds":74.0000,
+"medianTravelTime_timeString":"00:01:14"
+},
+{
+"sid":"004005",
+"lid0":4,
+"lid1":5,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":6,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:02",
+"medianTravelTime_seconds":143.5000,
+"medianTravelTime_timeString":"00:02:24"
+},
+{
+"sid":"004042",
+"lid0":4,
+"lid1":42,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":15,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:07",
+"medianTravelTime_seconds":58.0000,
+"medianTravelTime_timeString":"00:00:58"
+},
+{
+"sid":"005002",
+"lid0":5,
+"lid1":2,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":21,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:26",
+"medianTravelTime_seconds":108.0000,
+"medianTravelTime_timeString":"00:01:48"
+},
+{
+"sid":"005006",
+"lid0":5,
+"lid1":6,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":28,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:15",
+"medianTravelTime_seconds":174.5000,
+"medianTravelTime_timeString":"00:02:54"
+},
+{
+"sid":"006003",
+"lid0":6,
+"lid1":3,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:19",
+"medianTravelTime_seconds":34.0000,
+"medianTravelTime_timeString":"00:00:34"
+},
+{
+"sid":"006055",
+"lid0":6,
+"lid1":55,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:11",
+"medianTravelTime_seconds":524.0000,
+"medianTravelTime_timeString":"00:08:44"
+},
+{
+"sid":"008011",
+"lid0":8,
+"lid1":11,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":15,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:33",
+"medianTravelTime_seconds":150.0000,
+"medianTravelTime_timeString":"00:02:30"
+},
+{
+"sid":"008020",
+"lid0":8,
+"lid1":20,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":45,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:32",
+"medianTravelTime_seconds":265.0000,
+"medianTravelTime_timeString":"00:04:25"
+},
+{
+"sid":"008023",
+"lid0":8,
+"lid1":23,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:05",
+"medianTravelTime_seconds":167.5000,
+"medianTravelTime_timeString":"00:02:48"
+},
+{
+"sid":"008118",
+"lid0":8,
+"lid1":118,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":71,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:10",
+"medianTravelTime_seconds":45.0000,
+"medianTravelTime_timeString":"00:00:45"
+},
+{
+"sid":"011001",
+"lid0":11,
+"lid1":1,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":18,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:06",
+"medianTravelTime_seconds":142.0000,
+"medianTravelTime_timeString":"00:02:22"
+},
+{
+"sid":"011012",
+"lid0":11,
+"lid1":12,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":6,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:12",
+"medianTravelTime_seconds":106.5000,
+"medianTravelTime_timeString":"00:01:46"
+},
+{
+"sid":"011014",
+"lid0":11,
+"lid1":14,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":38,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:04",
+"medianTravelTime_seconds":54.5000,
+"medianTravelTime_timeString":"00:00:54"
+},
+{
+"sid":"012013",
+"lid0":12,
+"lid1":13,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":10,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:38",
+"medianTravelTime_seconds":486.0000,
+"medianTravelTime_timeString":"00:08:06"
+},
+{
+"sid":"012015",
+"lid0":12,
+"lid1":15,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":5,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:59",
+"medianTravelTime_seconds":63.0000,
+"medianTravelTime_timeString":"00:01:03"
+},
+{
+"sid":"013003",
+"lid0":13,
+"lid1":3,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":12,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:59",
+"medianTravelTime_seconds":223.0000,
+"medianTravelTime_timeString":"00:03:43"
+},
+{
+"sid":"013016",
+"lid0":13,
+"lid1":16,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":53,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:56",
+"medianTravelTime_seconds":44.0000,
+"medianTravelTime_timeString":"00:00:44"
+},
+{
+"sid":"014011",
+"lid0":14,
+"lid1":11,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:42",
+"medianTravelTime_seconds":209.0000,
+"medianTravelTime_timeString":"00:03:29"
+},
+{
+"sid":"014017",
+"lid0":14,
+"lid1":17,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":34,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:38",
+"medianTravelTime_seconds":172.0000,
+"medianTravelTime_timeString":"00:02:52"
+},
+{
+"sid":"014118",
+"lid0":14,
+"lid1":118,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:52",
+"medianTravelTime_seconds":145.5000,
+"medianTravelTime_timeString":"00:02:26"
+},
+{
+"sid":"015014",
+"lid0":15,
+"lid1":14,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:06",
+"medianTravelTime_seconds":148.0000,
+"medianTravelTime_timeString":"00:02:28"
+},
+{
+"sid":"015018",
+"lid0":15,
+"lid1":18,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":37,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:35",
+"medianTravelTime_seconds":118.0000,
+"medianTravelTime_timeString":"00:01:58"
+},
+{
+"sid":"016013",
+"lid0":16,
+"lid1":13,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":16,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:29",
+"medianTravelTime_seconds":128.5000,
+"medianTravelTime_timeString":"00:02:08"
+},
+{
+"sid":"016015",
+"lid0":16,
+"lid1":15,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":11,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:18",
+"medianTravelTime_seconds":258.0000,
+"medianTravelTime_timeString":"00:04:18"
+},
+{
+"sid":"016019",
+"lid0":16,
+"lid1":19,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":30,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:57",
+"medianTravelTime_seconds":249.5000,
+"medianTravelTime_timeString":"00:04:10"
+},
+{
+"sid":"017014",
+"lid0":17,
+"lid1":14,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:27",
+"medianTravelTime_seconds":158.0000,
+"medianTravelTime_timeString":"00:02:38"
+},
+{
+"sid":"017018",
+"lid0":17,
+"lid1":18,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":54,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:09",
+"medianTravelTime_seconds":133.5000,
+"medianTravelTime_timeString":"00:02:14"
+},
+{
+"sid":"017059",
+"lid0":17,
+"lid1":59,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":10,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:34",
+"medianTravelTime_seconds":172.0000,
+"medianTravelTime_timeString":"00:02:52"
+},
+{
+"sid":"018019",
+"lid0":18,
+"lid1":19,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:39",
+"medianTravelTime_seconds":143.0000,
+"medianTravelTime_timeString":"00:02:23"
+},
+{
+"sid":"018037",
+"lid0":18,
+"lid1":37,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":21,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:54",
+"medianTravelTime_seconds":109.0000,
+"medianTravelTime_timeString":"00:01:49"
+},
+{
+"sid":"019016",
+"lid0":19,
+"lid1":16,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:43",
+"medianTravelTime_seconds":754.0000,
+"medianTravelTime_timeString":"00:12:34"
+},
+{
+"sid":"019056",
+"lid0":19,
+"lid1":56,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":22,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:46",
+"medianTravelTime_seconds":291.0000,
+"medianTravelTime_timeString":"00:04:51"
+},
+{
+"sid":"020004",
+"lid0":20,
+"lid1":4,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":8,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:27",
+"medianTravelTime_seconds":104.5000,
+"medianTravelTime_timeString":"00:01:44"
+},
+{
+"sid":"020008",
+"lid0":20,
+"lid1":8,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":56,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:31",
+"medianTravelTime_seconds":183.5000,
+"medianTravelTime_timeString":"00:03:04"
+},
+{
+"sid":"020103",
+"lid0":20,
+"lid1":103,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":69,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:28",
+"medianTravelTime_seconds":90.0000,
+"medianTravelTime_timeString":"00:01:30"
+},
+{
+"sid":"021003",
+"lid0":21,
+"lid1":3,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:52",
+"medianTravelTime_seconds":477.0000,
+"medianTravelTime_timeString":"00:07:57"
+},
+{
+"sid":"021022",
+"lid0":21,
+"lid1":22,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":12,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:13",
+"medianTravelTime_seconds":108.0000,
+"medianTravelTime_timeString":"00:01:48"
+},
+{
+"sid":"021193",
+"lid0":21,
+"lid1":193,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":21,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:31",
+"medianTravelTime_seconds":110.0000,
+"medianTravelTime_timeString":"00:01:50"
+},
+{
+"sid":"022016",
+"lid0":22,
+"lid1":16,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":11,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:09",
+"medianTravelTime_seconds":489.0000,
+"medianTravelTime_timeString":"00:08:09"
+},
+{
+"sid":"022021",
+"lid0":22,
+"lid1":21,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:11",
+"medianTravelTime_seconds":104.0000,
+"medianTravelTime_timeString":"00:01:44"
+},
+{
+"sid":"023008",
+"lid0":23,
+"lid1":8,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":11,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:17",
+"medianTravelTime_seconds":129.0000,
+"medianTravelTime_timeString":"00:02:09"
+},
+{
+"sid":"023017",
+"lid0":23,
+"lid1":17,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":59,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:23",
+"medianTravelTime_seconds":201.0000,
+"medianTravelTime_timeString":"00:03:21"
+},
+{
+"sid":"023060",
+"lid0":23,
+"lid1":60,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":5,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:01",
+"medianTravelTime_seconds":717.0000,
+"medianTravelTime_timeString":"00:11:57"
+},
+{
+"sid":"023118",
+"lid0":23,
+"lid1":118,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":57,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:56",
+"medianTravelTime_seconds":63.0000,
+"medianTravelTime_timeString":"00:01:03"
+},
+{
+"sid":"024026",
+"lid0":24,
+"lid1":26,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":301,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:18",
+"medianTravelTime_seconds":118.0000,
+"medianTravelTime_timeString":"00:01:58"
+},
+{
+"sid":"025035",
+"lid0":25,
+"lid1":35,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":114,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:54:03",
+"medianTravelTime_seconds":525.0000,
+"medianTravelTime_timeString":"00:08:45"
+},
+{
+"sid":"026034",
+"lid0":26,
+"lid1":34,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":377,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:31",
+"medianTravelTime_seconds":305.0000,
+"medianTravelTime_timeString":"00:05:05"
+},
+{
+"sid":"026135",
+"lid0":26,
+"lid1":135,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":83,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:54",
+"medianTravelTime_seconds":351.0000,
+"medianTravelTime_timeString":"00:05:51"
+},
+{
+"sid":"027034",
+"lid0":27,
+"lid1":34,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":31,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:53",
+"medianTravelTime_seconds":344.0000,
+"medianTravelTime_timeString":"00:05:44"
+},
+{
+"sid":"027135",
+"lid0":27,
+"lid1":135,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":22,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:01",
+"medianTravelTime_seconds":415.5000,
+"medianTravelTime_timeString":"00:06:56"
+},
+{
+"sid":"028029",
+"lid0":28,
+"lid1":29,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":219,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:20",
+"medianTravelTime_seconds":161.0000,
+"medianTravelTime_timeString":"00:02:41"
+},
+{
+"sid":"029150",
+"lid0":29,
+"lid1":150,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":22,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:54:14",
+"medianTravelTime_seconds":310.0000,
+"medianTravelTime_timeString":"00:05:10"
+},
+{
+"sid":"033024",
+"lid0":33,
+"lid1":24,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":197,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:53",
+"medianTravelTime_seconds":415.0000,
+"medianTravelTime_timeString":"00:06:55"
+},
+{
+"sid":"034025",
+"lid0":34,
+"lid1":25,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":87,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:58",
+"medianTravelTime_seconds":430.0000,
+"medianTravelTime_timeString":"00:07:10"
+},
+{
+"sid":"034028",
+"lid0":34,
+"lid1":28,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":61,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:01",
+"medianTravelTime_seconds":540.0000,
+"medianTravelTime_timeString":"00:09:00"
+},
+{
+"sid":"035027",
+"lid0":35,
+"lid1":27,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":198,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:49",
+"medianTravelTime_seconds":312.5000,
+"medianTravelTime_timeString":"00:05:12"
+},
+{
+"sid":"037038",
+"lid0":37,
+"lid1":38,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":7,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:44",
+"medianTravelTime_seconds":187.0000,
+"medianTravelTime_timeString":"00:03:07"
+},
+{
+"sid":"037059",
+"lid0":37,
+"lid1":59,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":17,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:46",
+"medianTravelTime_seconds":152.0000,
+"medianTravelTime_timeString":"00:02:32"
+},
+{
+"sid":"038039",
+"lid0":38,
+"lid1":39,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":6,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:59",
+"medianTravelTime_seconds":68.5000,
+"medianTravelTime_timeString":"00:01:08"
+},
+{
+"sid":"039049",
+"lid0":39,
+"lid1":49,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":28,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:13",
+"medianTravelTime_seconds":207.5000,
+"medianTravelTime_timeString":"00:03:28"
+},
+{
+"sid":"039085",
+"lid0":39,
+"lid1":85,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:30",
+"medianTravelTime_seconds":238.5000,
+"medianTravelTime_timeString":"00:03:58"
+},
+{
+"sid":"040041",
+"lid0":40,
+"lid1":41,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":21,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:58",
+"medianTravelTime_seconds":222.0000,
+"medianTravelTime_timeString":"00:03:42"
+},
+{
+"sid":"040046",
+"lid0":40,
+"lid1":46,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":14,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:33",
+"medianTravelTime_seconds":75.0000,
+"medianTravelTime_timeString":"00:01:15"
+},
+{
+"sid":"041055",
+"lid0":41,
+"lid1":55,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:36",
+"medianTravelTime_seconds":479.0000,
+"medianTravelTime_timeString":"00:07:59"
+},
+{
+"sid":"042048",
+"lid0":42,
+"lid1":48,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:54:10",
+"medianTravelTime_seconds":48.0000,
+"medianTravelTime_timeString":"00:00:48"
+},
+{
+"sid":"042103",
+"lid0":42,
+"lid1":103,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":31,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:27",
+"medianTravelTime_seconds":123.0000,
+"medianTravelTime_timeString":"00:02:03"
+},
+{
+"sid":"043051",
+"lid0":43,
+"lid1":51,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:56",
+"medianTravelTime_seconds":280.0000,
+"medianTravelTime_timeString":"00:04:40"
+},
+{
+"sid":"043058",
+"lid0":43,
+"lid1":58,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":7,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:36",
+"medianTravelTime_seconds":356.0000,
+"medianTravelTime_timeString":"00:05:56"
+},
+{
+"sid":"044020",
+"lid0":44,
+"lid1":20,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":7,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:01",
+"medianTravelTime_seconds":827.0000,
+"medianTravelTime_timeString":"00:13:47"
+},
+{
+"sid":"044047",
+"lid0":44,
+"lid1":47,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:42",
+"medianTravelTime_seconds":367.5000,
+"medianTravelTime_timeString":"00:06:08"
+},
+{
+"sid":"045044",
+"lid0":45,
+"lid1":44,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":6,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:45",
+"medianTravelTime_seconds":145.5000,
+"medianTravelTime_timeString":"00:02:26"
+},
+{
+"sid":"045102",
+"lid0":45,
+"lid1":102,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:21",
+"medianTravelTime_seconds":725.0000,
+"medianTravelTime_timeString":"00:12:05"
+},
+{
+"sid":"046005",
+"lid0":46,
+"lid1":5,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":15,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:09",
+"medianTravelTime_seconds":61.0000,
+"medianTravelTime_timeString":"00:01:01"
+},
+{
+"sid":"046042",
+"lid0":46,
+"lid1":42,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":20,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:11",
+"medianTravelTime_seconds":150.5000,
+"medianTravelTime_timeString":"00:02:30"
+},
+{
+"sid":"047023",
+"lid0":47,
+"lid1":23,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":64,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:51",
+"medianTravelTime_seconds":679.5000,
+"medianTravelTime_timeString":"00:11:20"
+},
+{
+"sid":"049053",
+"lid0":49,
+"lid1":53,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":27,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:54",
+"medianTravelTime_seconds":166.0000,
+"medianTravelTime_timeString":"00:02:46"
+},
+{
+"sid":"049119",
+"lid0":49,
+"lid1":119,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":45,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:46",
+"medianTravelTime_seconds":67.0000,
+"medianTravelTime_timeString":"00:01:07"
+},
+{
+"sid":"051043",
+"lid0":51,
+"lid1":43,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":12,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:26",
+"medianTravelTime_seconds":74.5000,
+"medianTravelTime_timeString":"00:01:14"
+},
+{
+"sid":"051052",
+"lid0":51,
+"lid1":52,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":22,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:33",
+"medianTravelTime_seconds":412.5000,
+"medianTravelTime_timeString":"00:06:52"
+},
+{
+"sid":"052056",
+"lid0":52,
+"lid1":56,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":37,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:06",
+"medianTravelTime_seconds":28.0000,
+"medianTravelTime_timeString":"00:00:28"
+},
+{
+"sid":"053017",
+"lid0":53,
+"lid1":17,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":9,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:47",
+"medianTravelTime_seconds":213.0000,
+"medianTravelTime_timeString":"00:03:33"
+},
+{
+"sid":"053038",
+"lid0":53,
+"lid1":38,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":11,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:03",
+"medianTravelTime_seconds":118.0000,
+"medianTravelTime_timeString":"00:01:58"
+},
+{
+"sid":"053049",
+"lid0":53,
+"lid1":49,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":15,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:40",
+"medianTravelTime_seconds":110.0000,
+"medianTravelTime_timeString":"00:01:50"
+},
+{
+"sid":"053059",
+"lid0":53,
+"lid1":59,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":32,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:57",
+"medianTravelTime_seconds":125.0000,
+"medianTravelTime_timeString":"00:02:05"
+},
+{
+"sid":"055006",
+"lid0":55,
+"lid1":6,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":18,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:50",
+"medianTravelTime_seconds":40.0000,
+"medianTravelTime_timeString":"00:00:40"
+},
+{
+"sid":"055046",
+"lid0":55,
+"lid1":46,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":10,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:21",
+"medianTravelTime_seconds":86.5000,
+"medianTravelTime_timeString":"00:01:26"
+},
+{
+"sid":"056037",
+"lid0":56,
+"lid1":37,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":8,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:44",
+"medianTravelTime_seconds":153.0000,
+"medianTravelTime_timeString":"00:02:33"
+},
+{
+"sid":"056052",
+"lid0":56,
+"lid1":52,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":5,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:35",
+"medianTravelTime_seconds":160.0000,
+"medianTravelTime_timeString":"00:02:40"
+},
+{
+"sid":"057060",
+"lid0":57,
+"lid1":60,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":17,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:11",
+"medianTravelTime_seconds":100.0000,
+"medianTravelTime_timeString":"00:01:40"
+},
+{
+"sid":"058039",
+"lid0":58,
+"lid1":39,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":23,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:07",
+"medianTravelTime_seconds":283.0000,
+"medianTravelTime_timeString":"00:04:43"
+},
+{
+"sid":"058077",
+"lid0":58,
+"lid1":77,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:36",
+"medianTravelTime_seconds":415.0000,
+"medianTravelTime_timeString":"00:06:55"
+},
+{
+"sid":"059017",
+"lid0":59,
+"lid1":17,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":47,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:20",
+"medianTravelTime_seconds":78.0000,
+"medianTravelTime_timeString":"00:01:18"
+},
+{
+"sid":"059053",
+"lid0":59,
+"lid1":53,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":9,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:54:03",
+"medianTravelTime_seconds":112.0000,
+"medianTravelTime_timeString":"00:01:52"
+},
+{
+"sid":"059060",
+"lid0":59,
+"lid1":60,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":47,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:55",
+"medianTravelTime_seconds":308.0000,
+"medianTravelTime_timeString":"00:05:08"
+},
+{
+"sid":"060023",
+"lid0":60,
+"lid1":23,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":34,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:55",
+"medianTravelTime_seconds":161.0000,
+"medianTravelTime_timeString":"00:02:41"
+},
+{
+"sid":"062074",
+"lid0":62,
+"lid1":74,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":120,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:35",
+"medianTravelTime_seconds":154.0000,
+"medianTravelTime_timeString":"00:02:34"
+},
+{
+"sid":"062126",
+"lid0":62,
+"lid1":126,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":45,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:10",
+"medianTravelTime_seconds":217.0000,
+"medianTravelTime_timeString":"00:03:37"
+},
+{
+"sid":"063066",
+"lid0":63,
+"lid1":66,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:26",
+"medianTravelTime_seconds":361.5000,
+"medianTravelTime_timeString":"00:06:02"
+},
+{
+"sid":"063074",
+"lid0":63,
+"lid1":74,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":12,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:34",
+"medianTravelTime_seconds":343.5000,
+"medianTravelTime_timeString":"00:05:44"
+},
+{
+"sid":"065063",
+"lid0":65,
+"lid1":63,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":67,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:52",
+"medianTravelTime_seconds":368.0000,
+"medianTravelTime_timeString":"00:06:08"
+},
+{
+"sid":"066063",
+"lid0":66,
+"lid1":63,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:57",
+"medianTravelTime_seconds":439.5000,
+"medianTravelTime_timeString":"00:07:20"
+},
+{
+"sid":"066067",
+"lid0":66,
+"lid1":67,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:25",
+"medianTravelTime_seconds":266.0000,
+"medianTravelTime_timeString":"00:04:26"
+},
+{
+"sid":"066074",
+"lid0":66,
+"lid1":74,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:09",
+"medianTravelTime_seconds":337.5000,
+"medianTravelTime_timeString":"00:05:38"
+},
+{
+"sid":"067068",
+"lid0":67,
+"lid1":68,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":14,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:24",
+"medianTravelTime_seconds":65.5000,
+"medianTravelTime_timeString":"00:01:06"
+},
+{
+"sid":"068066",
+"lid0":68,
+"lid1":66,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":21,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:54:18",
+"medianTravelTime_seconds":437.0000,
+"medianTravelTime_timeString":"00:07:17"
+},
+{
+"sid":"069066",
+"lid0":69,
+"lid1":66,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:30",
+"medianTravelTime_seconds":417.0000,
+"medianTravelTime_timeString":"00:06:57"
+},
+{
+"sid":"069068",
+"lid0":69,
+"lid1":68,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":5,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:59",
+"medianTravelTime_seconds":16.0000,
+"medianTravelTime_timeString":"00:00:16"
+},
+{
+"sid":"069084",
+"lid0":69,
+"lid1":84,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":6,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:39",
+"medianTravelTime_seconds":123.0000,
+"medianTravelTime_timeString":"00:02:03"
+},
+{
+"sid":"072117",
+"lid0":72,
+"lid1":117,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":7,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:00",
+"medianTravelTime_seconds":226.0000,
+"medianTravelTime_timeString":"00:03:46"
+},
+{
+"sid":"073070",
+"lid0":73,
+"lid1":70,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":18,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:06",
+"medianTravelTime_seconds":96.5000,
+"medianTravelTime_timeString":"00:01:36"
+},
+{
+"sid":"074062",
+"lid0":74,
+"lid1":62,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":12,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:27",
+"medianTravelTime_seconds":210.0000,
+"medianTravelTime_timeString":"00:03:30"
+},
+{
+"sid":"074063",
+"lid0":74,
+"lid1":63,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":11,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:45",
+"medianTravelTime_seconds":356.0000,
+"medianTravelTime_timeString":"00:05:56"
+},
+{
+"sid":"074066",
+"lid0":74,
+"lid1":66,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":11,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:11",
+"medianTravelTime_seconds":511.0000,
+"medianTravelTime_timeString":"00:08:31"
+},
+{
+"sid":"075079",
+"lid0":75,
+"lid1":79,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":13,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:45",
+"medianTravelTime_seconds":123.0000,
+"medianTravelTime_timeString":"00:02:03"
+},
+{
+"sid":"076045",
+"lid0":76,
+"lid1":45,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":64,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:52",
+"medianTravelTime_seconds":295.5000,
+"medianTravelTime_timeString":"00:04:56"
+},
+{
+"sid":"076075",
+"lid0":76,
+"lid1":75,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:25",
+"medianTravelTime_seconds":893.0000,
+"medianTravelTime_timeString":"00:14:53"
+},
+{
+"sid":"077058",
+"lid0":77,
+"lid1":58,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":9,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:12",
+"medianTravelTime_seconds":137.0000,
+"medianTravelTime_timeString":"00:02:17"
+},
+{
+"sid":"077081",
+"lid0":77,
+"lid1":81,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:26",
+"medianTravelTime_seconds":548.0000,
+"medianTravelTime_timeString":"00:09:08"
+},
+{
+"sid":"078108",
+"lid0":78,
+"lid1":108,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:44",
+"medianTravelTime_seconds":718.0000,
+"medianTravelTime_timeString":"00:11:58"
+},
+{
+"sid":"079078",
+"lid0":79,
+"lid1":78,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:54",
+"medianTravelTime_seconds":489.0000,
+"medianTravelTime_timeString":"00:08:09"
+},
+{
+"sid":"079082",
+"lid0":79,
+"lid1":82,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":14,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:30",
+"medianTravelTime_seconds":92.5000,
+"medianTravelTime_timeString":"00:01:32"
+},
+{
+"sid":"079104",
+"lid0":79,
+"lid1":104,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":11,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:37",
+"medianTravelTime_seconds":190.0000,
+"medianTravelTime_timeString":"00:03:10"
+},
+{
+"sid":"081077",
+"lid0":81,
+"lid1":77,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:29",
+"medianTravelTime_seconds":43.0000,
+"medianTravelTime_timeString":"00:00:43"
+},
+{
+"sid":"081116",
+"lid0":81,
+"lid1":116,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":31,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:29",
+"medianTravelTime_seconds":68.0000,
+"medianTravelTime_timeString":"00:01:08"
+},
+{
+"sid":"082079",
+"lid0":82,
+"lid1":79,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":9,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:57",
+"medianTravelTime_seconds":282.0000,
+"medianTravelTime_timeString":"00:04:42"
+},
+{
+"sid":"084066",
+"lid0":84,
+"lid1":66,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":29,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:20",
+"medianTravelTime_seconds":373.0000,
+"medianTravelTime_timeString":"00:06:13"
+},
+{
+"sid":"085077",
+"lid0":85,
+"lid1":77,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":47,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:38",
+"medianTravelTime_seconds":164.0000,
+"medianTravelTime_timeString":"00:02:44"
+},
+{
+"sid":"085116",
+"lid0":85,
+"lid1":116,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:41",
+"medianTravelTime_seconds":67.0000,
+"medianTravelTime_timeString":"00:01:07"
+},
+{
+"sid":"086087",
+"lid0":86,
+"lid1":87,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":137,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:08",
+"medianTravelTime_seconds":122.0000,
+"medianTravelTime_timeString":"00:02:02"
+},
+{
+"sid":"086099",
+"lid0":86,
+"lid1":99,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":158,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:15",
+"medianTravelTime_seconds":168.0000,
+"medianTravelTime_timeString":"00:02:48"
+},
+{
+"sid":"087086",
+"lid0":87,
+"lid1":86,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":106,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:25",
+"medianTravelTime_seconds":263.0000,
+"medianTravelTime_timeString":"00:04:23"
+},
+{
+"sid":"087088",
+"lid0":87,
+"lid1":88,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":39,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:12",
+"medianTravelTime_seconds":238.0000,
+"medianTravelTime_timeString":"00:03:58"
+},
+{
+"sid":"088087",
+"lid0":88,
+"lid1":87,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":42,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:30",
+"medianTravelTime_seconds":352.5000,
+"medianTravelTime_timeString":"00:05:52"
+},
+{
+"sid":"088089",
+"lid0":88,
+"lid1":89,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":130,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:46",
+"medianTravelTime_seconds":196.5000,
+"medianTravelTime_timeString":"00:03:16"
+},
+{
+"sid":"089088",
+"lid0":89,
+"lid1":88,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":109,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:07",
+"medianTravelTime_seconds":391.0000,
+"medianTravelTime_timeString":"00:06:31"
+},
+{
+"sid":"091092",
+"lid0":91,
+"lid1":92,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":97,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:10",
+"medianTravelTime_seconds":147.0000,
+"medianTravelTime_timeString":"00:02:27"
+},
+{
+"sid":"092091",
+"lid0":92,
+"lid1":91,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:38",
+"medianTravelTime_seconds":280.0000,
+"medianTravelTime_timeString":"00:04:40"
+},
+{
+"sid":"092144",
+"lid0":92,
+"lid1":144,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":28,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:40",
+"medianTravelTime_seconds":292.5000,
+"medianTravelTime_timeString":"00:04:52"
+},
+{
+"sid":"093094",
+"lid0":93,
+"lid1":94,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:23",
+"medianTravelTime_seconds":111.0000,
+"medianTravelTime_timeString":"00:01:51"
+},
+{
+"sid":"093113",
+"lid0":93,
+"lid1":113,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":88,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:51",
+"medianTravelTime_seconds":276.5000,
+"medianTravelTime_timeString":"00:04:36"
+},
+{
+"sid":"094093",
+"lid0":94,
+"lid1":93,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":83,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:36",
+"medianTravelTime_seconds":176.0000,
+"medianTravelTime_timeString":"00:02:56"
+},
+{
+"sid":"094098",
+"lid0":94,
+"lid1":98,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:36",
+"medianTravelTime_seconds":124.5000,
+"medianTravelTime_timeString":"00:02:04"
+},
+{
+"sid":"095096",
+"lid0":95,
+"lid1":96,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":17,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:38",
+"medianTravelTime_seconds":99.0000,
+"medianTravelTime_timeString":"00:01:39"
+},
+{
+"sid":"095170",
+"lid0":95,
+"lid1":170,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":65,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:54",
+"medianTravelTime_seconds":239.0000,
+"medianTravelTime_timeString":"00:03:59"
+},
+{
+"sid":"096095",
+"lid0":96,
+"lid1":95,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":51,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:33",
+"medianTravelTime_seconds":160.0000,
+"medianTravelTime_timeString":"00:02:40"
+},
+{
+"sid":"096097",
+"lid0":96,
+"lid1":97,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":173,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:57",
+"medianTravelTime_seconds":81.0000,
+"medianTravelTime_timeString":"00:01:21"
+},
+{
+"sid":"097096",
+"lid0":97,
+"lid1":96,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:41",
+"medianTravelTime_seconds":322.0000,
+"medianTravelTime_timeString":"00:05:22"
+},
+{
+"sid":"097099",
+"lid0":97,
+"lid1":99,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":259,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:52",
+"medianTravelTime_seconds":46.0000,
+"medianTravelTime_timeString":"00:00:46"
+},
+{
+"sid":"098094",
+"lid0":98,
+"lid1":94,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":83,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:52",
+"medianTravelTime_seconds":95.0000,
+"medianTravelTime_timeString":"00:01:35"
+},
+{
+"sid":"098100",
+"lid0":98,
+"lid1":100,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":59,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:11",
+"medianTravelTime_seconds":158.0000,
+"medianTravelTime_timeString":"00:02:38"
+},
+{
+"sid":"099086",
+"lid0":99,
+"lid1":86,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":187,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:20",
+"medianTravelTime_seconds":85.0000,
+"medianTravelTime_timeString":"00:01:25"
+},
+{
+"sid":"099097",
+"lid0":99,
+"lid1":97,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:51",
+"medianTravelTime_seconds":939.0000,
+"medianTravelTime_timeString":"00:15:39"
+},
+{
+"sid":"100098",
+"lid0":100,
+"lid1":98,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":46,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:31",
+"medianTravelTime_seconds":132.5000,
+"medianTravelTime_timeString":"00:02:12"
+},
+{
+"sid":"100115",
+"lid0":100,
+"lid1":115,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":20,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:24",
+"medianTravelTime_seconds":181.5000,
+"medianTravelTime_timeString":"00:03:02"
+},
+{
+"sid":"102103",
+"lid0":102,
+"lid1":103,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:01",
+"medianTravelTime_seconds":568.0000,
+"medianTravelTime_timeString":"00:09:28"
+},
+{
+"sid":"103020",
+"lid0":103,
+"lid1":20,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":39,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:24",
+"medianTravelTime_seconds":90.0000,
+"medianTravelTime_timeString":"00:01:30"
+},
+{
+"sid":"103102",
+"lid0":103,
+"lid1":102,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:56",
+"medianTravelTime_seconds":104.0000,
+"medianTravelTime_timeString":"00:01:44"
+},
+{
+"sid":"104079",
+"lid0":104,
+"lid1":79,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":8,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:21",
+"medianTravelTime_seconds":137.0000,
+"medianTravelTime_timeString":"00:02:17"
+},
+{
+"sid":"108078",
+"lid0":108,
+"lid1":78,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":21,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:02",
+"medianTravelTime_seconds":140.0000,
+"medianTravelTime_timeString":"00:02:20"
+},
+{
+"sid":"108104",
+"lid0":108,
+"lid1":104,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:54",
+"medianTravelTime_seconds":116.0000,
+"medianTravelTime_timeString":"00:01:56"
+},
+{
+"sid":"113093",
+"lid0":113,
+"lid1":93,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":119,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:45",
+"medianTravelTime_seconds":394.0000,
+"medianTravelTime_timeString":"00:06:34"
+},
+{
+"sid":"114115",
+"lid0":114,
+"lid1":115,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:12",
+"medianTravelTime_seconds":572.0000,
+"medianTravelTime_timeString":"00:09:32"
+},
+{
+"sid":"114137",
+"lid0":114,
+"lid1":137,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:45",
+"medianTravelTime_seconds":99.0000,
+"medianTravelTime_timeString":"00:01:39"
+},
+{
+"sid":"115100",
+"lid0":115,
+"lid1":100,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":8,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:10",
+"medianTravelTime_seconds":191.5000,
+"medianTravelTime_timeString":"00:03:12"
+},
+{
+"sid":"115114",
+"lid0":115,
+"lid1":114,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":26,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:43",
+"medianTravelTime_seconds":146.0000,
+"medianTravelTime_timeString":"00:02:26"
+},
+{
+"sid":"118008",
+"lid0":118,
+"lid1":8,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":54,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:44",
+"medianTravelTime_seconds":64.0000,
+"medianTravelTime_timeString":"00:01:04"
+},
+{
+"sid":"118023",
+"lid0":118,
+"lid1":23,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":74,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:55",
+"medianTravelTime_seconds":183.0000,
+"medianTravelTime_timeString":"00:03:03"
+},
+{
+"sid":"120135",
+"lid0":120,
+"lid1":135,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":27,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:13",
+"medianTravelTime_seconds":121.0000,
+"medianTravelTime_timeString":"00:02:01"
+},
+{
+"sid":"120140",
+"lid0":120,
+"lid1":140,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":58,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:49:46",
+"medianTravelTime_seconds":310.5000,
+"medianTravelTime_timeString":"00:05:10"
+},
+{
+"sid":"121127",
+"lid0":121,
+"lid1":127,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":88,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:23",
+"medianTravelTime_seconds":55.5000,
+"medianTravelTime_timeString":"00:00:56"
+},
+{
+"sid":"121145",
+"lid0":121,
+"lid1":145,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":50,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:15",
+"medianTravelTime_seconds":242.0000,
+"medianTravelTime_timeString":"00:04:02"
+},
+{
+"sid":"121146",
+"lid0":121,
+"lid1":146,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":32,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:06",
+"medianTravelTime_seconds":203.0000,
+"medianTravelTime_timeString":"00:03:23"
+},
+{
+"sid":"122134",
+"lid0":122,
+"lid1":134,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":49,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:31",
+"medianTravelTime_seconds":140.0000,
+"medianTravelTime_timeString":"00:02:20"
+},
+{
+"sid":"122135",
+"lid0":122,
+"lid1":135,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":49,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:38",
+"medianTravelTime_seconds":131.0000,
+"medianTravelTime_timeString":"00:02:11"
+},
+{
+"sid":"123124",
+"lid0":123,
+"lid1":124,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":7,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:52",
+"medianTravelTime_seconds":269.0000,
+"medianTravelTime_timeString":"00:04:29"
+},
+{
+"sid":"124123",
+"lid0":124,
+"lid1":123,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":39,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:51",
+"medianTravelTime_seconds":230.0000,
+"medianTravelTime_timeString":"00:03:50"
+},
+{
+"sid":"124125",
+"lid0":124,
+"lid1":125,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":60,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:53",
+"medianTravelTime_seconds":120.5000,
+"medianTravelTime_timeString":"00:02:00"
+},
+{
+"sid":"125124",
+"lid0":125,
+"lid1":124,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":54,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:09",
+"medianTravelTime_seconds":95.5000,
+"medianTravelTime_timeString":"00:01:36"
+},
+{
+"sid":"125127",
+"lid0":125,
+"lid1":127,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":55,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:01",
+"medianTravelTime_seconds":180.0000,
+"medianTravelTime_timeString":"00:03:00"
+},
+{
+"sid":"126062",
+"lid0":126,
+"lid1":62,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:02",
+"medianTravelTime_seconds":336.0000,
+"medianTravelTime_timeString":"00:05:36"
+},
+{
+"sid":"126145",
+"lid0":126,
+"lid1":145,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":51,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:32",
+"medianTravelTime_seconds":147.0000,
+"medianTravelTime_timeString":"00:02:27"
+},
+{
+"sid":"127121",
+"lid0":127,
+"lid1":121,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":59,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:24",
+"medianTravelTime_seconds":83.0000,
+"medianTravelTime_timeString":"00:01:23"
+},
+{
+"sid":"127125",
+"lid0":127,
+"lid1":125,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":39,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:55",
+"medianTravelTime_seconds":224.0000,
+"medianTravelTime_timeString":"00:03:44"
+},
+{
+"sid":"129130",
+"lid0":129,
+"lid1":130,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":31,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:58",
+"medianTravelTime_seconds":275.0000,
+"medianTravelTime_timeString":"00:04:35"
+},
+{
+"sid":"130129",
+"lid0":130,
+"lid1":129,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":29,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:57",
+"medianTravelTime_seconds":177.0000,
+"medianTravelTime_timeString":"00:02:57"
+},
+{
+"sid":"130139",
+"lid0":130,
+"lid1":139,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":29,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:06",
+"medianTravelTime_seconds":124.0000,
+"medianTravelTime_timeString":"00:02:04"
+},
+{
+"sid":"134122",
+"lid0":134,
+"lid1":122,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":29,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:52",
+"medianTravelTime_seconds":77.0000,
+"medianTravelTime_timeString":"00:01:17"
+},
+{
+"sid":"135025",
+"lid0":135,
+"lid1":25,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":27,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:33",
+"medianTravelTime_seconds":473.0000,
+"medianTravelTime_timeString":"00:07:53"
+},
+{
+"sid":"135028",
+"lid0":135,
+"lid1":28,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":55,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:57",
+"medianTravelTime_seconds":608.0000,
+"medianTravelTime_timeString":"00:10:08"
+},
+{
+"sid":"135120",
+"lid0":135,
+"lid1":120,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":46,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:23",
+"medianTravelTime_seconds":93.5000,
+"medianTravelTime_timeString":"00:01:34"
+},
+{
+"sid":"135122",
+"lid0":135,
+"lid1":122,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":95,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:05",
+"medianTravelTime_seconds":210.0000,
+"medianTravelTime_timeString":"00:03:30"
+},
+{
+"sid":"136132",
+"lid0":136,
+"lid1":132,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:03",
+"medianTravelTime_seconds":397.5000,
+"medianTravelTime_timeString":"00:06:38"
+},
+{
+"sid":"139130",
+"lid0":139,
+"lid1":130,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":81,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:13",
+"medianTravelTime_seconds":163.0000,
+"medianTravelTime_timeString":"00:02:43"
+},
+{
+"sid":"139146",
+"lid0":139,
+"lid1":146,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":40,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:17",
+"medianTravelTime_seconds":295.5000,
+"medianTravelTime_timeString":"00:04:56"
+},
+{
+"sid":"140120",
+"lid0":140,
+"lid1":120,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":45,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:40",
+"medianTravelTime_seconds":311.0000,
+"medianTravelTime_timeString":"00:05:11"
+},
+{
+"sid":"140144",
+"lid0":140,
+"lid1":144,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":22,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:17",
+"medianTravelTime_seconds":191.5000,
+"medianTravelTime_timeString":"00:03:12"
+},
+{
+"sid":"144092",
+"lid0":144,
+"lid1":92,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":7,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:58",
+"medianTravelTime_seconds":672.0000,
+"medianTravelTime_timeString":"00:11:12"
+},
+{
+"sid":"144140",
+"lid0":144,
+"lid1":140,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":66,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:29",
+"medianTravelTime_seconds":185.5000,
+"medianTravelTime_timeString":"00:03:06"
+},
+{
+"sid":"145121",
+"lid0":145,
+"lid1":121,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":79,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:54:22",
+"medianTravelTime_seconds":213.0000,
+"medianTravelTime_timeString":"00:03:33"
+},
+{
+"sid":"145126",
+"lid0":145,
+"lid1":126,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:54:06",
+"medianTravelTime_seconds":652.5000,
+"medianTravelTime_timeString":"00:10:52"
+},
+{
+"sid":"146121",
+"lid0":146,
+"lid1":121,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:00",
+"medianTravelTime_seconds":193.0000,
+"medianTravelTime_timeString":"00:03:13"
+},
+{
+"sid":"146139",
+"lid0":146,
+"lid1":139,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":42,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:26",
+"medianTravelTime_seconds":231.0000,
+"medianTravelTime_timeString":"00:03:51"
+},
+{
+"sid":"147150",
+"lid0":147,
+"lid1":150,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":8,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:18",
+"medianTravelTime_seconds":118.5000,
+"medianTravelTime_timeString":"00:01:58"
+},
+{
+"sid":"148150",
+"lid0":148,
+"lid1":150,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":12,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:00",
+"medianTravelTime_seconds":221.0000,
+"medianTravelTime_timeString":"00:03:41"
+},
+{
+"sid":"148151",
+"lid0":148,
+"lid1":151,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":173,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:31",
+"medianTravelTime_seconds":122.0000,
+"medianTravelTime_timeString":"00:02:02"
+},
+{
+"sid":"150147",
+"lid0":150,
+"lid1":147,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":25,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:41",
+"medianTravelTime_seconds":151.0000,
+"medianTravelTime_timeString":"00:02:31"
+},
+{
+"sid":"150148",
+"lid0":150,
+"lid1":148,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":132,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:09",
+"medianTravelTime_seconds":297.5000,
+"medianTravelTime_timeString":"00:04:58"
+},
+{
+"sid":"151148",
+"lid0":151,
+"lid1":148,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":33,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:20",
+"medianTravelTime_seconds":46.0000,
+"medianTravelTime_timeString":"00:00:46"
+},
+{
+"sid":"154182",
+"lid0":154,
+"lid1":182,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":25,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:32",
+"medianTravelTime_seconds":203.0000,
+"medianTravelTime_timeString":"00:03:23"
+},
+{
+"sid":"155180",
+"lid0":155,
+"lid1":180,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":24,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:36",
+"medianTravelTime_seconds":205.5000,
+"medianTravelTime_timeString":"00:03:26"
+},
+{
+"sid":"156181",
+"lid0":156,
+"lid1":181,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":60,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:09",
+"medianTravelTime_seconds":211.0000,
+"medianTravelTime_timeString":"00:03:31"
+},
+{
+"sid":"157158",
+"lid0":157,
+"lid1":158,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":9,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:20",
+"medianTravelTime_seconds":375.0000,
+"medianTravelTime_timeString":"00:06:15"
+},
+{
+"sid":"157159",
+"lid0":157,
+"lid1":159,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:05",
+"medianTravelTime_seconds":576.0000,
+"medianTravelTime_timeString":"00:09:36"
+},
+{
+"sid":"157160",
+"lid0":157,
+"lid1":160,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:56",
+"medianTravelTime_seconds":290.0000,
+"medianTravelTime_timeString":"00:04:50"
+},
+{
+"sid":"157177",
+"lid0":157,
+"lid1":177,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":5,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:46",
+"medianTravelTime_seconds":137.0000,
+"medianTravelTime_timeString":"00:02:17"
+},
+{
+"sid":"158157",
+"lid0":158,
+"lid1":157,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:30",
+"medianTravelTime_seconds":240.5000,
+"medianTravelTime_timeString":"00:04:00"
+},
+{
+"sid":"158165",
+"lid0":158,
+"lid1":165,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":62,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:26",
+"medianTravelTime_seconds":37.0000,
+"medianTravelTime_timeString":"00:00:37"
+},
+{
+"sid":"158185",
+"lid0":158,
+"lid1":185,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":167,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:19",
+"medianTravelTime_seconds":83.0000,
+"medianTravelTime_timeString":"00:01:23"
+},
+{
+"sid":"159157",
+"lid0":159,
+"lid1":157,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":10,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:55",
+"medianTravelTime_seconds":356.5000,
+"medianTravelTime_timeString":"00:05:56"
+},
+{
+"sid":"159176",
+"lid0":159,
+"lid1":176,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":16,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:29",
+"medianTravelTime_seconds":217.0000,
+"medianTravelTime_timeString":"00:03:37"
+},
+{
+"sid":"159179",
+"lid0":159,
+"lid1":179,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":17,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:15",
+"medianTravelTime_seconds":147.0000,
+"medianTravelTime_timeString":"00:02:27"
+},
+{
+"sid":"160157",
+"lid0":160,
+"lid1":157,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:05",
+"medianTravelTime_seconds":497.5000,
+"medianTravelTime_timeString":"00:08:18"
+},
+{
+"sid":"160159",
+"lid0":160,
+"lid1":159,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":38,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:40",
+"medianTravelTime_seconds":91.0000,
+"medianTravelTime_timeString":"00:01:31"
+},
+{
+"sid":"160183",
+"lid0":160,
+"lid1":183,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":10,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:37",
+"medianTravelTime_seconds":225.0000,
+"medianTravelTime_timeString":"00:03:45"
+},
+{
+"sid":"161162",
+"lid0":161,
+"lid1":162,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":28,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:00",
+"medianTravelTime_seconds":218.0000,
+"medianTravelTime_timeString":"00:03:38"
+},
+{
+"sid":"161183",
+"lid0":161,
+"lid1":183,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":3,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:00",
+"medianTravelTime_seconds":430.0000,
+"medianTravelTime_timeString":"00:07:10"
+},
+{
+"sid":"162159",
+"lid0":162,
+"lid1":159,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:32",
+"medianTravelTime_seconds":286.5000,
+"medianTravelTime_timeString":"00:04:46"
+},
+{
+"sid":"162175",
+"lid0":162,
+"lid1":175,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":9,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:06",
+"medianTravelTime_seconds":109.0000,
+"medianTravelTime_timeString":"00:01:49"
+},
+{
+"sid":"162179",
+"lid0":162,
+"lid1":179,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":45,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:28",
+"medianTravelTime_seconds":148.0000,
+"medianTravelTime_timeString":"00:02:28"
+},
+{
+"sid":"163157",
+"lid0":163,
+"lid1":157,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":15,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:21",
+"medianTravelTime_seconds":354.0000,
+"medianTravelTime_timeString":"00:05:54"
+},
+{
+"sid":"163164",
+"lid0":163,
+"lid1":164,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":15,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:53",
+"medianTravelTime_seconds":310.0000,
+"medianTravelTime_timeString":"00:05:10"
+},
+{
+"sid":"164163",
+"lid0":164,
+"lid1":163,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":13,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:32",
+"medianTravelTime_seconds":118.0000,
+"medianTravelTime_timeString":"00:01:58"
+},
+{
+"sid":"165158",
+"lid0":165,
+"lid1":158,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:52",
+"medianTravelTime_seconds":810.0000,
+"medianTravelTime_timeString":"00:13:30"
+},
+{
+"sid":"165164",
+"lid0":165,
+"lid1":164,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":76,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:35",
+"medianTravelTime_seconds":100.5000,
+"medianTravelTime_timeString":"00:01:40"
+},
+{
+"sid":"167168",
+"lid0":167,
+"lid1":168,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":40,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:26",
+"medianTravelTime_seconds":348.5000,
+"medianTravelTime_timeString":"00:05:48"
+},
+{
+"sid":"168167",
+"lid0":168,
+"lid1":167,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":32,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:35",
+"medianTravelTime_seconds":182.5000,
+"medianTravelTime_timeString":"00:03:02"
+},
+{
+"sid":"170095",
+"lid0":170,
+"lid1":95,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":14,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:35",
+"medianTravelTime_seconds":121.5000,
+"medianTravelTime_timeString":"00:02:02"
+},
+{
+"sid":"172173",
+"lid0":172,
+"lid1":173,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":267,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:47",
+"medianTravelTime_seconds":98.0000,
+"medianTravelTime_timeString":"00:01:38"
+},
+{
+"sid":"173172",
+"lid0":173,
+"lid1":172,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":177,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:27",
+"medianTravelTime_seconds":96.0000,
+"medianTravelTime_timeString":"00:01:36"
+},
+{
+"sid":"175184",
+"lid0":175,
+"lid1":184,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:27",
+"medianTravelTime_seconds":519.5000,
+"medianTravelTime_timeString":"00:08:40"
+},
+{
+"sid":"176177",
+"lid0":176,
+"lid1":177,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":30,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:42",
+"medianTravelTime_seconds":316.0000,
+"medianTravelTime_timeString":"00:05:16"
+},
+{
+"sid":"176184",
+"lid0":176,
+"lid1":184,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":40,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:49",
+"medianTravelTime_seconds":135.5000,
+"medianTravelTime_timeString":"00:02:16"
+},
+{
+"sid":"177157",
+"lid0":177,
+"lid1":157,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":4,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:39:28",
+"medianTravelTime_seconds":149.0000,
+"medianTravelTime_timeString":"00:02:29"
+},
+{
+"sid":"177176",
+"lid0":177,
+"lid1":176,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":47,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:40:42",
+"medianTravelTime_seconds":165.0000,
+"medianTravelTime_timeString":"00:02:45"
+},
+{
+"sid":"177178",
+"lid0":177,
+"lid1":178,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":30,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:13",
+"medianTravelTime_seconds":108.0000,
+"medianTravelTime_timeString":"00:01:48"
+},
+{
+"sid":"178177",
+"lid0":178,
+"lid1":177,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":25,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:56",
+"medianTravelTime_seconds":338.0000,
+"medianTravelTime_timeString":"00:05:38"
+},
+{
+"sid":"179159",
+"lid0":179,
+"lid1":159,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":29,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:08",
+"medianTravelTime_seconds":174.0000,
+"medianTravelTime_timeString":"00:02:54"
+},
+{
+"sid":"179162",
+"lid0":179,
+"lid1":162,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:44:53",
+"medianTravelTime_seconds":484.0000,
+"medianTravelTime_timeString":"00:08:04"
+},
+{
+"sid":"180155",
+"lid0":180,
+"lid1":155,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":55,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:51:06",
+"medianTravelTime_seconds":245.0000,
+"medianTravelTime_timeString":"00:04:05"
+},
+{
+"sid":"181154",
+"lid0":181,
+"lid1":154,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":21,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:04",
+"medianTravelTime_seconds":526.0000,
+"medianTravelTime_timeString":"00:08:46"
+},
+{
+"sid":"181156",
+"lid0":181,
+"lid1":156,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":5,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:03",
+"medianTravelTime_seconds":495.0000,
+"medianTravelTime_timeString":"00:08:15"
+},
+{
+"sid":"182154",
+"lid0":182,
+"lid1":154,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":13,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:42:07",
+"medianTravelTime_seconds":179.0000,
+"medianTravelTime_timeString":"00:02:59"
+},
+{
+"sid":"183160",
+"lid0":183,
+"lid1":160,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":5,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:06",
+"medianTravelTime_seconds":277.0000,
+"medianTravelTime_timeString":"00:04:37"
+},
+{
+"sid":"183161",
+"lid0":183,
+"lid1":161,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":10,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:53:14",
+"medianTravelTime_seconds":283.0000,
+"medianTravelTime_timeString":"00:04:43"
+},
+{
+"sid":"184175",
+"lid0":184,
+"lid1":175,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":79,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:41:11",
+"medianTravelTime_seconds":105.0000,
+"medianTravelTime_timeString":"00:01:45"
+},
+{
+"sid":"185158",
+"lid0":185,
+"lid1":158,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":8,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:06",
+"medianTravelTime_seconds":100.0000,
+"medianTravelTime_timeString":"00:01:40"
+},
+{
+"sid":"188189",
+"lid0":188,
+"lid1":189,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":7,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:52:44",
+"medianTravelTime_seconds":161.0000,
+"medianTravelTime_timeString":"00:02:41"
+},
+{
+"sid":"188190",
+"lid0":188,
+"lid1":190,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":17,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:15",
+"medianTravelTime_seconds":132.0000,
+"medianTravelTime_timeString":"00:02:12"
+},
+{
+"sid":"189022",
+"lid0":189,
+"lid1":22,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":20,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:11",
+"medianTravelTime_seconds":336.5000,
+"medianTravelTime_timeString":"00:05:36"
+},
+{
+"sid":"189191",
+"lid0":189,
+"lid1":191,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":1,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:05",
+"medianTravelTime_seconds":372.0000,
+"medianTravelTime_timeString":"00:06:12"
+},
+{
+"sid":"190188",
+"lid0":190,
+"lid1":188,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":2,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:29",
+"medianTravelTime_seconds":766.0000,
+"medianTravelTime_timeString":"00:12:46"
+},
+{
+"sid":"190191",
+"lid0":190,
+"lid1":191,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":50,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:48:47",
+"medianTravelTime_seconds":158.0000,
+"medianTravelTime_timeString":"00:02:38"
+},
+{
+"sid":"191021",
+"lid0":191,
+"lid1":21,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":23,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:22",
+"medianTravelTime_seconds":323.0000,
+"medianTravelTime_timeString":"00:05:23"
+},
+{
+"sid":"191189",
+"lid0":191,
+"lid1":189,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":19,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:19",
+"medianTravelTime_seconds":148.0000,
+"medianTravelTime_timeString":"00:02:28"
+},
+{
+"sid":"191192",
+"lid0":191,
+"lid1":192,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":13,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:50:59",
+"medianTravelTime_seconds":188.0000,
+"medianTravelTime_timeString":"00:03:08"
+},
+{
+"sid":"192191",
+"lid0":192,
+"lid1":191,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":26,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:43:25",
+"medianTravelTime_seconds":99.5000,
+"medianTravelTime_timeString":"00:01:40"
+},
+{
+"sid":"192193",
+"lid0":192,
+"lid1":193,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":57,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:45:51",
+"medianTravelTime_seconds":190.0000,
+"medianTravelTime_timeString":"00:03:10"
+},
+{
+"sid":"193021",
+"lid0":193,
+"lid1":21,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":16,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:47:36",
+"medianTravelTime_seconds":69.0000,
+"medianTravelTime_timeString":"00:01:09"
+},
+{
+"sid":"193055",
+"lid0":193,
+"lid1":55,
+"aggregationPeriod":"00:15:00",
+"numberOfRecordsInAggregationPeriod":8,
+"medianTravelTime_timeStamp":"2019\/8\/6 14:46:49",
+"medianTravelTime_seconds":546.0000,
+"medianTravelTime_timeString":"00:09:06"
+}
+]
+}

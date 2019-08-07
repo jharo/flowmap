@@ -1,0 +1,26 @@
+{
+"RECORDS":[
+{
+"id":1,
+"station_name":"Brooklyn Bridge",
+"model":"CR800",
+"serial":26771,
+"os_version":"CR800.Std.25",
+"dld_name":"CPU:NYCDOT_20130726.CR8",
+"dld_sig":"35406",
+"latitude":40.706091,
+"longitude":-73.996933
+},
+{
+"id":2,
+"station_name":"Queensboro Bridge",
+"model":"CR800",
+"serial":26772,
+"os_version":"CR800.Std.25",
+"dld_name":"CPU:NYCDOT_20130726.CR8",
+"dld_sig":"35406",
+"latitude":40.755681,
+"longitude":-73.951899
+}
+]
+}
